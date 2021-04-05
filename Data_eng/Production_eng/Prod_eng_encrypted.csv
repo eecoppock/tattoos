@@ -1,0 +1,289 @@
+"Timestamp","participant.id","Consent","Condition","Response","Normal_Utt","Specificity","Directionality"
+"11/20/19 15:56","000b269a1c3054c5c7e5d410","I agree.","Target_F4","Her small toe","small toe",1,0
+"11/20/19 15:56","00b85b1e940d9eb510031e10","I agree.","Target_F4","her second to last toe","second to last toe",1,0
+"11/20/19 15:56","001457b319a8b4d566085e71","I agree.","Target_F4","her toe","toe",0,0
+"11/20/19 15:58","009c05e2d9698dc53b948510","I agree.","Target_F4","toe","toe",0,0
+"11/20/19 15:58","e2dac50e088e2dd53562107d","I agree.","Target_F4","Her toe.","toe",0,0
+"11/20/19 15:58","b6b99fdfc5659855cd61060d","I agree.","Target_F4","her little toe.","little toe",1,0
+"11/20/19 15:58","007ff7b5e70b8eb58554c310","I agree.","Target_F4","her toe.","toe",0,0
+"11/20/19 15:59","0026366ef925ead56b830e21","I agree.","Target_F4","one of her toes","toe",0,0
+"11/20/19 15:59","4942c92a535eccd5a9dd516f","I agree.","Target_F4","second to last toe","second to last toe",1,0
+"11/20/19 16:00","60d17329b3d1fcd502449e87","I agree.","Target_F4","her left fourth toe","fourth toe",1,1
+"11/20/19 16:00","007284171a1b46d58d59db10","I agree.","Target_F4","toe","toe",0,0
+"11/20/19 16:00","9140ce162d2bbbd5e0ac3420","I agree.","Target_F4","Her toe","toe",0,0
+"11/20/19 16:01","008cc0094223d875407e2d10","I agree.","Target_F4","one of her toes","toe",0,0
+"11/20/19 16:01","00229a47cd2e7da5a190ab10","I agree.","Target_F4","toe","toe",0,0
+"11/20/19 16:01","00ee0a42421f6eb54e36ea10","I agree.","Target_F4","her fourth toe on her left foot","fourth toe",1,1
+"11/20/19 16:02","f2d1898994be2dd5b7e6d3d9","I agree.","Target_F4","one of her toes","toe",0,0
+"11/20/19 16:02","00c0b918f0a8b5c5a4a50710","I agree.","Target_F4","her toe","toe",0,0
+"11/20/19 16:02","0094270303ac0cb56a4ddc10","I agree.","Target_F4","Her ring toe","ring toe",1,0
+"11/20/19 16:03","00aac0cfbc113a952ce12110","I agree.","Target_F4","toe","toe",0,0
+"11/20/19 16:03","00e6f5302aa25085e4627d10","I agree.","Target_F4","her toe.","toe",0,0
+"11/20/19 16:03","231fd8b89f123dd5bdd6a31c","I agree.","Target_F4","On the second from the left toe on her left foot.","second to last toe",1,1
+"11/20/19 16:03","00156bdc5d1573d5bfe45410","I agree.","Target_F4","her ring toe","ring toe",1,0
+"11/20/19 16:06","c36aaad5dc3e3dd58bb7bdf5","I agree.","Target_F4","her toe next to her left pinky toe.","second to last toe",1,1
+"11/20/19 16:48","005870c25aeda6c579618f10","I agree.","Target_F4","her toe","toe",0,0
+"11/20/19 15:56","000b269a1c3054c5c7e5d410","I agree.","Target_H4","Her ring finger","ring finger",1,0
+"11/20/19 15:56","00b85b1e940d9eb510031e10","I agree.","Target_H4","her ring finger","ring finger",1,0
+"11/20/19 15:56","001457b319a8b4d566085e71","I agree.","Target_H4","her finger","finger",0,0
+"11/20/19 15:58","009c05e2d9698dc53b948510","I agree.","Target_H4","ring finger","finger",0,0
+"11/20/19 15:58","e2dac50e088e2dd53562107d","I agree.","Target_H4","Her finger.","finger",0,0
+"11/20/19 15:58","b6b99fdfc5659855cd61060d","I agree.","Target_H4","her ring finger.","ring finger",1,0
+"11/20/19 15:58","007ff7b5e70b8eb58554c310","I agree.","Target_H4","her ring finger.","ring finger",1,0
+"11/20/19 15:59","0026366ef925ead56b830e21","I agree.","Target_H4","her ring finger","ring finger",1,0
+"11/20/19 15:59","4942c92a535eccd5a9dd516f","I agree.","Target_H4","ring finger","ring finger",1,0
+"11/20/19 16:00","60d17329b3d1fcd502449e87","I agree.","Target_H4","her left ring finger","ring finger",1,1
+"11/20/19 16:00","007284171a1b46d58d59db10","I agree.","Target_H4","finger","finger",0,0
+"11/20/19 16:00","9140ce162d2bbbd5e0ac3420","I agree.","Target_H4","Her ring finger","ring finger",1,0
+"11/20/19 16:01","008cc0094223d875407e2d10","I agree.","Target_H4","her ring finger","ring finger",1,0
+"11/20/19 16:01","00229a47cd2e7da5a190ab10","I agree.","Target_H4","ring finger","ring finger",1,0
+"11/20/19 16:01","00ee0a42421f6eb54e36ea10","I agree.","Target_H4","her left ring finger","ring finger",1,1
+"11/20/19 16:02","f2d1898994be2dd5b7e6d3d9","I agree.","Target_H4","her ring finger","ring finger",1,0
+"11/20/19 16:02","00c0b918f0a8b5c5a4a50710","I agree.","Target_H4","her ring finger","ring finger",1,0
+"11/20/19 16:02","0094270303ac0cb56a4ddc10","I agree.","Target_H4","Her ring finger.","ring finger",1,0
+"11/20/19 16:03","00aac0cfbc113a952ce12110","I agree.","Target_H4","ring finger","ring finger",1,0
+"11/20/19 16:03","00e6f5302aa25085e4627d10","I agree.","Target_H4","her finger.","ring finger",1,0
+"11/20/19 16:03","231fd8b89f123dd5bdd6a31c","I agree.","Target_H4","Her left ring finger.","ring finger",1,1
+"11/20/19 16:03","00156bdc5d1573d5bfe45410","I agree.","Target_H4","her ring finger","ring finger",1,0
+"11/20/19 16:06","c36aaad5dc3e3dd58bb7bdf5","I agree.","Target_H4","her left hand ring finger.","ring finger",1,1
+"11/20/19 16:48","005870c25aeda6c579618f10","I agree.","Target_H4","ring finger","ring finger",1,0
+"11/20/19 15:56","000b269a1c3054c5c7e5d410","I agree.","Target_H1","Her thumb","thumb",1,0
+"11/20/19 15:56","00b85b1e940d9eb510031e10","I agree.","Target_H1","her thumb","thumb",1,0
+"11/20/19 15:56","001457b319a8b4d566085e71","I agree.","Target_H1","her thumbm","thumb",1,0
+"11/20/19 15:58","009c05e2d9698dc53b948510","I agree.","Target_H1","thumb","thumb",1,0
+"11/20/19 15:58","e2dac50e088e2dd53562107d","I agree.","Target_H1","Her thumb.","thumb",1,0
+"11/20/19 15:58","b6b99fdfc5659855cd61060d","I agree.","Target_H1","her thumb.","thumb",1,0
+"11/20/19 15:58","007ff7b5e70b8eb58554c310","I agree.","Target_H1","her thumb.","thumb",1,0
+"11/20/19 15:59","0026366ef925ead56b830e21","I agree.","Target_H1","her thumb","thumb",1,0
+"11/20/19 15:59","4942c92a535eccd5a9dd516f","I agree.","Target_H1","Her thumb and hand","thumb",1,0
+"11/20/19 16:00","60d17329b3d1fcd502449e87","I agree.","Target_H1","her left thumb","thumb",1,1
+"11/20/19 16:00","007284171a1b46d58d59db10","I agree.","Target_H1","thumb","thumb",1,0
+"11/20/19 16:00","9140ce162d2bbbd5e0ac3420","I agree.","Target_H1","Her thumb","thumb",1,0
+"11/20/19 16:01","008cc0094223d875407e2d10","I agree.","Target_H1","her thumb","thumb",1,0
+"11/20/19 16:01","00229a47cd2e7da5a190ab10","I agree.","Target_H1","thumb","thumb",1,0
+"11/20/19 16:01","00ee0a42421f6eb54e36ea10","I agree.","Target_H1","her left thumb","thumb",1,1
+"11/20/19 16:02","f2d1898994be2dd5b7e6d3d9","I agree.","Target_H1","her thumb","thumb",1,0
+"11/20/19 16:02","00c0b918f0a8b5c5a4a50710","I agree.","Target_H1","her thumb","thumb",1,0
+"11/20/19 16:02","0094270303ac0cb56a4ddc10","I agree.","Target_H1","Her thumb.","thumb",1,0
+"11/20/19 16:03","00aac0cfbc113a952ce12110","I agree.","Target_H1","thumb","thumb",1,0
+"11/20/19 16:03","00e6f5302aa25085e4627d10","I agree.","Target_H1","her thumb.","thumb",1,0
+"11/20/19 16:03","231fd8b89f123dd5bdd6a31c","I agree.","Target_H1","Her left thumb.","thumb",1,1
+"11/20/19 16:03","00156bdc5d1573d5bfe45410","I agree.","Target_H1","her left thumb","thumb",1,1
+"11/20/19 16:06","c36aaad5dc3e3dd58bb7bdf5","I agree.","Target_H1","the base of her left thumb.","thumb",1,1
+"11/20/19 16:48","005870c25aeda6c579618f10","I agree.","Target_H1","left thumb","thumb",1,1
+"11/20/19 15:56","000b269a1c3054c5c7e5d410","I agree.","Target_H5","Her finger","finger",0,0
+"11/20/19 15:56","00b85b1e940d9eb510031e10","I agree.","Target_H5","her pinky","pinky",1,0
+"11/20/19 15:56","001457b319a8b4d566085e71","I agree.","Target_H5","her finger","finger",0,0
+"11/20/19 15:58","009c05e2d9698dc53b948510","I agree.","Target_H5","pinky","pinky",1,0
+"11/20/19 15:58","e2dac50e088e2dd53562107d","I agree.","Target_H5","Her pinky.","pinky",1,0
+"11/20/19 15:58","b6b99fdfc5659855cd61060d","I agree.","Target_H5","her pinky finger.","pinky finger",1,0
+"11/20/19 15:58","007ff7b5e70b8eb58554c310","I agree.","Target_H5","her pinky finger.","pinky finger",1,0
+"11/20/19 15:59","0026366ef925ead56b830e21","I agree.","Target_H5","her pinky","pinky",1,0
+"11/20/19 15:59","4942c92a535eccd5a9dd516f","I agree.","Target_H5","Her pinky","pinky",1,0
+"11/20/19 16:00","60d17329b3d1fcd502449e87","I agree.","Target_H5","her left pinky finger","pinky finger",1,1
+"11/20/19 16:00","007284171a1b46d58d59db10","I agree.","Target_H5","pinky","pinky",1,0
+"11/20/19 16:00","9140ce162d2bbbd5e0ac3420","I agree.","Target_H5","Her pinky","pinky",1,0
+"11/20/19 16:01","008cc0094223d875407e2d10","I agree.","Target_H5","her pinky","pinky",1,0
+"11/20/19 16:01","00229a47cd2e7da5a190ab10","I agree.","Target_H5","pinky","pinky",1,0
+"11/20/19 16:01","00ee0a42421f6eb54e36ea10","I agree.","Target_H5","her left pinky","pinky",1,1
+"11/20/19 16:02","f2d1898994be2dd5b7e6d3d9","I agree.","Target_H5","her pinky finger","pinky finger",1,0
+"11/20/19 16:02","00c0b918f0a8b5c5a4a50710","I agree.","Target_H5","her pinky finger","pinky finger",1,0
+"11/20/19 16:02","0094270303ac0cb56a4ddc10","I agree.","Target_H5","Her pinky finger.","pinky finger",1,0
+"11/20/19 16:03","00aac0cfbc113a952ce12110","I agree.","Target_H5","pinky finger","pinky finger",1,0
+"11/20/19 16:03","00e6f5302aa25085e4627d10","I agree.","Target_H5","her finger.","finger",0,0
+"11/20/19 16:03","231fd8b89f123dd5bdd6a31c","I agree.","Target_H5","Her left pinky finger.","pinky finger",1,1
+"11/20/19 16:03","00156bdc5d1573d5bfe45410","I agree.","Target_H5","her pinky finger","pinky finger",1,0
+"11/20/19 16:06","c36aaad5dc3e3dd58bb7bdf5","I agree.","Target_H5","the top of her left pinky finger between her first and second knuckle.","pinky finger",1,1
+"11/20/19 16:48","005870c25aeda6c579618f10","I agree.","Target_H5","pinky","pinky",1,0
+"11/20/19 15:56","000b269a1c3054c5c7e5d410","I agree.","Target_F1","Her big toe","big toe",1,0
+"11/20/19 15:56","00b85b1e940d9eb510031e10","I agree.","Target_F1","her big toe","big toe",1,0
+"11/20/19 15:56","001457b319a8b4d566085e71","I agree.","Target_F1","her toe","toe",0,0
+"11/20/19 15:58","009c05e2d9698dc53b948510","I agree.","Target_F1","big toe","big toe",1,0
+"11/20/19 15:58","e2dac50e088e2dd53562107d","I agree.","Target_F1","Her big toe.","big toe",1,0
+"11/20/19 15:58","b6b99fdfc5659855cd61060d","I agree.","Target_F1","her toe.","toe",0,0
+"11/20/19 15:58","007ff7b5e70b8eb58554c310","I agree.","Target_F1","her big toe.","big toe",1,0
+"11/20/19 15:59","0026366ef925ead56b830e21","I agree.","Target_F1","her big toe","big toe",1,0
+"11/20/19 15:59","4942c92a535eccd5a9dd516f","I agree.","Target_F1","her big toe","big toe",1,0
+"11/20/19 16:00","60d17329b3d1fcd502449e87","I agree.","Target_F1","her right big toe","big toe",1,1
+"11/20/19 16:00","007284171a1b46d58d59db10","I agree.","Target_F1","toe","toe",0,0
+"11/20/19 16:00","9140ce162d2bbbd5e0ac3420","I agree.","Target_F1","Her big toe","big toe",1,0
+"11/20/19 16:01","008cc0094223d875407e2d10","I agree.","Target_F1","on her big toe","big toe",1,0
+"11/20/19 16:01","00229a47cd2e7da5a190ab10","I agree.","Target_F1","her big toe","big toe",1,0
+"11/20/19 16:01","00ee0a42421f6eb54e36ea10","I agree.","Target_F1","her right big toe","big toe",1,1
+"11/20/19 16:02","f2d1898994be2dd5b7e6d3d9","I agree.","Target_F1","her big toe","big toe",1,0
+"11/20/19 16:02","00c0b918f0a8b5c5a4a50710","I agree.","Target_F1","her big toe","big toe",1,0
+"11/20/19 16:02","0094270303ac0cb56a4ddc10","I agree.","Target_F1","Her big toe.","big toe",1,0
+"11/20/19 16:03","00aac0cfbc113a952ce12110","I agree.","Target_F1","big toe","big toe",1,0
+"11/20/19 16:03","00e6f5302aa25085e4627d10","I agree.","Target_F1","her toe.","toe",0,0
+"11/20/19 16:03","231fd8b89f123dd5bdd6a31c","I agree.","Target_F1","Her right big toe.","big toe",1,1
+"11/20/19 16:03","00156bdc5d1573d5bfe45410","I agree.","Target_F1","right big toe","big toe",1,1
+"11/20/19 16:06","c36aaad5dc3e3dd58bb7bdf5","I agree.","Target_F1","the top of her right big toe.","big toe",1,1
+"11/20/19 16:48","005870c25aeda6c579618f10","I agree.","Target_F1","big toe","big toe",1,0
+"11/20/19 15:56","000b269a1c3054c5c7e5d410","I agree.","Target_F_5","Her toe","toe",0,0
+"11/20/19 15:56","00b85b1e940d9eb510031e10","I agree.","Target_F_5","her pinky toe","pinky toe",1,0
+"11/20/19 15:56","001457b319a8b4d566085e71","I agree.","Target_F_5","her toe","toe",0,0
+"11/20/19 15:58","009c05e2d9698dc53b948510","I agree.","Target_F_5","pinky toe","pinky toe",1,0
+"11/20/19 15:58","e2dac50e088e2dd53562107d","I agree.","Target_F_5","Her pinky toe.","pinky toe",1,0
+"11/20/19 15:58","b6b99fdfc5659855cd61060d","I agree.","Target_F_5","her little toe. ","little toe",1,0
+"11/20/19 15:58","007ff7b5e70b8eb58554c310","I agree.","Target_F_5","her toe.","toe",0,0
+"11/20/19 15:59","0026366ef925ead56b830e21","I agree.","Target_F_5","her little toe","little toe",1,0
+"11/20/19 15:59","4942c92a535eccd5a9dd516f","I agree.","Target_F_5","her pinky toe","pinky toe",1,0
+"11/20/19 16:00","60d17329b3d1fcd502449e87","I agree.","Target_F_5","her right pinky toe","pinky toe",1,1
+"11/20/19 16:00","007284171a1b46d58d59db10","I agree.","Target_F_5","toe","toe",0,0
+"11/20/19 16:00","9140ce162d2bbbd5e0ac3420","I agree.","Target_F_5","Her pinky toe","pinky toe",1,0
+"11/20/19 16:01","008cc0094223d875407e2d10","I agree.","Target_F_5","on her pinky toe","pinky toe",1,0
+"11/20/19 16:01","00229a47cd2e7da5a190ab10","I agree.","Target_F_5","little toe","little toe",1,0
+"11/20/19 16:01","00ee0a42421f6eb54e36ea10","I agree.","Target_F_5","her baby toe","baby toe",1,0
+"11/20/19 16:02","f2d1898994be2dd5b7e6d3d9","I agree.","Target_F_5","her little toe","little toe",1,0
+"11/20/19 16:02","00c0b918f0a8b5c5a4a50710","I agree.","Target_F_5","her smallest toe","smallest toe",1,0
+"11/20/19 16:02","0094270303ac0cb56a4ddc10","I agree.","Target_F_5","Her little toe","little toe",1,0
+"11/20/19 16:03","00aac0cfbc113a952ce12110","I agree.","Target_F_5","little toe","little toe",1,0
+"11/20/19 16:03","00e6f5302aa25085e4627d10","I agree.","Target_F_5","her toe.","toe",0,0
+"11/20/19 16:03","231fd8b89f123dd5bdd6a31c","I agree.","Target_F_5","Her right pinky toe.","pinky toe",1,1
+"11/20/19 16:03","00156bdc5d1573d5bfe45410","I agree.","Target_F_5","her pinky toe","pinky toe",1,0
+"11/20/19 16:06","c36aaad5dc3e3dd58bb7bdf5","I agree.","Target_F_5","her right pinky toe.","pinky toe",1,1
+"11/20/19 16:48","005870c25aeda6c579618f10","I agree.","Target_F_5","pinky toe","pinky toe",1,0
+"11/20/19 15:56","000b269a1c3054c5c7e5d410","I agree.","Filler_Arm","Her arm","",NA,NA
+"11/20/19 15:56","00b85b1e940d9eb510031e10","I agree.","Filler_Arm","her left upper arm","",NA,NA
+"11/20/19 15:56","001457b319a8b4d566085e71","I agree.","Filler_Arm","her arm","",NA,NA
+"11/20/19 15:58","009c05e2d9698dc53b948510","I agree.","Filler_Arm","arm","",NA,NA
+"11/20/19 15:58","e2dac50e088e2dd53562107d","I agree.","Filler_Arm","Her arm.","",NA,NA
+"11/20/19 15:58","b6b99fdfc5659855cd61060d","I agree.","Filler_Arm","her arm.","",NA,NA
+"11/20/19 15:58","007ff7b5e70b8eb58554c310","I agree.","Filler_Arm","her arm.","",NA,NA
+"11/20/19 15:59","0026366ef925ead56b830e21","I agree.","Filler_Arm","her upper arm","",NA,NA
+"11/20/19 15:59","4942c92a535eccd5a9dd516f","I agree.","Filler_Arm","her upper arm","",NA,NA
+"11/20/19 16:00","60d17329b3d1fcd502449e87","I agree.","Filler_Arm","her left upper arm","",NA,NA
+"11/20/19 16:00","007284171a1b46d58d59db10","I agree.","Filler_Arm","arm","",NA,NA
+"11/20/19 16:00","9140ce162d2bbbd5e0ac3420","I agree.","Filler_Arm","Her arm","",NA,NA
+"11/20/19 16:01","008cc0094223d875407e2d10","I agree.","Filler_Arm","her arm","",NA,NA
+"11/20/19 16:01","00229a47cd2e7da5a190ab10","I agree.","Filler_Arm","bicep","",NA,NA
+"11/20/19 16:01","00ee0a42421f6eb54e36ea10","I agree.","Filler_Arm","her arm","",NA,NA
+"11/20/19 16:02","f2d1898994be2dd5b7e6d3d9","I agree.","Filler_Arm","her upper arm","",NA,NA
+"11/20/19 16:02","00c0b918f0a8b5c5a4a50710","I agree.","Filler_Arm","her arm","",NA,NA
+"11/20/19 16:02","0094270303ac0cb56a4ddc10","I agree.","Filler_Arm","her arm.","",NA,NA
+"11/20/19 16:03","00aac0cfbc113a952ce12110","I agree.","Filler_Arm","arm ","",NA,NA
+"11/20/19 16:03","00e6f5302aa25085e4627d10","I agree.","Filler_Arm","her arm.","",NA,NA
+"11/20/19 16:03","231fd8b89f123dd5bdd6a31c","I agree.","Filler_Arm","Her left arm.","",NA,NA
+"11/20/19 16:03","00156bdc5d1573d5bfe45410","I agree.","Filler_Arm","her arm","",NA,NA
+"11/20/19 16:06","c36aaad5dc3e3dd58bb7bdf5","I agree.","Filler_Arm","her left arm.","",NA,NA
+"11/20/19 16:48","005870c25aeda6c579618f10","I agree.","Filler_Arm","left bicep","",NA,NA
+"11/20/19 15:56","000b269a1c3054c5c7e5d410","I agree.","Filler_Shoulder","Her back","",NA,NA
+"11/20/19 15:56","00b85b1e940d9eb510031e10","I agree.","Filler_Shoulder","her right shoulder","",NA,NA
+"11/20/19 15:56","001457b319a8b4d566085e71","I agree.","Filler_Shoulder","her shoulder","",NA,NA
+"11/20/19 15:58","009c05e2d9698dc53b948510","I agree.","Filler_Shoulder","shoulder","",NA,NA
+"11/20/19 15:58","e2dac50e088e2dd53562107d","I agree.","Filler_Shoulder","Her shoulder.","",NA,NA
+"11/20/19 15:58","b6b99fdfc5659855cd61060d","I agree.","Filler_Shoulder","her shoulder blade. ","",NA,NA
+"11/20/19 15:58","007ff7b5e70b8eb58554c310","I agree.","Filler_Shoulder","her shoulder.","",NA,NA
+"11/20/19 15:59","0026366ef925ead56b830e21","I agree.","Filler_Shoulder","her shoulder blade","",NA,NA
+"11/20/19 15:59","4942c92a535eccd5a9dd516f","I agree.","Filler_Shoulder","her back","",NA,NA
+"11/20/19 16:00","60d17329b3d1fcd502449e87","I agree.","Filler_Shoulder","her right shoulder blade","",NA,NA
+"11/20/19 16:00","007284171a1b46d58d59db10","I agree.","Filler_Shoulder","back","",NA,NA
+"11/20/19 16:00","9140ce162d2bbbd5e0ac3420","I agree.","Filler_Shoulder","Back of her shoulder","",NA,NA
+"11/20/19 16:01","008cc0094223d875407e2d10","I agree.","Filler_Shoulder","her shoulder blade","",NA,NA
+"11/20/19 16:01","00229a47cd2e7da5a190ab10","I agree.","Filler_Shoulder","shoulder","",NA,NA
+"11/20/19 16:01","00ee0a42421f6eb54e36ea10","I agree.","Filler_Shoulder","her shoulder","",NA,NA
+"11/20/19 16:02","f2d1898994be2dd5b7e6d3d9","I agree.","Filler_Shoulder","her shoulder blade","",NA,NA
+"11/20/19 16:02","00c0b918f0a8b5c5a4a50710","I agree.","Filler_Shoulder","her shoulder blade","",NA,NA
+"11/20/19 16:02","0094270303ac0cb56a4ddc10","I agree.","Filler_Shoulder","Her back","",NA,NA
+"11/20/19 16:03","00aac0cfbc113a952ce12110","I agree.","Filler_Shoulder","back shoulder","",NA,NA
+"11/20/19 16:03","00e6f5302aa25085e4627d10","I agree.","Filler_Shoulder","her back.","",NA,NA
+"11/20/19 16:03","231fd8b89f123dd5bdd6a31c","I agree.","Filler_Shoulder","Her right shoulder blade.","",NA,NA
+"11/20/19 16:03","00156bdc5d1573d5bfe45410","I agree.","Filler_Shoulder","her shoulder","",NA,NA
+"11/20/19 16:06","c36aaad5dc3e3dd58bb7bdf5","I agree.","Filler_Shoulder","her right shoulderblade.","",NA,NA
+"11/20/19 16:48","005870c25aeda6c579618f10","I agree.","Filler_Shoulder","right shoulder","",NA,NA
+"11/20/19 15:56","000b269a1c3054c5c7e5d410","I agree.","Filler_Back","Her upper back","",NA,NA
+"11/20/19 15:56","00b85b1e940d9eb510031e10","I agree.","Filler_Back","her upper back","",NA,NA
+"11/20/19 15:56","001457b319a8b4d566085e71","I agree.","Filler_Back","her back","",NA,NA
+"11/20/19 15:58","009c05e2d9698dc53b948510","I agree.","Filler_Back","back","",NA,NA
+"11/20/19 15:58","e2dac50e088e2dd53562107d","I agree.","Filler_Back","Her back.","",NA,NA
+"11/20/19 15:58","b6b99fdfc5659855cd61060d","I agree.","Filler_Back","her back. ","",NA,NA
+"11/20/19 15:58","007ff7b5e70b8eb58554c310","I agree.","Filler_Back","her upper back.","",NA,NA
+"11/20/19 15:59","0026366ef925ead56b830e21","I agree.","Filler_Back","her back","",NA,NA
+"11/20/19 15:59","4942c92a535eccd5a9dd516f","I agree.","Filler_Back","Her back","",NA,NA
+"11/20/19 16:00","60d17329b3d1fcd502449e87","I agree.","Filler_Back","the middle of her back","",NA,NA
+"11/20/19 16:00","007284171a1b46d58d59db10","I agree.","Filler_Back","back","",NA,NA
+"11/20/19 16:00","9140ce162d2bbbd5e0ac3420","I agree.","Filler_Back","Her upper back","",NA,NA
+"11/20/19 16:01","008cc0094223d875407e2d10","I agree.","Filler_Back","between her shoulders","",NA,NA
+"11/20/19 16:01","00229a47cd2e7da5a190ab10","I agree.","Filler_Back","upper back","",NA,NA
+"11/20/19 16:01","00ee0a42421f6eb54e36ea10","I agree.","Filler_Back","her upper back","",NA,NA
+"11/20/19 16:02","f2d1898994be2dd5b7e6d3d9","I agree.","Filler_Back","her upper back","",NA,NA
+"11/20/19 16:02","00c0b918f0a8b5c5a4a50710","I agree.","Filler_Back","her upper back","",NA,NA
+"11/20/19 16:02","0094270303ac0cb56a4ddc10","I agree.","Filler_Back","Her back in the middle ","",NA,NA
+"11/20/19 16:03","00aac0cfbc113a952ce12110","I agree.","Filler_Back","back","",NA,NA
+"11/20/19 16:03","00e6f5302aa25085e4627d10","I agree.","Filler_Back","her back.","",NA,NA
+"11/20/19 16:03","231fd8b89f123dd5bdd6a31c","I agree.","Filler_Back","Her upper back in between her shoulder blades.","",NA,NA
+"11/20/19 16:03","00156bdc5d1573d5bfe45410","I agree.","Filler_Back","her back","",NA,NA
+"11/20/19 16:06","c36aaad5dc3e3dd58bb7bdf5","I agree.","Filler_Back","her upper back.","",NA,NA
+"11/20/19 16:48","005870c25aeda6c579618f10","I agree.","Filler_Back","back of neck","",NA,NA
+"11/20/19 15:56","000b269a1c3054c5c7e5d410","I agree.","Filler_Calf","Her leg","",NA,NA
+"11/20/19 15:56","00b85b1e940d9eb510031e10","I agree.","Filler_Calf","her calf","",NA,NA
+"11/20/19 15:56","001457b319a8b4d566085e71","I agree.","Filler_Calf","her calf","",NA,NA
+"11/20/19 15:58","009c05e2d9698dc53b948510","I agree.","Filler_Calf","calf","",NA,NA
+"11/20/19 15:58","e2dac50e088e2dd53562107d","I agree.","Filler_Calf","Her leg.","",NA,NA
+"11/20/19 15:58","b6b99fdfc5659855cd61060d","I agree.","Filler_Calf","her calf. ","",NA,NA
+"11/20/19 15:58","007ff7b5e70b8eb58554c310","I agree.","Filler_Calf","her calf.","",NA,NA
+"11/20/19 15:59","0026366ef925ead56b830e21","I agree.","Filler_Calf","her calf","",NA,NA
+"11/20/19 15:59","4942c92a535eccd5a9dd516f","I agree.","Filler_Calf","calf","",NA,NA
+"11/20/19 16:00","60d17329b3d1fcd502449e87","I agree.","Filler_Calf","her left calf","",NA,NA
+"11/20/19 16:00","007284171a1b46d58d59db10","I agree.","Filler_Calf","calf","",NA,NA
+"11/20/19 16:00","9140ce162d2bbbd5e0ac3420","I agree.","Filler_Calf","The nack of her calf","",NA,NA
+"11/20/19 16:01","008cc0094223d875407e2d10","I agree.","Filler_Calf","her left calf","",NA,NA
+"11/20/19 16:01","00229a47cd2e7da5a190ab10","I agree.","Filler_Calf","calve","",NA,NA
+"11/20/19 16:01","00ee0a42421f6eb54e36ea10","I agree.","Filler_Calf","her calf","",NA,NA
+"11/20/19 16:02","f2d1898994be2dd5b7e6d3d9","I agree.","Filler_Calf","her calf","",NA,NA
+"11/20/19 16:02","00c0b918f0a8b5c5a4a50710","I agree.","Filler_Calf","her calf","",NA,NA
+"11/20/19 16:02","0094270303ac0cb56a4ddc10","I agree.","Filler_Calf","her back leg.","",NA,NA
+"11/20/19 16:03","00aac0cfbc113a952ce12110","I agree.","Filler_Calf","leg","",NA,NA
+"11/20/19 16:03","00e6f5302aa25085e4627d10","I agree.","Filler_Calf","her leg.","",NA,NA
+"11/20/19 16:03","231fd8b89f123dd5bdd6a31c","I agree.","Filler_Calf","Her left calf.","",NA,NA
+"11/20/19 16:03","00156bdc5d1573d5bfe45410","I agree.","Filler_Calf","left calf","",NA,NA
+"11/20/19 16:06","c36aaad5dc3e3dd58bb7bdf5","I agree.","Filler_Calf","her left calf.","",NA,NA
+"11/20/19 16:48","005870c25aeda6c579618f10","I agree.","Filler_Calf","left calf","",NA,NA
+"11/20/19 15:56","000b269a1c3054c5c7e5d410","I agree.","Filler_Knee","Her knee","",NA,NA
+"11/20/19 15:56","00b85b1e940d9eb510031e10","I agree.","Filler_Knee","her left knee","",NA,NA
+"11/20/19 15:56","001457b319a8b4d566085e71","I agree.","Filler_Knee","her knee","",NA,NA
+"11/20/19 15:58","009c05e2d9698dc53b948510","I agree.","Filler_Knee","knee","",NA,NA
+"11/20/19 15:58","e2dac50e088e2dd53562107d","I agree.","Filler_Knee","Her leg.","",NA,NA
+"11/20/19 15:58","b6b99fdfc5659855cd61060d","I agree.","Filler_Knee","her knees. ","",NA,NA
+"11/20/19 15:58","007ff7b5e70b8eb58554c310","I agree.","Filler_Knee","her knee.","",NA,NA
+"11/20/19 15:59","0026366ef925ead56b830e21","I agree.","Filler_Knee","her knee","",NA,NA
+"11/20/19 15:59","4942c92a535eccd5a9dd516f","I agree.","Filler_Knee","knee","",NA,NA
+"11/20/19 16:00","60d17329b3d1fcd502449e87","I agree.","Filler_Knee","her left knee","",NA,NA
+"11/20/19 16:00","007284171a1b46d58d59db10","I agree.","Filler_Knee","knee","",NA,NA
+"11/20/19 16:00","9140ce162d2bbbd5e0ac3420","I agree.","Filler_Knee","Her leg","",NA,NA
+"11/20/19 16:01","008cc0094223d875407e2d10","I agree.","Filler_Knee","her left knee","",NA,NA
+"11/20/19 16:01","00229a47cd2e7da5a190ab10","I agree.","Filler_Knee","knee","",NA,NA
+"11/20/19 16:01","00ee0a42421f6eb54e36ea10","I agree.","Filler_Knee","her left knee","",NA,NA
+"11/20/19 16:02","f2d1898994be2dd5b7e6d3d9","I agree.","Filler_Knee","Her knee","",NA,NA
+"11/20/19 16:02","00c0b918f0a8b5c5a4a50710","I agree.","Filler_Knee","her knee","",NA,NA
+"11/20/19 16:02","0094270303ac0cb56a4ddc10","I agree.","Filler_Knee","Her knee","",NA,NA
+"11/20/19 16:03","00aac0cfbc113a952ce12110","I agree.","Filler_Knee","Knee","",NA,NA
+"11/20/19 16:03","00e6f5302aa25085e4627d10","I agree.","Filler_Knee","her knee.","",NA,NA
+"11/20/19 16:03","231fd8b89f123dd5bdd6a31c","I agree.","Filler_Knee","Her left knee.","",NA,NA
+"11/20/19 16:03","00156bdc5d1573d5bfe45410","I agree.","Filler_Knee","her left knee","",NA,NA
+"11/20/19 16:06","c36aaad5dc3e3dd58bb7bdf5","I agree.","Filler_Knee","her left knee.","",NA,NA
+"11/20/19 16:48","005870c25aeda6c579618f10","I agree.","Filler_Knee","kneecap","",NA,NA
+"11/20/19 15:56","000b269a1c3054c5c7e5d410","I agree.","Filler_Forearm","Her inner arm","",NA,NA
+"11/20/19 15:56","00b85b1e940d9eb510031e10","I agree.","Filler_Forearm","her forearm","",NA,NA
+"11/20/19 15:56","001457b319a8b4d566085e71","I agree.","Filler_Forearm","her forearm","",NA,NA
+"11/20/19 15:58","009c05e2d9698dc53b948510","I agree.","Filler_Forearm","forearm","",NA,NA
+"11/20/19 15:58","e2dac50e088e2dd53562107d","I agree.","Filler_Forearm","Her arm.","",NA,NA
+"11/20/19 15:58","b6b99fdfc5659855cd61060d","I agree.","Filler_Forearm","her arm. ","",NA,NA
+"11/20/19 15:58","007ff7b5e70b8eb58554c310","I agree.","Filler_Forearm","her arm.","",NA,NA
+"11/20/19 15:59","0026366ef925ead56b830e21","I agree.","Filler_Forearm","in her forearm","",NA,NA
+"11/20/19 15:59","4942c92a535eccd5a9dd516f","I agree.","Filler_Forearm","forearm and wrist","",NA,NA
+"11/20/19 16:00","60d17329b3d1fcd502449e87","I agree.","Filler_Forearm","her inner forearm","",NA,NA
+"11/20/19 16:00","007284171a1b46d58d59db10","I agree.","Filler_Forearm","forearm","",NA,NA
+"11/20/19 16:00","9140ce162d2bbbd5e0ac3420","I agree.","Filler_Forearm","Underside of her arm","",NA,NA
+"11/20/19 16:01","008cc0094223d875407e2d10","I agree.","Filler_Forearm","her right forearm","",NA,NA
+"11/20/19 16:01","00229a47cd2e7da5a190ab10","I agree.","Filler_Forearm","arm","",NA,NA
+"11/20/19 16:01","00ee0a42421f6eb54e36ea10","I agree.","Filler_Forearm","her forearm","",NA,NA
+"11/20/19 16:02","f2d1898994be2dd5b7e6d3d9","I agree.","Filler_Forearm","her forearm","",NA,NA
+"11/20/19 16:02","00c0b918f0a8b5c5a4a50710","I agree.","Filler_Forearm","her inner forearm","",NA,NA
+"11/20/19 16:02","0094270303ac0cb56a4ddc10","I agree.","Filler_Forearm","Her inner arm","",NA,NA
+"11/20/19 16:03","00aac0cfbc113a952ce12110","I agree.","Filler_Forearm","forearm","",NA,NA
+"11/20/19 16:03","00e6f5302aa25085e4627d10","I agree.","Filler_Forearm","her arm.","",NA,NA
+"11/20/19 16:03","231fd8b89f123dd5bdd6a31c","I agree.","Filler_Forearm","The inside of her right forearm.","",NA,NA
+"11/20/19 16:03","00156bdc5d1573d5bfe45410","I agree.","Filler_Forearm","her inner right arm","",NA,NA
+"11/20/19 16:06","c36aaad5dc3e3dd58bb7bdf5","I agree.","Filler_Forearm","the inside of her right forearm.","",NA,NA
+"11/20/19 16:48","005870c25aeda6c579618f10","I agree.","Filler_Forearm","inside forearm ","",NA,NA

@@ -1,0 +1,139 @@
+"Timestamp"	"participant.id"	"Consent"	"Condition"	"Response"	"Normal_Utt_latinized_mixedcase"	"Normal_Utt_latinized_first"	"Normal_Utt_latinized"	"Normal_Utt"	"Normal_Utt_gloss"	"Back_translation"	"Specificity"	"Directionality"
+"11/4/2020 18:08:03"	"f1d7b688d3889ee549e5862e"	"من موافقم"	"target_h5"	"انگشتانش"	"Angosht"	"angosht"	"āngusht"	"انگشت"	"finger"	"finger"	0	0
+"11/5/2020 1:25:04"	"13af409db29215f5082915db"	"من موافقم"	"target_h5"	"انگشت"	"Angosht"	"angosht"	"āngusht"	"انگشت"	"finger"	"finger"	0	0
+"11/5/2020 4:01:08"	"008a1865d2b72985f6535a10"	"من موافقم"	"target_h5"	"انکشت"	"Angosht"	"angosht"	"āngusht"	"انگشت"	"finger"	"finger"	0	0
+"11/5/2020 1:29:08"	"00bfc9d787a815d54d1b2951"	""	"target_f4"	"انگشت‌اش"	"Angosht"	"angosht"	"āngusht"	"انگشت"	"finger"	"finger"	0	0
+"11/5/2020 0:30:05"	"9373a7bb674628f5bb89355e"	"من موافقم"	"target_h4"	"انگشت"	"Angosht"	"angosht"	"āngusht"	"انگشت"	"finger"	"finger"	0	0
+"11/5/2020 1:25:04"	"13af409db29215f5082915db"	"من موافقم"	"target_h4"	"انگشت"	"Angosht"	"angosht"	"āngusht"	"انگشت"	"finger"	"finger"	0	0
+"11/5/2020 1:29:08"	"00bfc9d787a815d54d1b2951"	"من موافقم"	"target_h4"	"انگشت‌اش"	"Angosht"	"angosht"	"āngusht"	"انگشت"	"finger"	"finger"	0	0
+"11/5/2020 1:32:10"	"144d679652d424f5ea713bf6"	"من موافقم"	"target_h4"	"انگشتش"	"Angosht"	"angosht"	"āngusht"	"انگشت"	"finger"	"finger"	0	0
+"11/5/2020 2:07:40"	"00d30a8710a046d51cf41f61"	"من موافقم"	"target_h4"	"انگشت"	"Angosht"	"angosht"	"āngusht"	"انگشت"	"finger"	"finger"	0	0
+"11/5/2020 3:18:07"	"00bb13293adbf2c5700d7710"	"من موافقم"	"target_h4"	"انگشت"	"Angosht"	"angosht"	"āngusht"	"انگشت"	"finger"	"finger"	0	0
+"11/5/2020 5:41:38"	"004b22750fd8a8d5849ea010"	"من موافقم"	"target_h4"	"پایین انگشت"	"Angosht"	"angosht"	"āngusht"	"انگشت"	"finger"	"finger"	0	0
+"11/5/2020 17:30:48"	"93784488db1ad2e58096fb13"	"من موافقم"	"target_h4"	"انگشت"	"Angosht"	"angosht"	"āngusht"	"انگشت"	"finger"	"finger"	0	0
+"11/5/2020 1:25:04"	"13af409db29215f5082915db"	"من موافقم"	"target_h1"	"انگشت"	"Angosht"	"angosht"	"āngusht"	"انگشت"	"finger"	"finger"	0	0
+"11/5/2020 1:29:08"	"00bfc9d787a815d54d1b2951"	"من موافقم"	"target_h1"	"انگشت"	"Angosht"	"angosht"	"āngusht"	"انگشت"	"finger"	"finger"	0	0
+"11/4/2020 18:02:41"	"601091802ab8ffe5f149e80d"	"من موافقم"	"target_h1"	"انگشت بزرگ دست "	"Angoshte bozorge dast"	"angoshte bozorge dast"	"āngushte buzurge dast"	"انگشت بزرگ دست "	"big finger of the hand"	"thumb"	1	0
+"11/4/2020 18:02:41"	"601091802ab8ffe5f149e80d"	"من موافقم"	"target_f1"	"انگشت بزرگ پا"	"Angoshte bozorge pa"	"angoshte bozorge pa"	"āngushte buzurge pā"	"انگشت بزرگ پا"	"big finger of the foot"	"big toe"	1	0
+"11/4/2020 18:08:03"	"f1d7b688d3889ee549e5862e"	"من موافقم"	"target_f1"	"انگشت بزرگه پایش"	"Angoshte bozorge pa"	"angoshte bozorge pa"	"āngushte buzurge pā"	"انگشت بزرگ پا"	"big finger of the foot"	"big toe"	1	0
+"11/4/2020 18:01:51"	"d0c4e5f7b68d88f5f1368e0a"	"من موافقم"	"target_h4"	"انگشت چهارم"	"Angoshte cheharam"	"angoshte cheharam"	"āngushte cheharām"	"انگشت چهارم"	"the fourth finger"	"ring finger"	1	0
+"11/5/2020 2:07:40"	"00d30a8710a046d51cf41f61"	""	"target_f4"	"انگشت چهارم پا"	"Angoshte cheharam pa"	"angoshte cheharam pa"	"āngushte cheharām pā"	"انگشت چهارم پا"	"fourth finger of the foot"	"ring toe"	1	0
+"11/5/2020 1:29:08"	"00bfc9d787a815d54d1b2951"	"من موافقم"	"target_h5"	"انگشت دستش"	"Angoshte dast"	"angoshte dast"	"āngushte dast"	"انگشت دستش"	"finger of the hand"	"finger"	0	0
+"11/4/2020 17:59:49"	"006c3c4846f2c3d50cb20f61"	"من موافقم"	"target_h4"	"انگشت دست"	"Angoshte dast"	"angoshte dast"	"āngushte dast"	"انگشت دست"	"finger of the hand"	"finger"	0	0
+"11/4/2020 18:02:41"	"601091802ab8ffe5f149e80d"	"من موافقم"	"target_h4"	"انگشت دست"	"Angoshte dast"	"angoshte dast"	"āngushte dast"	"انگشت دست"	"finger of the hand"	"finger"	0	0
+"11/4/2020 18:08:03"	"f1d7b688d3889ee549e5862e"	"من موافقم"	"target_h4"	"انگشت دستش"	"Angoshte dast"	"angoshte dast"	"āngushte dast"	"انگشت دست"	"finger of the hand"	"finger"	0	0
+"11/4/2020 18:50:58"	"003ef08eb3d8aad523d17e51"	"من موافقم"	"target_h4"	"Angosht dast"	"Angoshte dast"	"angoshte dast"	"āngushte dast"	"انگشت دست"	"finger of the hand"	"finger"	0	0
+"11/5/2020 3:34:13"	"81815c4c44c404f5791b3e04"	"من موافقم"	"target_h4"	"انگشت دست"	"Angoshte dast"	"angoshte dast"	"āngushte dast"	"انگشت دست"	"finger of the hand"	"finger"	0	0
+"11/5/2020 10:41:20"	"10c8eb5a2aea22f5896ee68e"	"من موافقم"	"target_h4"	"انگشت دست"	"Angoshte dast"	"angoshte dast"	"āngushte dast"	"انگشت دست"	"finger of the hand"	"finger"	0	0
+"11/5/2020 14:07:24"	"710fb8b124c005f5a2e0e9e9"	"من موافقم"	"target_h4"	"انگشت دست"	"Angoshte dast"	"angoshte dast"	"āngushte dast"	"انگشت دست"	"finger of the hand"	"finger"	0	0
+"11/4/2020 18:01:51"	"d0c4e5f7b68d88f5f1368e0a"	""	"target_f4"	"انگشت دوم پا"	"Angoshte dom-e pa"	"angoshte dom-e pa"	"āngushte dūme pā"	"انگشت دوم پا"	"second finger of the foot"	"ring toe"	1	0
+"11/4/2020 17:59:18"	"d9722081978fcde581c58977"	"من موافقم"	"target_h4"	"انگشت حلقه"	"Angoshte halke"	"angoshte halke"	"āngushte halke"	"انگشت حلقه"	"ring finger"	"ring finger"	1	0
+"11/5/2020 5:27:33"	"4ae4d3fba735dfd53e0ed842"	"من موافقم"	"target_h4"	"انگشت حلقه"	"Angoshte halke"	"angoshte halke"	"āngushte halke"	"انگشت حلقه"	"ring finger"	"ring finger"	1	0
+"11/5/2020 10:56:01"	"00b233699b2e6cb5ecfcf810"	"من موافقم"	"target_h4"	"انگشت حلقه اش"	"Angoshte helke"	"angoshte helke"	"āngushte halke"	"انگشت حلقه"	"ring finger"	"ring finger"	1	0
+"11/5/2020 15:02:37"	"012f21f0b4b470f5dea08441"	"من موافقم"	"target_h4"	"انگشت حلقه اش"	"Angoshte helke"	"angoshte helke"	"āngushte halke"	"انگشت حلقه"	"ring finger"	"ring finger"	1	0
+"11/5/2020 1:29:08"	"00bfc9d787a815d54d1b2951"	"من موافقم"	"target_f5"	"انگشت کوچک‌اش"	"Angoshte koochek"	"angoshte koochek"	"āngushte kūchek"	"انگشت کوچک"	"small finger"	"pinky"	1	0
+"11/5/2020 3:18:07"	"00bb13293adbf2c5700d7710"	"من موافقم"	"target_f5"	"انگشت کوچک"	"Angoshte koochek"	"angoshte koochek"	"āngushte kūchek"	"انگشت پا"	"small finger"	"pinky"	1	0
+"11/5/2020 1:32:10"	"144d679652d424f5ea713bf6"	"من موافقم"	"target_h5"	"انگشت کوچکش"	"Angoshte koochek"	"angoshte koochek"	"āngushte kūchek"	"انگشت کوچک"	"small finger"	"pinky "	1	0
+"11/5/2020 15:02:45"	"d2347ff5704930f5a384c128"	"من موافقم"	"target_h5"	"انگشت کوچک درست"	"Angoshte koochek"	"angoshte koochek"	"āngushte kūchek"	"انگشت کوچک"	"small finger"	"pinky"	1	1
+"11/5/2020 17:30:48"	"93784488db1ad2e58096fb13"	"من موافقم"	"target_h5"	"انتهای انگشت کوچیکش"	"Angoshte koochek"	"angoshte koochek"	"āngushte kūchek"	"انگشت کوچک"	"small finger"	"pinky"	1	0
+"11/5/2020 0:30:05"	"9373a7bb674628f5bb89355e"	"من موافقم"	"target_h5"	"انگشت کوچک"	"Angoshte koochek "	"angoshte koochek "	"āngushte kūchek"	"انگشت کوچک"	"small finger"	"pinky "	1	0
+"11/5/2020 3:18:07"	"00bb13293adbf2c5700d7710"	"من موافقم"	"target_h5"	"انگشت کوچک"	"Angoshte koochek "	"angoshte koochek "	"āngushte kūchek"	"انگشت کوچک"	"small finger"	"pinky "	1	0
+"11/5/2020 6:45:17"	"d103cd38ade8d4e5bfda5939"	"من موافقم"	"target_h5"	"انگشت کوچک"	"Angoshte koochek "	"angoshte koochek "	"āngushte kūchek"	"انگشت کوچک"	"small finger"	"pinky"	1	0
+"11/4/2020 17:59:18"	"d9722081978fcde581c58977"	"من موافقم"	"target_h5"	"انگشت کوچک دست"	"Angoshte koocheke dast"	"angoshte koocheke dast"	"āngushte kūcheke dast"	"انگشت کوچک دست"	"small finger of the hand"	"pinky "	1	0
+"11/4/2020 17:59:49"	"006c3c4846f2c3d50cb20f61"	"من موافقم"	"target_h5"	"انگشت کوچک دست"	"Angoshte koocheke dast"	"angoshte koocheke dast"	"āngushte kūcheke dast"	"انگشت کوچک دست"	"small finger of the hand"	"pinky "	1	0
+"11/4/2020 18:02:41"	"601091802ab8ffe5f149e80d"	"من موافقم"	"target_h5"	"انگشت کوچک دست"	"Angoshte koocheke dast"	"angoshte koocheke dast"	"āngushte kūcheke dast"	"انگشت کوچک دست"	"small finger of the hand"	"pinky "	1	0
+"11/5/2020 2:07:40"	"00d30a8710a046d51cf41f61"	"من موافقم"	"target_h5"	"انگشت کوچک دست"	"Angoshte koocheke dast"	"angoshte koocheke dast"	"āngushte kūcheke dast"	"انگشت کوچک دست"	"small finger of the hand"	"pinky "	1	0
+"11/5/2020 3:34:13"	"81815c4c44c404f5791b3e04"	"من موافقم"	"target_h5"	"انگشت کوچک دست"	"Angoshte koocheke dast"	"angoshte koocheke dast"	"āngushte kūcheke dast"	"انگشت کوچک دست"	"small finger of the hand"	"pinky "	1	0
+"11/5/2020 5:27:33"	"4ae4d3fba735dfd53e0ed842"	"من موافقم"	"target_h5"	"انشگت کوچک دست"	"Angoshte koocheke dast"	"angoshte koocheke dast"	"āngushte kūcheke dast"	"انگشت کوچک دست"	"small finger of the hand"	"pinky"	1	0
+"11/5/2020 5:41:38"	"004b22750fd8a8d5849ea010"	"من موافقم"	"target_h5"	"انگشت کوچک دست"	"Angoshte koocheke dast"	"angoshte koocheke dast"	"āngushte kūcheke dast"	"انگشت کوچک دست"	"small finger of the hand"	"pinky"	1	0
+"11/5/2020 10:41:20"	"10c8eb5a2aea22f5896ee68e"	"من موافقم"	"target_h5"	"انگشت کوچک دست"	"Angoshte koocheke dast"	"angoshte koocheke dast"	"āngushte kūcheke dast"	"انگشت کوچک دست"	"small finger of the hand"	"pinky"	1	0
+"11/5/2020 10:56:01"	"00b233699b2e6cb5ecfcf810"	"من موافقم"	"target_h5"	"انگشت کوچک دستش"	"Angoshte koocheke dast"	"angoshte koocheke dast"	"āngushte kūcheke dast"	"انگشت کوچک دست"	"small finger of the hand"	"pinky"	1	0
+"11/5/2020 14:07:24"	"710fb8b124c005f5a2e0e9e9"	"من موافقم"	"target_h5"	"انگشت كوچك دست"	"Angoshte koocheke dast"	"angoshte koocheke dast"	"āngushte kūcheke dast"	"انگشت کوچک دست"	"small finger of the hand"	"pinky"	1	0
+"11/5/2020 15:02:37"	"012f21f0b4b470f5dea08441"	"من موافقم"	"target_h5"	"انگشت کوچک دست چپش"	"Angoshte koocheke dast"	"angoshte koocheke dast"	"āngushte kūcheke dast"	"انگشت کوچک دست"	"small finger of the hand"	"pinky"	1	1
+"11/4/2020 17:59:18"	"d9722081978fcde581c58977"	"من موافقم"	"target_f5"	"انگشت کوچک پا"	"Angoshte koocheke pa"	"angoshte koocheke pa"	"āngushte kūcheke pā"	"انگشت کوچک پا"	"small finger of the foot"	"pinky toe"	1	0
+"11/4/2020 17:59:49"	"006c3c4846f2c3d50cb20f61"	"من موافقم"	"target_f5"	"انگشت کوچک پا"	"Angoshte koocheke pa"	"angoshte koocheke pa"	"āngushte kūcheke pā"	"انگشت کوچک پا"	"small finger of the foot"	"pinky toe"	1	0
+"11/4/2020 18:01:51"	"d0c4e5f7b68d88f5f1368e0a"	"من موافقم"	"target_f5"	"انگشت کوچیکه ی پا"	"Angoshte koocheke pa"	"angoshte koocheke pa"	"āngushte kūcheke pā"	"انگشت کوچک پا"	"small finger of the foot"	"pinky toe"	1	0
+"11/4/2020 18:02:41"	"601091802ab8ffe5f149e80d"	"من موافقم"	"target_f5"	"انگشت کوچک پا"	"Angoshte koocheke pa"	"angoshte koocheke pa"	"āngushte kūcheke pā"	"انگشت کوچک پا"	"small finger of the foot"	"pinky toe"	1	0
+"11/4/2020 18:08:03"	"f1d7b688d3889ee549e5862e"	"من موافقم"	"target_f5"	"انگشت کوچک پایش"	"Angoshte koocheke pa"	"angoshte koocheke pa"	"āngushte kūcheke pā"	"انگشت کوچک پا"	"small finger of the foot"	"pinky toe"	1	0
+"11/4/2020 18:50:58"	"003ef08eb3d8aad523d17e51"	"من موافقم"	"target_f5"	"Angoshte koochik pa"	"Angoshte koocheke pa"	"angoshte koocheke pa"	"āngushte kūcheke pā"	"انگشت کوچک پا"	"small finger of the foot"	"pinky toe"	1	0
+"11/5/2020 0:30:05"	"9373a7bb674628f5bb89355e"	"من موافقم"	"target_f5"	"انگشت کوچک پا"	"Angoshte koocheke pa"	"angoshte koocheke pa"	"āngushte kūcheke pā"	"انگشت کوچک پا"	"small finger of the foot"	"pinky toe"	1	0
+"11/5/2020 2:07:40"	"00d30a8710a046d51cf41f61"	"من موافقم"	"target_f5"	"انگشت کوچک پا"	"Angoshte koocheke pa"	"angoshte koocheke pa"	"āngushte kūcheke pā"	"انگشت کوچک پا"	"small finger of the foot"	"pinky toe"	1	0
+"11/5/2020 3:34:13"	"81815c4c44c404f5791b3e04"	"من موافقم"	"target_f5"	"انگشت کوچیک پا"	"Angoshte koocheke pa"	"angoshte koocheke pa"	"āngushte kūcheke pā"	"انگشت کوچک پا"	"small finger of the foot"	"pinky toe"	1	0
+"11/5/2020 5:27:33"	"4ae4d3fba735dfd53e0ed842"	"من موافقم"	"target_f5"	"انگشت کوچک پا"	"Angoshte koocheke pa"	"angoshte koocheke pa"	"āngushte kūcheke pā"	"انگشت کوچک پا"	"small finger of the foot"	"pinky toe"	1	0
+"11/5/2020 5:41:38"	"004b22750fd8a8d5849ea010"	"من موافقم"	"target_f5"	"انگشت کوچک پا"	"Angoshte koocheke pa"	"angoshte koocheke pa"	"āngushte kūcheke pā"	"انگشت کوچک پا"	"small finger of the foot"	"pinky toe"	1	0
+"11/5/2020 6:45:17"	"d103cd38ade8d4e5bfda5939"	"من موافقم"	"target_f5"	"انگشت کوچک پا"	"Angoshte koocheke pa"	"angoshte koocheke pa"	"āngushte kūcheke pā"	"انگشت کوچک پا"	"small finger of the foot"	"pinky toe"	1	0
+"11/5/2020 10:41:20"	"10c8eb5a2aea22f5896ee68e"	"من موافقم"	"target_f5"	"انگشت کوچک پا"	"Angoshte koocheke pa"	"angoshte koocheke pa"	"āngushte kūcheke pā"	"انگشت کوچک پا"	"small finger of the foot"	"pinky toe"	1	0
+"11/5/2020 14:07:24"	"710fb8b124c005f5a2e0e9e9"	"من موافقم"	"target_f5"	"انگشت كوچك پا"	"Angoshte koocheke pa"	"angoshte koocheke pa"	"āngushte kūcheke pā"	"انگشت کوچک پا"	"small finger of the foot"	"pinky toe"	1	0
+"11/5/2020 15:02:37"	"012f21f0b4b470f5dea08441"	"من موافقم"	"target_f5"	"انگشت کوچک پایش"	"Angoshte koocheke pa"	"angoshte koocheke pa"	"āngushte kūcheke pā"	"انگشت کوچک پا"	"small finger of the foot"	"pinky toe"	1	0
+"11/5/2020 15:02:45"	"d2347ff5704930f5a384c128"	"من موافقم"	"target_f5"	"انگشت کوچک پا"	"Angoshte koocheke pa"	"angoshte koocheke pa"	"āngushte kūcheke pā"	"انگشت کوچک پا"	"small finger of the foot"	"pinky toe"	1	0
+"11/5/2020 17:30:48"	"93784488db1ad2e58096fb13"	"من موافقم"	"target_f5"	"انگشت کوچیک پاش"	"Angoshte koocheke pa"	"angoshte koocheke pa"	"āngushte kūcheke pā"	"انگشت کوچک پا"	"small finger of the foot"	"pinky toe"	1	0
+"11/5/2020 1:25:04"	"13af409db29215f5082915db"	"من موافقم"	"target_f5"	"انگشت پا"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 1:32:10"	"144d679652d424f5ea713bf6"	"من موافقم"	"target_f5"	"انگشت پایش"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 4:01:08"	"008a1865d2b72985f6535a10"	"من موافقم"	"target_f5"	"انگشت پا"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 10:56:01"	"00b233699b2e6cb5ecfcf810"	"من موافقم"	"target_f5"	"انگشت پایش"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/4/2020 17:59:18"	"d9722081978fcde581c58977"	""	"target_f4"	"انگشت پا"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/4/2020 17:59:49"	"006c3c4846f2c3d50cb20f61"	""	"target_f4"	"انگشت پا"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/4/2020 18:02:41"	"601091802ab8ffe5f149e80d"	""	"target_f4"	"انگشت پا"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/4/2020 18:08:03"	"f1d7b688d3889ee549e5862e"	""	"target_f4"	"انگشت پایش"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/4/2020 18:50:58"	"003ef08eb3d8aad523d17e51"	""	"target_f4"	"Angosht pa"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 0:30:05"	"9373a7bb674628f5bb89355e"	""	"target_f4"	"انگشت پا"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 1:25:04"	"13af409db29215f5082915db"	""	"target_f4"	"انگشت پا"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 1:32:10"	"144d679652d424f5ea713bf6"	""	"target_f4"	"انگشت پایش"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 3:18:07"	"00bb13293adbf2c5700d7710"	""	"target_f4"	"انگشت پا"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 3:34:13"	"81815c4c44c404f5791b3e04"	""	"target_f4"	"انگشت پا"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 4:01:08"	"008a1865d2b72985f6535a10"	""	"target_f4"	"انگشت پا"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 5:27:33"	"4ae4d3fba735dfd53e0ed842"	""	"target_f4"	"انگشت پا"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 5:41:38"	"004b22750fd8a8d5849ea010"	""	"target_f4"	"انگشت پا"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 6:45:17"	"d103cd38ade8d4e5bfda5939"	""	"target_f4"	"انگشت پا"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 10:41:20"	"10c8eb5a2aea22f5896ee68e"	""	"target_f4"	"انگشت پا"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 10:56:01"	"00b233699b2e6cb5ecfcf810"	""	"target_f4"	"انگشت پایش"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 14:07:24"	"710fb8b124c005f5a2e0e9e9"	""	"target_f4"	"انگشت پا"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 15:02:37"	"012f21f0b4b470f5dea08441"	""	"target_f4"	"انگشت پایش"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 15:02:45"	"d2347ff5704930f5a384c128"	""	"target_f4"	"انگشت پا"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/4/2020 18:50:58"	"003ef08eb3d8aad523d17e51"	"من موافقم"	"target_f1"	"angshot pa"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 1:25:04"	"13af409db29215f5082915db"	"من موافقم"	"target_f1"	"انگشت پا"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/5/2020 10:56:01"	"00b233699b2e6cb5ecfcf810"	"من موافقم"	"target_f1"	"انگشت پایش"	"Angoshte pa"	"angoshte pa"	"āngushte pā"	"انگشت پا"	"finger of the foot"	"toe"	0	0
+"11/4/2020 18:01:51"	"d0c4e5f7b68d88f5f1368e0a"	"من موافقم"	"target_h5"	"انگشت پنجم"	"Angoshte panj"	"angoshte panj"	"āngushte panj"	"انگشت پنجم"	"fifth finger"	"pinky "	1	0
+"11/4/2020 18:50:58"	"003ef08eb3d8aad523d17e51"	"من موافقم"	"target_h1"	"angosht shast"	"Angoshte shast"	"angoshte shast"	"āngushte shast"	"انگشت شست"	"thumb finger"	"thumb"	1	0
+"11/5/2020 0:30:05"	"9373a7bb674628f5bb89355e"	"من موافقم"	"target_h1"	"انگشت شصت"	"Angoshte shast"	"angoshte shast"	"āngushte shast"	"انگشت شست"	"thumb finger"	"thumb"	1	0
+"11/5/2020 3:18:07"	"00bb13293adbf2c5700d7710"	"من موافقم"	"target_h1"	"انگشت شست"	"Angoshte shast"	"angoshte shast"	"āngushte shast"	"انگشت شست"	"thumb finger"	"thumb"	1	0
+"11/5/2020 5:27:33"	"4ae4d3fba735dfd53e0ed842"	"من موافقم"	"target_h1"	"انگشت شصت"	"Angoshte shast"	"angoshte shast"	"āngushte shast"	"انگشت شست"	"thumb finger"	"thumb"	1	0
+"11/4/2020 17:59:18"	"d9722081978fcde581c58977"	"من موافقم"	"target_h1"	"انگشت شصت دست"	"Angoshte shaste dast"	"angoshte shaste dast"	"āngushte shaste dast"	"انگشت شست دست"	"thumb finger of the hand"	"thumb"	1	0
+"11/5/2020 10:41:20"	"10c8eb5a2aea22f5896ee68e"	"من موافقم"	"target_h1"	"انگشت شصت دست"	"Angoshte shaste dast"	"angoshte shaste dast"	"āngushte shaste dast"	"انگشت شست دست"	"thumb finger of the hand"	"thumb"	1	0
+"11/4/2020 17:59:18"	"d9722081978fcde581c58977"	"من موافقم"	"target_f1"	"انگشت شصت پا"	"Angoshte shaste pa"	"angoshte shaste pa"	"āngushte shaste pā"	"انگشت شست پا"	"thumb finger of the foot"	"big toe"	1	0
+"11/5/2020 0:30:05"	"9373a7bb674628f5bb89355e"	"من موافقم"	"target_f1"	"انگشت شصت پا"	"Angoshte shaste pa"	"angoshte shaste pa"	"āngushte shaste pā"	"انگشت شست پا"	"thumb finger of the foot"	"big toe"	1	0
+"11/5/2020 3:18:07"	"00bb13293adbf2c5700d7710"	"من موافقم"	"target_f1"	"انگشت شست پا"	"Angoshte shaste pa"	"angoshte shaste pa"	"āngushte shaste pā"	"انگشت شست پا"	"thumb finger of the foot"	"big toe"	1	0
+"11/5/2020 6:45:17"	"d103cd38ade8d4e5bfda5939"	"من موافقم"	"target_f1"	"انگشت شست پا"	"Angoshte shaste pa"	"angoshte shaste pa"	"āngushte shaste pā"	"انگشت شست پا"	"thumb finger of the foot"	"big toe"	1	0
+"11/5/2020 17:30:48"	"93784488db1ad2e58096fb13"	""	"target_f4"	"انگشت یکی مونده به کوچیکه پای چپش"	"Angoshte yeke mowande ba koocheke pa"	"angoshte yeke mowande ba koocheke pa"	"āngushte yekī mūwande beh kūcheke pā"	"انگشت یکی مونده به کوچیکه پای چپش"	"the finger to the left of the small one on the foot"	"ring toe"	1	1
+"11/5/2020 15:02:45"	"d2347ff5704930f5a384c128"	"من موافقم"	"target_h4"	"پایین بند انگشت"	"Bande Angosht"	"bande angosht"	"bande āngusht"	"پایین بند انگشت"	"knuckle"	"knuckle"	0	0
+"11/5/2020 4:01:08"	"008a1865d2b72985f6535a10"	"من موافقم"	"target_h4"	"پشت دست"	"Dast"	"dast"	"dast"	"دست"	"hand"	"hand"	0	0
+"11/5/2020 6:45:17"	"d103cd38ade8d4e5bfda5939"	"من موافقم"	"target_h4"	"پشت دست"	"Dast"	"dast"	"dast"	"دست"	"hand"	"hand"	0	0
+"11/5/2020 10:56:01"	"00b233699b2e6cb5ecfcf810"	"من موافقم"	"target_h1"	"دست خود"	"Dast"	"dast"	"dast"	"دست"	"hand"	"hand"	0	0
+"11/4/2020 18:50:58"	"003ef08eb3d8aad523d17e51"	"من موافقم"	"target_h5"	"dast"	"Dast "	"dast "	"dast"	"دست"	"hand"	"hand"	0	0
+"11/4/2020 18:08:03"	"f1d7b688d3889ee549e5862e"	"من موافقم"	"target_h1"	"شستش"	"Shast"	"shast"	"shast"	"شست"	"thumb"	"thumb"	1	0
+"11/5/2020 1:32:10"	"144d679652d424f5ea713bf6"	"من موافقم"	"target_h1"	"شصتش"	"Shast"	"shast"	"shast"	"شست"	"thumb"	"thumb"	1	0
+"11/4/2020 17:59:49"	"006c3c4846f2c3d50cb20f61"	"من موافقم"	"target_h1"	"شست دست"	"Shaste dast"	"shaste dast"	"shaste dast"	"شست دست"	"thumb of the hand"	"thumb"	1	0
+"11/4/2020 18:01:51"	"d0c4e5f7b68d88f5f1368e0a"	"من موافقم"	"target_h1"	"شصت دست"	"Shaste dast"	"shaste dast"	"shaste dast"	"شست دست"	"thumb of the hand"	"thumb"	1	0
+"11/5/2020 2:07:40"	"00d30a8710a046d51cf41f61"	"من موافقم"	"target_h1"	"شست دست"	"Shaste dast"	"shaste dast"	"shaste dast"	"شست دست"	"thumb of the hand"	"thumb"	1	0
+"11/5/2020 3:34:13"	"81815c4c44c404f5791b3e04"	"من موافقم"	"target_h1"	"شصت دست"	"Shaste dast"	"shaste dast"	"shaste dast"	"شست دست"	"thumb of the hand"	"thumb"	1	0
+"11/5/2020 4:01:08"	"008a1865d2b72985f6535a10"	"من موافقم"	"target_h1"	"شست دست"	"Shaste dast"	"shaste dast"	"shaste dast"	"شست دست"	"thumb of the hand"	"thumb"	1	0
+"11/5/2020 5:41:38"	"004b22750fd8a8d5849ea010"	"من موافقم"	"target_h1"	"شصت دست"	"Shaste dast"	"shaste dast"	"shaste dast"	"شست دست"	"thumb of the hand"	"thumb"	1	0
+"11/5/2020 6:45:17"	"d103cd38ade8d4e5bfda5939"	"من موافقم"	"target_h1"	"شست دست"	"Shaste dast"	"shaste dast"	"shaste dast"	"شست دست"	"thumb of the hand"	"thumb"	1	0
+"11/5/2020 14:07:24"	"710fb8b124c005f5a2e0e9e9"	"من موافقم"	"target_h1"	"شصت دست"	"Shaste dast"	"shaste dast"	"shaste dast"	"شست دست"	"thumb of the hand"	"thumb"	1	0
+"11/5/2020 15:02:37"	"012f21f0b4b470f5dea08441"	"من موافقم"	"target_h1"	"شصت دست چپش"	"Shaste dast"	"shaste dast"	"shaste dast"	"شست دست"	"thumb of the hand"	"thumb"	1	1
+"11/5/2020 15:02:45"	"d2347ff5704930f5a384c128"	"من موافقم"	"target_h1"	"شست دست چپ"	"Shaste daste"	"shaste daste"	"shaste dast"	"شست دست"	"thumb of the hand"	"thumb"	1	1
+"11/5/2020 17:30:48"	"93784488db1ad2e58096fb13"	"من موافقم"	"target_h1"	"پایین تر از شست دست چپش"	"Shaste daste"	"shaste daste"	"shaste dast"	"شست دست"	"thumb of the hand"	"thumb"	1	1
+"11/4/2020 17:59:49"	"006c3c4846f2c3d50cb20f61"	"من موافقم"	"target_f1"	"شست پا"	"Shaste pa"	"shaste pa"	"shaste pā"	"شست پا"	"thumb of the foot"	"big toe"	1	0
+"11/4/2020 18:01:51"	"d0c4e5f7b68d88f5f1368e0a"	"من موافقم"	"target_f1"	"شصت پا"	"Shaste pa"	"shaste pa"	"shaste pā"	"شست پا"	"thumb of the foot"	"big toe"	1	0
+"11/5/2020 1:29:08"	"00bfc9d787a815d54d1b2951"	"من موافقم"	"target_f1"	"شست پایش"	"Shaste pa"	"shaste pa"	"shaste pā"	"شست پا"	"thumb of the foot"	"big toe"	1	0
+"11/5/2020 1:32:10"	"144d679652d424f5ea713bf6"	"من موافقم"	"target_f1"	"شصت پا"	"Shaste pa"	"shaste pa"	"shaste pā"	"شست پا"	"thumb of the foot"	"big toe"	1	0
+"11/5/2020 2:07:40"	"00d30a8710a046d51cf41f61"	"من موافقم"	"target_f1"	"شست پا راست"	"Shaste pa"	"shaste pa"	"shaste pā"	"شست پا"	"thumb of the foot"	"big toe"	1	1
+"11/5/2020 3:34:13"	"81815c4c44c404f5791b3e04"	"من موافقم"	"target_f1"	"شصت پا"	"Shaste pa"	"shaste pa"	"shaste pā"	"شست پا"	"thumb of the foot"	"big toe"	1	0
+"11/5/2020 4:01:08"	"008a1865d2b72985f6535a10"	"من موافقم"	"target_f1"	"شست پا"	"Shaste pa"	"shaste pa"	"shaste pā"	"شست پا"	"thumb of the foot"	"big toe"	1	0
+"11/5/2020 5:27:33"	"4ae4d3fba735dfd53e0ed842"	"من موافقم"	"target_f1"	"شصت پا"	"Shaste pa"	"shaste pa"	"shaste pā"	"شست پا"	"thumb of the foot"	"big toe"	1	0
+"11/5/2020 5:41:38"	"004b22750fd8a8d5849ea010"	"من موافقم"	"target_f1"	"شصت پا"	"Shaste pa"	"shaste pa"	"shaste pā"	"شست پا"	"thumb of the foot"	"big toe"	1	0
+"11/5/2020 10:41:20"	"10c8eb5a2aea22f5896ee68e"	"من موافقم"	"target_f1"	"شصت پا"	"Shaste pa"	"shaste pa"	"shaste pā"	"شست پا"	"thumb of the foot"	"big toe"	1	0
+"11/5/2020 14:07:24"	"710fb8b124c005f5a2e0e9e9"	"من موافقم"	"target_f1"	"شصت پا"	"Shaste pa"	"shaste pa"	"shaste pā"	"شست پا"	"thumb of the foot"	"big toe"	1	0
+"11/5/2020 15:02:37"	"012f21f0b4b470f5dea08441"	"من موافقم"	"target_f1"	"شست پایش"	"Shaste pa"	"shaste pa"	"shaste pā"	"شست پا"	"thumb of the foot"	"big toe"	1	0
+"11/5/2020 15:02:45"	"d2347ff5704930f5a384c128"	"من موافقم"	"target_f1"	"شست پا"	"Shaste pa"	"shaste pa"	"shaste pā"	"شست پا"	"thumb of the foot"	"big toe"	1	0
+"11/5/2020 17:30:48"	"93784488db1ad2e58096fb13"	"من موافقم"	"target_f1"	"شست پاش"	"Shaste pa"	"shaste pa"	"shaste pā"	"شست پا"	"thumb of the foot"	"big toe"	1	0

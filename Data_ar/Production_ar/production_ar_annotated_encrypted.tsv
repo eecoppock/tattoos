@@ -1,0 +1,157 @@
+"Timestamp"	"participant.id"	"Consent"	"Condition"	"Response"	"Normal_Utt_latinized_first"	"Normal_Utt_latinized"	"Normal_Utt"	"Normal_Utt_gloss"	"Back_translation"	"Specificity"	"Directionality"
+"12/11/2020 4:50:38"	"f2a77dc5e788cae54f3c2375"	"أوافق"	"target_h1"	"اصبع يدها الكبير"	"isba' yad alkabeer"	"iṣba' yad alkabīr"	"اصبع يد الكبير"	"big finger of the hand"	"thumb"	1	0
+"12/11/2020 2:49:50"	"c0d12abf3462b8f50896a9c5"	"أوافق"	"target_f1"	"اصبع رجلها الكبير"	"isba' rijul alkabeer"	"iṣba' rijul alkabīr"	"اصبع رجل الكبير"	"big finger of the leg"	"big toe"	1	0
+"12/10/2020 16:53:33"	"60d368edc2d9c6f519a65b26"	"أوافق"	"target_f1"	"اصبع رجلها الكبير"	"isba' rijul alkabeer"	"iṣba' rijul alkabīr"	"اصبع رجل الكبير"	"big finger of the leg"	"big toe"	1	0
+"12/10/2020 13:44:36"	"613e7a23495bbfe5827ebcc5"	"أوافق"	"target_f4"	"اصبع"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 15:19:04"	"539551cd48578ce5793949d1"	"أوافق"	"target_f4"	"اصبع"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 15:24:31"	"319f381c3de482f58e752de9"	"أوافق"	"target_f4"	"اصبعها"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 13:19:45"	"f093fc6ace7006f536a92c21"	"أوافق"	"target_h4"	"اصبعهة"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 13:44:36"	"613e7a23495bbfe5827ebcc5"	"أوافق"	"target_h4"	"اصبع"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 13:56:49"	"d4ec1021c72fe9f5ade6ed63"	"أوافق"	"target_h4"	"اصبعها"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 15:19:04"	"539551cd48578ce5793949d1"	"أوافق"	"target_h4"	"اصبع"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 16:09:18"	"4028cb6d611988f59851ed1b"	"أوافق"	"target_h4"	"اصبع"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 16:53:33"	"60d368edc2d9c6f519a65b26"	"أوافق"	"target_h4"	"اصبع"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 17:58:50"	"e6224e8a386b1bf536b0b484"	"أوافق"	"target_h4"	"اصبع"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/11/2020 4:00:38"	"00979dad333c16c559945f10"	"أوافق"	"target_h4"	"إصبعها"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/11/2020 4:50:38"	"f2a77dc5e788cae54f3c2375"	"أوافق"	"target_h4"	"اصبعها"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 13:19:45"	"f093fc6ace7006f536a92c21"	"أوافق"	"target_h1"	"اصبع"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 15:24:31"	"319f381c3de482f58e752de9"	"أوافق"	"target_h1"	"اصبعها"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 18:00:44"	"9374972710934cf5cf62a06d"	"أوافق"	"target_h1"	"اصبعها"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/11/2020 4:00:38"	"00979dad333c16c559945f10"	"أوافق"	"target_h1"	"إصبعها"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 13:44:36"	"613e7a23495bbfe5827ebcc5"	"أوافق"	"target_f1"	"اصبع"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 13:56:49"	"d4ec1021c72fe9f5ade6ed63"	"أوافق"	"target_f1"	"اصبعها"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 15:19:04"	"539551cd48578ce5793949d1"	"أوافق"	"target_f1"	"اصبع"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 15:24:31"	"319f381c3de482f58e752de9"	"أوافق"	"target_f1"	"الصعها"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 13:19:45"	"f093fc6ace7006f536a92c21"	"أوافق"	"target_h5"	"اصبع"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 13:44:36"	"613e7a23495bbfe5827ebcc5"	"أوافق"	"target_h5"	"اصبع"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 13:56:49"	"d4ec1021c72fe9f5ade6ed63"	"أوافق"	"target_h5"	"اصبعها"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 15:19:04"	"539551cd48578ce5793949d1"	"أوافق"	"target_h5"	"اصبع"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/11/2020 4:00:38"	"00979dad333c16c559945f10"	"أوافق"	"target_h5"	"إصبعها"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 13:44:36"	"613e7a23495bbfe5827ebcc5"	"أوافق"	"target_f5"	"اصبع"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 13:59:11"	"c08e9a9bc3109fe58fda5bb0"	"أوافق"	"target_f5"	"إصبعها"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 15:19:04"	"539551cd48578ce5793949d1"	"أوافق"	"target_f5"	"اصبع"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 15:24:31"	"319f381c3de482f58e752de9"	"أوافق"	"target_f5"	"اصبعه"	"isba'"	"iṣba'"	"اصبع"	"finger"	"finger"	0	0
+"12/10/2020 15:53:39"	"836dd17b08d9d2e5cb08eda8"	"أوافق"	"target_f4"	"اصبع قبل الاخير من القدم"	"isba' qabl alakheer min alqadm"	"iṣba' qabl alākhīr min alqadm"	"اصبع قبل الاخير من القدم"	"finger before the last one on the foot"	"ring toe"	1	0
+"12/10/2020 13:19:45"	"f093fc6ace7006f536a92c21"	"أوافق"	"target_f4"	"اصبع قدم"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/10/2020 13:57:28"	"108683936a8be1f51a852549"	"أوافق"	"target_f4"	"إصبع قدم"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/10/2020 14:10:02"	"00485c995c3bbfc5db7d1d91"	"أوافق"	"target_f4"	"اصبع قدم"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/10/2020 16:09:18"	"4028cb6d611988f59851ed1b"	"أوافق"	"target_f4"	"اصبع قدم"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/10/2020 17:58:50"	"e6224e8a386b1bf536b0b484"	"أوافق"	"target_f4"	"بنصر قدم"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/10/2020 20:51:30"	"536a64a0199531f51bade4b4"	"أوافق"	"target_f4"	"اصبع قدمها"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/10/2020 22:16:07"	"e20081acf4b9c7e5ef682eb0"	"أوافق"	"target_f4"	"اصبع قدم"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/11/2020 2:24:28"	"50445b18e48d7cf56c006b51"	"أوافق"	"target_f4"	"اصبع قدمها"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/11/2020 4:00:38"	"00979dad333c16c559945f10"	"أوافق"	"target_f4"	"إصبع قدمها"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/11/2020 4:50:38"	"f2a77dc5e788cae54f3c2375"	"أوافق"	"target_f4"	"اصبع قدمها"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/10/2020 13:19:45"	"f093fc6ace7006f536a92c21"	"أوافق"	"target_f1"	"اصبع قدم"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/10/2020 13:57:28"	"108683936a8be1f51a852549"	"أوافق"	"target_f1"	"إصبع قدم"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/10/2020 14:10:02"	"00485c995c3bbfc5db7d1d91"	"أوافق"	"target_f1"	"اصبع قدم"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/10/2020 15:53:39"	"836dd17b08d9d2e5cb08eda8"	"أوافق"	"target_f1"	"اصبع القدم"	"isba' alqadm"	"iṣba' alqadm"	"اصبع القدم"	"finger of the foot"	"toe"	0	0
+"12/10/2020 20:51:30"	"536a64a0199531f51bade4b4"	"أوافق"	"target_f1"	"اصبع قدمها"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/11/2020 4:00:38"	"00979dad333c16c559945f10"	"أوافق"	"target_f1"	"إصبع قدمها"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/11/2020 10:35:30"	"0970061122fd62e5c6a58727"	"أوافق"	"target_f1"	"إصبع قدم"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/10/2020 13:19:45"	"f093fc6ace7006f536a92c21"	"أوافق"	"target_f5"	"اصبع قدم"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/10/2020 13:57:28"	"108683936a8be1f51a852549"	"أوافق"	"target_f5"	"إصبع قدم"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/10/2020 14:10:02"	"00485c995c3bbfc5db7d1d91"	"أوافق"	"target_f5"	"اصبع قدم"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/10/2020 20:51:30"	"536a64a0199531f51bade4b4"	"أوافق"	"target_f5"	"اصبع قدمها"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/11/2020 2:24:28"	"50445b18e48d7cf56c006b51"	"أوافق"	"target_f5"	"اصبع قدمها"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/11/2020 4:00:38"	"00979dad333c16c559945f10"	"أوافق"	"target_f5"	"إصبع قدمها"	"isba' qadm"	"iṣba' qadm"	"اصبع قدم"	"finger of the foot"	"toe"	0	0
+"12/10/2020 13:57:28"	"108683936a8be1f51a852549"	"أوافق"	"target_h4"	"اصبع اليد"	"isba' alyad"	"iṣba' alyad"	"اصبع اليد"	"finger of the hand"	"finger"	0	0
+"12/10/2020 14:23:59"	"9024b158f00471f55e55b850"	"أوافق"	"target_h4"	"اصبع يدها"	"isba' alyad"	"iṣba' alyad"	"اصبع اليد"	"finger of the hand"	"finger"	0	0
+"12/10/2020 18:00:44"	"9374972710934cf5cf62a06d"	"أوافق"	"target_h4"	"اصبع يدها"	"isba' yad"	"iṣba' yad"	"اصبع يد"	"finger of the hand"	"finger"	0	0
+"12/10/2020 20:51:30"	"536a64a0199531f51bade4b4"	"أوافق"	"target_h4"	"اصبع يدها"	"isba' yad"	"iṣba' yad"	"اصبع يد"	"finger of the hand"	"finger"	0	0
+"12/10/2020 13:57:28"	"108683936a8be1f51a852549"	"أوافق"	"target_h1"	"اصبع اليد"	"isba' alyad"	"iṣba' alyad"	"اصبع اليد"	"finger of the hand"	"finger"	0	0
+"12/10/2020 13:57:28"	"108683936a8be1f51a852549"	"أوافق"	"target_h5"	"اصبع اليد"	"isba' alyad"	"iṣba' alyad"	"اصبع اليد"	"finger of the hand"	"finger"	0	0
+"12/10/2020 14:10:02"	"00485c995c3bbfc5db7d1d91"	"أوافق"	"target_h5"	"اصبع يد"	"isba' yad"	"iṣba' yad"	"اصبع يد"	"finger of the hand"	"finger"	0	0
+"12/10/2020 20:51:30"	"536a64a0199531f51bade4b4"	"أوافق"	"target_h5"	"اصبع يدها"	"isba' yad"	"iṣba' yad"	"اصبع يد"	"finger of the hand"	"finger"	0	0
+"12/11/2020 4:50:38"	"f2a77dc5e788cae54f3c2375"	"أوافق"	"target_h5"	"اصبع يدها"	"isba' yad"	"iṣba' yad"	"اصبع يد"	"finger of the hand"	"finger"	0	0
+"12/10/2020 13:56:49"	"d4ec1021c72fe9f5ade6ed63"	"أوافق"	"target_f4"	"اصبع رجلها"	"isba' rijul"	"iṣba' rijul"	"اصبع رجل"	"finger of the leg"	"toe"	0	0
+"12/10/2020 13:59:11"	"c08e9a9bc3109fe58fda5bb0"	"أوافق"	"target_f4"	"إصبع رجلها"	"isba' rijul"	"iṣba' rijul"	"اصبع رجل"	"finger of the leg"	"toe"	0	0
+"12/10/2020 14:23:59"	"9024b158f00471f55e55b850"	"أوافق"	"target_f4"	"اصبع رجلها"	"isba' rijul"	"iṣba' rijul"	"اصبع رجل"	"finger of the leg"	"toe"	0	0
+"12/10/2020 14:32:31"	"a01531726b854af56a60af34"	"أوافق"	"target_f4"	"أصبع رجلها"	"isba' rijul"	"iṣba' rijul"	"اصبع رجل"	"finger of the leg"	"toe"	0	0
+"12/10/2020 16:12:53"	"23160601cd1d10f5eff26ca6"	"أوافق"	"target_f4"	"اصبع رجلها"	"isba' rijul"	"iṣba' rijul"	"اصبع رجل"	"finger of the leg"	"toe"	0	0
+"12/10/2020 16:53:33"	"60d368edc2d9c6f519a65b26"	"أوافق"	"target_f4"	"اصبع رجل"	"isba' rijul"	"iṣba' rijul"	"اصبع رجل"	"finger of the leg"	"toe"	0	0
+"12/11/2020 2:49:50"	"c0d12abf3462b8f50896a9c5"	"أوافق"	"target_f4"	"اصبع رجلها"	"isba' rijul"	"iṣba' rijul"	"اصبع رجل"	"finger of the leg"	"toe"	0	0
+"12/10/2020 13:59:11"	"c08e9a9bc3109fe58fda5bb0"	"أوافق"	"target_f1"	"إصبع رجلها"	"isba' rijul"	"iṣba' rijul"	"اصبع رجل"	"finger of the leg"	"toe"	0	0
+"12/10/2020 14:23:59"	"9024b158f00471f55e55b850"	"أوافق"	"target_f1"	"اصبع رجلها"	"isba' rijul"	"iṣba' rijul"	"اصبع رجل"	"finger of the leg"	"toe"	0	0
+"12/10/2020 16:12:53"	"23160601cd1d10f5eff26ca6"	"أوافق"	"target_f1"	"اصبع رجل"	"isba' rijul"	"iṣba' rijul"	"اصبع رجل"	"finger of the leg"	"toe"	0	0
+"12/10/2020 13:56:49"	"d4ec1021c72fe9f5ade6ed63"	"أوافق"	"target_f5"	"اصبع رجلها"	"isba' rijul"	"iṣba' rijul"	"اصبع رجل"	"finger of the leg"	"toe"	0	0
+"12/10/2020 18:00:44"	"9374972710934cf5cf62a06d"	"أوافق"	"target_f5"	"اصبع رجلها"	"isba' rijul"	"iṣba' rijul"	"اصبع رجل"	"finger of the leg"	"toe"	0	0
+"12/11/2020 6:36:22"	"00ee5edae9c7f3c5c0115010"	"أوافق"	"target_f5"	"خنصر رجلها"	"isba' rijul"	"iṣba' rijul"	"اصبع رجل"	"finger of the leg"	"toe"	0	0
+"12/11/2020 6:36:56"	"00ee5edae9c7f3c5c0115010"	"أوافق"	"target_f5"	"خنصر رجلها"	"isba' rijul"	"iṣba' rijul"	"اصبع رجل"	"finger of the leg"	"toe"	0	0
+"12/11/2020 10:35:30"	"0970061122fd62e5c6a58727"	"أوافق"	"target_f5"	"اصبع رجل"	"isba' rijul"	"iṣba' rijul"	"اصبع رجل"	"finger of the leg"	"toe"	0	0
+"12/10/2020 18:00:44"	"9374972710934cf5cf62a06d"	"أوافق"	"target_f4"	"اصبع رجلها القبل الأخير"	"isba' rijul alqabl alakheer"	"iṣba' rijul alqabl alākhīr"	"اصبع رجل القبل الأخير"	"finger on the leg before the last one"	"ring toe"	1	0
+"12/10/2020 15:24:31"	"319f381c3de482f58e752de9"	"أوافق"	"target_h4"	"يدها"	"yad"	"yad"	"يد"	"hand"	"hand"	0	0
+"12/10/2020 13:44:36"	"613e7a23495bbfe5827ebcc5"	"أوافق"	"target_h1"	"يد"	"yad"	"yad"	"يد"	"hand"	"hand"	0	0
+"12/10/2020 13:56:49"	"d4ec1021c72fe9f5ade6ed63"	"أوافق"	"target_h1"	"يدها"	"yad"	"yad"	"يد"	"hand"	"hand"	0	0
+"12/10/2020 15:19:04"	"539551cd48578ce5793949d1"	"أوافق"	"target_h1"	"يدي"	"yad"	"yad"	"يد"	"hand"	"hand"	0	0
+"12/10/2020 16:12:53"	"23160601cd1d10f5eff26ca6"	"أوافق"	"target_h1"	"يدها"	"yad"	"yad"	"يد"	"hand"	"hand"	0	0
+"12/10/2020 20:51:30"	"536a64a0199531f51bade4b4"	"أوافق"	"target_h1"	"يدها"	"yad"	"yad"	"يد"	"hand"	"hand"	0	0
+"12/10/2020 15:24:31"	"319f381c3de482f58e752de9"	"أوافق"	"target_h5"	"يده"	"yad"	"yad"	"يد"	"hand"	"hand"	0	0
+"12/10/2020 22:16:07"	"e20081acf4b9c7e5ef682eb0"	"أوافق"	"target_h4"	"سبابة يدها"	"sababa yad"	"sabāba yad"	"سبابة يد"	"index finger of the hand"	"index finger"	1	0
+"12/10/2020 22:16:07"	"e20081acf4b9c7e5ef682eb0"	"أوافق"	"target_h5"	"سبابة يد"	"sababa yad"	"sabāba yad"	"سبابة يد"	"index finger of the hand"	"index finger"	1	0
+"12/11/2020 10:35:30"	"0970061122fd62e5c6a58727"	"أوافق"	"target_f4"	"رجل"	"rijul"	"rijul"	"رجل"	"leg"	"leg"	0	0
+"12/11/2020 4:50:38"	"f2a77dc5e788cae54f3c2375"	"أوافق"	"target_f1"	"اظفر قدمها"	"atfar qadm"	"aẓfar qadm"	"اظفر قدم"	"nail of the foot"	"toenail"	0	0
+"12/10/2020 14:10:02"	"00485c995c3bbfc5db7d1d91"	"أوافق"	"target_h4"	"خنصر"	"khunsur"	"khunṣur"	"خنصر"	"pinky"	"pinky"	1	0
+"12/11/2020 10:35:30"	"0970061122fd62e5c6a58727"	"أوافق"	"target_h4"	"خنصر"	"khunsur"	"khunṣur"	"خنصر"	"pinky"	"pinky"	1	0
+"12/10/2020 13:27:38"	"009915add76d13c5eddf4e10"	"أوافق"	"target_h5"	"خنصر"	"khunsur"	"khunṣur"	"خنصر"	"pinky"	"pinky"	1	0
+"12/10/2020 13:59:11"	"c08e9a9bc3109fe58fda5bb0"	"أوافق"	"target_h5"	"خنصرها"	"khunsur"	"khunṣur"	"خنصر"	"pinky"	"pinky"	1	0
+"12/10/2020 16:09:18"	"4028cb6d611988f59851ed1b"	"أوافق"	"target_h5"	"خنصر"	"khunsur"	"khunṣur"	"خنصر"	"pinky"	"pinky"	1	0
+"12/10/2020 16:12:53"	"23160601cd1d10f5eff26ca6"	"أوافق"	"target_h5"	"خنصر"	"khunsur"	"khunṣur"	"خنصر"	"pinky"	"pinky"	1	0
+"12/10/2020 16:53:33"	"60d368edc2d9c6f519a65b26"	"أوافق"	"target_h5"	"خنصر"	"khunsur"	"khunṣur"	"خنصر"	"pinky"	"pinky"	1	0
+"12/10/2020 18:00:44"	"9374972710934cf5cf62a06d"	"أوافق"	"target_h5"	"خنصرها"	"khunsur"	"khunṣur"	"خنصر"	"pinky"	"pinky"	1	0
+"12/11/2020 2:24:28"	"50445b18e48d7cf56c006b51"	"أوافق"	"target_h5"	"خنصرها"	"khunsur"	"khunṣur"	"خنصر"	"pinky"	"pinky"	1	0
+"12/11/2020 6:36:22"	"00ee5edae9c7f3c5c0115010"	"أوافق"	"target_h5"	"خنصرها"	"khunsur"	"khunṣur"	"خنصر"	"pinky"	"pinky"	1	0
+"12/11/2020 6:36:56"	"00ee5edae9c7f3c5c0115010"	"أوافق"	"target_h5"	"خنصرها"	"khunsur"	"khunṣur"	"خنصر"	"pinky"	"pinky"	1	0
+"12/10/2020 13:27:38"	"009915add76d13c5eddf4e10"	"أوافق"	"target_f5"	"خنصر"	"khunsur"	"khunṣur"	"خنصر"	"pinky"	"pinky"	1	0
+"12/10/2020 17:58:50"	"e6224e8a386b1bf536b0b484"	"أوافق"	"target_f5"	"خنصر قدم"	"khunsur qadm"	"khunṣur qadm"	"خنصر قدم"	"pinky of the foot"	"pinky toe"	1	0
+"12/10/2020 17:58:50"	"e6224e8a386b1bf536b0b484"	"أوافق"	"target_h5"	"خنصر يد"	"khunsur yad"	"khunṣur yad"	"خنصر يد"	"pinky of the hand"	"pinky"	1	0
+"12/10/2020 13:27:38"	"009915add76d13c5eddf4e10"	"أوافق"	"target_f4"	"بنصر"	"binasr"	"binaṣr"	"بنصر"	"ring finger"	"ring finger"	1	0
+"12/10/2020 13:27:38"	"009915add76d13c5eddf4e10"	"أوافق"	"target_h4"	"بنصر"	"binasr"	"binaṣr"	"بنصر"	"ring finger"	"ring finger"	1	0
+"12/10/2020 13:59:11"	"c08e9a9bc3109fe58fda5bb0"	"أوافق"	"target_h4"	"بنصرها"	"binasr"	"binaṣr"	"بنصر"	"ring finger"	"ring finger"	1	0
+"12/10/2020 14:32:31"	"a01531726b854af56a60af34"	"أوافق"	"target_h4"	"أصبعها البنصر"	"isba' albinasr"	"iṣba' albinaṣr"	"أصبع البنصر"	"ring finger"	"ring finger"	1	0
+"12/10/2020 16:12:53"	"23160601cd1d10f5eff26ca6"	"أوافق"	"target_h4"	"بنصر"	"binasr"	"binaṣr"	"بنصر"	"ring finger"	"ring finger"	1	0
+"12/11/2020 2:24:28"	"50445b18e48d7cf56c006b51"	"أوافق"	"target_h4"	"بُنصرها"	"binasr"	"binaṣr"	"بنصر"	"ring finger"	"ring finger"	1	0
+"12/11/2020 2:49:50"	"c0d12abf3462b8f50896a9c5"	"أوافق"	"target_h4"	"بنصرها"	"binasr"	"binaṣr"	"بنصر"	"ring finger"	"ring finger"	1	0
+"12/11/2020 6:36:22"	"00ee5edae9c7f3c5c0115010"	"أوافق"	"target_h4"	"بنصرها"	"binasr"	"binaṣr"	"بنصر"	"ring finger"	"ring finger"	1	0
+"12/11/2020 6:36:56"	"00ee5edae9c7f3c5c0115010"	"أوافق"	"target_h4"	"بنصرها"	"binasr"	"binaṣr"	"بنصر"	"ring finger"	"ring finger"	1	0
+"12/11/2020 10:35:30"	"0970061122fd62e5c6a58727"	"أوافق"	"target_h5"	"بنصر"	"binasr"	"binaṣr"	"بنصر"	"ring finger"	"ring finger"	1	0
+"12/11/2020 6:36:22"	"00ee5edae9c7f3c5c0115010"	"أوافق"	"target_f4"	"بنصر رجلها"	"binasr rijul"	"binaṣr rijul"	"بنصر رجل"	"ring finger of the leg"	"ring toe"	1	0
+"12/11/2020 6:36:56"	"00ee5edae9c7f3c5c0115010"	"أوافق"	"target_f4"	"بنصر رجلها"	"binasr rijul"	"binaṣr rijul"	"بنصر رجل"	"ring finger of the leg"	"ring toe"	1	0
+"12/11/2020 4:50:38"	"f2a77dc5e788cae54f3c2375"	"أوافق"	"target_f5"	"اصبع قدمها الصغير"	"isba' qadm alsagheer"	"iṣba' qadm alsaghīr"	"اصبع قدم الصغير"	"small finger of the foot"	"pinky toe"	1	0
+"12/10/2020 14:23:59"	"9024b158f00471f55e55b850"	"أوافق"	"target_f5"	"اصبع رجلها الصغير"	"isba' rijul alsagheer"	"iṣba' rijul alṣaghīr"	"اصبع رجل الصغير"	"small finger of the leg"	"pinky toe"	1	0
+"12/10/2020 16:53:33"	"60d368edc2d9c6f519a65b26"	"أوافق"	"target_f5"	"اصبع رجلها الصغير"	"isba' rijul alsagheer"	"iṣba' rijul alṣaghīr"	"اصبع رجل الصغير"	"small finger of the leg"	"pinky toe"	1	0
+"12/11/2020 2:49:50"	"c0d12abf3462b8f50896a9c5"	"أوافق"	"target_f5"	"اصبع رجلها الصغير"	"isba' rijul alsagheer"	"iṣba' rijul alṣaghīr"	"اصبع رجل الصغير"	"small finger of the leg"	"pinky toe"	1	0
+"12/10/2020 14:32:31"	"a01531726b854af56a60af34"	"أوافق"	"target_h5"	"أصبعها الأصغر (الخنصر)"	"isba' alasghar"	"iṣba' alāsghar"	"أصبع الأصغر (الخنصر)"	"smallest finger"	"pinky"	1	0
+"12/10/2020 15:53:39"	"836dd17b08d9d2e5cb08eda8"	"أوافق"	"target_f5"	"اصغر اصبع في القدم"	"asghar isba' fi alqadm"	"asghar iṣba' fi alqadm"	"اصغر اصبع في القدم"	"smallest finger of the foot"	"pinky toe"	1	0
+"12/10/2020 14:23:59"	"9024b158f00471f55e55b850"	"أوافق"	"target_h5"	"اصبع يدها الاصغر"	"isba' yad alasghar"	"iṣba' yad alāsghar"	"اصبع يد الاصغر"	"smallest finger of the hand"	"pinky"	1	0
+"12/10/2020 14:32:31"	"a01531726b854af56a60af34"	"أوافق"	"target_f5"	"أصبع رجلها الأصغر"	"isba' rijul alasaghir"	"iṣba' rijul alāṣghir"	"أصبع رجل الأصغر"	"smallest finger of the leg"	"pinky toe"	1	0
+"12/10/2020 16:12:53"	"23160601cd1d10f5eff26ca6"	"أوافق"	"target_f5"	"اصبع رجلها الاصغر"	"isba' rijul alsaghir"	"iṣba' rijul alāṣghir"	"اصبع رجل الاصغر"	"smallest finger of the leg"	"pinky toe"	1	0
+"12/10/2020 16:09:18"	"4028cb6d611988f59851ed1b"	"أوافق"	"target_f1"	"الاصبع الكبير في قدم"	"alisba' ilkabeer fi qadm"	"aliṣba' ilkabīr fi qadm"	"الاصبع الكبير في قدم"	"the big finger of the foot"	"big toe"	1	0
+"12/10/2020 22:16:07"	"e20081acf4b9c7e5ef682eb0"	"أوافق"	"target_f1"	"الاصبع الأكبر لقدم"	"alisba' alakbar liqadm"	"aliṣba' alākbar liqadm"	"الاصبع الأكبر لقدم"	"the biggest finger of the foot"	"big toe"	1	0
+"12/10/2020 14:32:31"	"a01531726b854af56a60af34"	"أوافق"	"target_f1"	"أصبع رجلها الأكبر"	"isba' rijul alakbar"	"iṣba' rijul alākbar"	"أصبع رجل الأكبر"	"the biggest finger of the leg"	"big toe"	1	0
+"12/10/2020 18:00:44"	"9374972710934cf5cf62a06d"	"أوافق"	"target_f1"	"اصبع الرجل الكبرا"	"isba' alrijul alkabra"	"iṣba' alrijul alkabrā"	"اصبع الرجل الكبرا"	"the biggest finger of the leg"	"big toe"	1	0
+"12/10/2020 15:53:39"	"836dd17b08d9d2e5cb08eda8"	"أوافق"	"target_h4"	"في الاصبع الخطوبة"	"alisba' alkhutuba"	"aliṣba' alkhutūba"	"الاصبع الخطوبة"	"the engagement finger"	"ring finger"	1	0
+"12/11/2020 2:49:50"	"c0d12abf3462b8f50896a9c5"	"أوافق"	"target_h5"	"اصبع الخنصر"	"isba' alkhunsur"	"iṣba' alkhunsur"	"اصبع الخنصر"	"the pinky finger"	"pinky"	1	0
+"12/10/2020 15:53:39"	"836dd17b08d9d2e5cb08eda8"	"أوافق"	"target_h5"	"اصبع الصغير"	"isba' alsagheer"	"iṣba' alsaghīr"	"اصبع الصغير"	"the small finger"	"pinky"	1	0
+"12/10/2020 16:09:18"	"4028cb6d611988f59851ed1b"	"أوافق"	"target_f5"	"الاصبع الصغير في قدم"	"alisba' alsagheer fi alqadm"	"aliṣba' alsaghīr fī alqadm"	"الاصبع الصغير في قدم"	"the small finger on the foot"	"pinky toe"	1	0
+"12/10/2020 22:16:07"	"e20081acf4b9c7e5ef682eb0"	"أوافق"	"target_f5"	"الاصبع الصغير لقدم"	"alisba' alsagheer liqadm"	"aliṣba' alsaghīr liqadm"	"الاصبع الصغير لقدم"	"the small finger on the foot"	"pinky toe"	1	0
+"12/10/2020 14:32:31"	"a01531726b854af56a60af34"	"أوافق"	"target_h1"	"الإبهام"	"alibham"	"alibhām"	"الإبهام"	"the thumb"	"thumb"	1	0
+"12/10/2020 13:27:38"	"009915add76d13c5eddf4e10"	"أوافق"	"target_h1"	"ابهام"	"ibham"	"ibhām"	"ابهام"	"thumb"	"thumb"	1	0
+"12/10/2020 13:59:11"	"c08e9a9bc3109fe58fda5bb0"	"أوافق"	"target_h1"	"إبهامها"	"ibham"	"ibhām"	"ابهام"	"thumb"	"thumb"	1	0
+"12/10/2020 14:10:02"	"00485c995c3bbfc5db7d1d91"	"أوافق"	"target_h1"	"ابهام"	"ibham"	"ibhām"	"ابهام"	"thumb"	"thumb"	1	0
+"12/10/2020 14:23:59"	"9024b158f00471f55e55b850"	"أوافق"	"target_h1"	"ابهامها"	"ibham"	"ibhām"	"ابهام"	"thumb"	"thumb"	1	0
+"12/10/2020 15:53:39"	"836dd17b08d9d2e5cb08eda8"	"أوافق"	"target_h1"	"اسفل الابهام"	"ibham"	"ibhām"	"ابهام"	"thumb"	"thumb"	1	0
+"12/10/2020 16:09:18"	"4028cb6d611988f59851ed1b"	"أوافق"	"target_h1"	"ابهام"	"ibham"	"ibhām"	"ابهام"	"thumb"	"thumb"	1	0
+"12/10/2020 16:53:33"	"60d368edc2d9c6f519a65b26"	"أوافق"	"target_h1"	"ابهام"	"ibham"	"ibhām"	"ابهام"	"thumb"	"thumb"	1	0
+"12/10/2020 22:16:07"	"e20081acf4b9c7e5ef682eb0"	"أوافق"	"target_h1"	"ابهام"	"ibham"	"ibhām"	"ابهام"	"thumb"	"thumb"	1	0
+"12/11/2020 2:24:28"	"50445b18e48d7cf56c006b51"	"أوافق"	"target_h1"	"ابهامها"	"ibham"	"ibhām"	"ابهام"	"thumb"	"thumb"	1	0
+"12/11/2020 2:49:50"	"c0d12abf3462b8f50896a9c5"	"أوافق"	"target_h1"	"إبهام"	"ibham"	"ibhām"	"ابهام"	"thumb"	"thumb"	1	0
+"12/11/2020 6:36:22"	"00ee5edae9c7f3c5c0115010"	"أوافق"	"target_h1"	"ابهامها"	"ibham"	"ibhām"	"ابهام"	"thumb"	"thumb"	1	0
+"12/11/2020 6:36:56"	"00ee5edae9c7f3c5c0115010"	"أوافق"	"target_h1"	"ابهامها"	"ibham"	"ibhām"	"ابهام"	"thumb"	"thumb"	1	0
+"12/11/2020 10:35:30"	"0970061122fd62e5c6a58727"	"أوافق"	"target_h1"	"إبهامها"	"ibham"	"ibhām"	"ابهام"	"thumb"	"thumb"	1	0
+"12/11/2020 2:24:28"	"50445b18e48d7cf56c006b51"	"أوافق"	"target_f1"	"ابهامها"	"ibham"	"ibhām"	"ابهام"	"thumb"	"thumb"	1	0
+"12/10/2020 17:58:50"	"e6224e8a386b1bf536b0b484"	"أوافق"	"target_f1"	"ابهام قدم"	"ibham qadm"	"ibhām qadm"	"ابهام قدم"	"thumb of the foot"	"big toe"	1	0
+"12/10/2020 17:58:50"	"e6224e8a386b1bf536b0b484"	"أوافق"	"target_h1"	"ابهام يد"	"ibham yad"	"ibhām yad"	"ابهام يد"	"thumb of the hand"	"thumb"	1	0
+"12/10/2020 13:27:38"	"009915add76d13c5eddf4e10"	"أوافق"	"target_f1"	"ابهم رجل"	"ibham rijul"	"ibhām rijul"	"ابهم رجل"	"thumb of the leg"	"big toe"	1	0
+"12/11/2020 6:36:22"	"00ee5edae9c7f3c5c0115010"	"أوافق"	"target_f1"	"ابهام رجلها"	"ibham rijul"	"ibhām rijul"	"ابهم رجل"	"thumb of the leg"	"big toe"	1	0
+"12/11/2020 6:36:56"	"00ee5edae9c7f3c5c0115010"	"أوافق"	"target_f1"	"ابهام رجلها"	"ibham rijul"	"ibhām rijul"	"ابهم رجل"	"thumb of the leg"	"big toe"	1	0

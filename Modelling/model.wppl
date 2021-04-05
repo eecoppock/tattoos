@@ -1,0 +1,354 @@
+// Parameters and Variables
+
+// for testing
+//var model_data = [[1],[2],["empirical"],["speaker"],["thumb"],["hand"],["Russian"]]
+
+
+var alpha = model_data[0][0]
+var beta = model_data[1][0]
+var epsilon = model_data[2][0]
+var speakertype = model_data[3][0]
+var role = model_data[4][0]
+var input = model_data[5][0]
+var cond = model_data[6][0]
+var lg = model_data[7][0]
+
+
+display("alpha:")
+display(alpha)
+display("beta:")
+display(beta)
+display("speakertype:")
+display(speakertype)
+display("epsilon:")
+display(epsilon)
+
+
+//var epsilon = 0.0001
+
+// possible states of the world
+
+var states = ['thumb', 'ring_finger', 'pinky_finger',
+              'big_toe', 'ring_toe', 'pinky_toe'
+	     ]
+// These could be augmented with all tattooable body parts.
+// Not sure if these parts would have to be non-overlapping.
+// (e.g. could 'knuckle' be included? neither more specific nor more general than 'hand')
+
+
+// state prior
+
+var statePrior = function() {
+  return uniformDraw(states);
+}
+// This represents the probability of having a tattoo on any given body part,
+// which could be measured empirically. It probably makes a difference,
+// in light of the "blue banana" phenomenon.
+
+
+// utterance prior
+
+// to get the full set of possible utterances, read in data for speaker based on production data
+// assumes working directory "~/Dropbox/Tattoos/QP", which comes from R
+//var productionData = csv.read('../Modelling/production_summary.csv')
+var productionData = csv.read('../Modelling/production_summary.csv')
+
+// accessors for rows in production data
+
+var get_utt = function(row) { row[3] }
+var get_count = function(row) { _.parseInt(row[4]) }
+// the data is stored as strings; must be converted to numeric; hence parseInt
+// parseInt requires the package "lodash"; invoked by R code
+
+
+// define the full set of utterances
+
+// _.drop takes away the first element (the header)  of the array
+// _.dropRight takes away the last element, a weird 'undefined' that shows up for some reason
+// _.uniq removes duplicate
+var utterances = _.uniq(_.dropRight(_.drop(map(get_utt,productionData))))
+//display(utterances)
+
+// determine whether a row of production data corresponds to a given language
+var isLanguage = function (lg,row) {
+    return (lg == row[1])
+}
+
+// subset the data by language
+var production_data_for_lg = function(language) {
+    return (filter (function(row) { isLanguage(language,row) },productionData))
+}
+
+// get the set of utterances within a language
+var utterances_for_lg = function(language) {
+    return (_.uniq(map(get_utt,production_data_for_lg(language))))
+}
+
+
+var utterancePrior = function(language) {
+    return(uniformDraw(utterances_for_lg(language)))
+}
+
+var utterancePriorDist = function(language) {
+    return Infer({model: function () {
+	var utt = utterancePrior(language)
+	return utt
+    }})
+}
+
+//display(utterancePriorDist("English").score("ring_toe"))
+
+// define a probability distribution that captures exactly what speakers did
+
+// detect a matching row in the production data
+var matches = function (language,condition,row) {
+    return (language == row[1] & condition == row[2])
+}
+
+// filter out non-matching rows
+var find_matches = function (lg,state) {
+    filter(function(row) { matches(lg,state,row) }, productionData)
+}
+
+// define the probability distribution
+var observed_prod_probs = function(lg,state) {    
+    var utterances = map(get_utt,find_matches(lg,state))
+    var probabilities = map(get_count,find_matches(lg,state))
+//    display(lg)
+//    display(state)
+//    display(utterances)
+//    display(probabilities)
+    return categorical(probabilities, utterances)
+}
+
+var smoothed_count = function(lg,state,utt) {
+    var matches = find_matches(lg,state)
+    var rows_in_data = filter(function(row) {
+	get_utt(row)==utt
+    },matches)
+    if (rows_in_data.length>0) {
+	return get_count(rows_in_data[0])
+    } else {
+	return epsilon
+    }
+}
+
+//display(smoothed_count("English","thumb","finger"))
+
+var observed_prod_dist = function (lg,state) {
+    return(Infer({model: function() {
+	var utt = observed_prod_probs(lg,state)
+	return(utt)
+    }}))
+}
+
+
+var smoothed_observed_prod_probs = function(lg,state) {
+    var utterances = utterances_for_lg(lg)
+    var smoothed_count_fn = function (utt) { smoothed_count(lg,state,utt) }
+    var probabilities = map(smoothed_count_fn,utterances)
+    //display(probabilities)
+    return categorical(probabilities,utterances)
+}
+
+var smoothed_observed_prod_dist = function (lg,state) {
+    return(Infer({model: function() {
+	var utt = smoothed_observed_prod_probs(lg,state)
+	return(utt)
+    }}))
+}
+
+
+
+//display(observed_prod_dist("Russian","pinky_toe").score("palets_nogi"))
+
+
+
+///////////////  Read in literal meanings ///////////////
+
+
+var meaningfilename = '../Modelling/literal_meanings/meaning_matrix_' + lg + '.csv'
+
+//display(meaningfilename)
+
+var meaningMatrix = csv.read(meaningfilename)
+
+var select_lexent = function(utt) {
+    filter(function (row) { row[0] == utt },meaningMatrix)
+}
+
+var column_for_state = {
+    thumb: 1,
+    ring_finger: 2,
+    pinky_finger: 3,
+    big_toe: 4,
+    ring_toe: 5,
+    pinky_toe: 6
+}
+
+var utt_true_in_state = function (utt,state) {
+    var row = select_lexent(utt)
+    var col = column_for_state[state]
+
+    if (row.length==0) {
+	display("Warning! Utterance not found in lexicon:")
+	display(utt)
+    }
+    return row[0][col]=="TRUE"
+}
+
+//display(utt_true_in_state("quinto_ortejo","pinky_toe"))
+
+
+
+
+// cost function for utterances: length in words
+var cost = function(utterance) {
+    var words = _.split(utterance,"_")
+    var cost = _.size(words)
+    return _.size(words)
+}
+
+
+// literal listener
+var literalListener = function(utt) {
+    return Infer({model: function() {
+	var state = statePrior();
+	condition(utt_true_in_state(utt,state))
+	return state
+    }})
+};
+
+// pragmatic speaker
+var speaker = function(state,lg) {
+    //speakertype is a global parameter
+    if (speakertype=="empirical") {
+	
+	return Infer ({model: function() {
+	    var utt = utterancePrior(lg)
+	    factor(alpha * (literalListener(utt).score(state)
+			    + smoothed_observed_prod_dist(lg,state).score(utt)))
+	    return utt
+	}})
+	
+    } else {
+     	return Infer({model: function() {
+     	    var utt = utterancePrior(lg)
+     	    factor(alpha * (literalListener(utt).score(state) - beta*cost(utt)))
+     	    return utt
+     	}})
+    }
+};
+
+
+// pragmatic listener
+var pragmaticListener = function(utt,lg,speakertype) {
+  return Infer({model: function() {
+    var state = statePrior()
+      observe(speaker(state,lg),utt)
+    return state
+  }})
+};
+
+
+// pragmatic listener conditional on info about state
+var pragmaticListenerConditionalized = function(utt,lg,state_condition) {
+    return Infer({model: function() {
+	var state = statePrior()
+	observe(speaker(state,lg),utt)
+	condition(state_condition(state))
+	return state
+    }})
+};
+
+
+// conditions on states that we can use as arguments to above
+var stateConditionFn = {
+
+    h1_4: function(state) { (state=='thumb'|state=='ring_finger') },
+    h1_5: function(state) { (state=='thumb'|state=='pinky_finger') },
+    h4_5: function(state) { (state=='pinky_finger'|state=='ring_finger') },
+
+    f1_4: function(state) { (state=='big_toe'|state=='ring_toe') },
+    f1_5: function(state) { (state=='big_toe'|state=='pinky_toe') },
+    f4_5: function(state) { (state=='pinky_toe'|state=='ring_toe') }
+
+}
+
+
+
+//////////// main routine: executeRole //////////////////////
+
+// role: "speaker" or "hearer"
+// input: a state for a speaker, or an utterance, for a hearer
+// condition: e.g. "h1_4" for thumb vs. fourth finger in comprhension ("hand" or "foot" for production)
+// language: "Spanish" or "English"
+
+var executeRole = function(role,input,cond,lg) {
+    display(role)
+    display(input)
+    display(cond)
+    display(lg)
+    display("")
+    if (role == "speaker") {
+	return (speaker(input,lg))
+    } else {
+	return (pragmaticListenerConditionalized(input,lg,stateConditionFn[cond]))
+    }
+}
+
+// Main function call
+
+executeRole(role,input,cond,lg)
+
+
+
+//////////// Fun things to try  ////////////
+
+//literalListener("thumb")
+
+//var speaker_h1_eng = speaker('thumb','English')
+//display("\nExpressing thumb in English:")
+//display(speaker_h1_eng)
+
+//var speaker_h4_eng = speaker('thumb','English')
+//display("\nExpressing ring finger in English:")
+//display(speaker_h4_eng)
+
+// display("\nExpressing big toe in English:")
+// display(speaker('big_toe','English'))
+
+// display("\nExpressing ring toe in English:")
+// display(speaker('ring_toe','English'))
+
+// display("\nExpressing thumb in Spanish:")
+// display(speaker('thumb','Spanish'))
+
+// display("\nExpressing ring finger in Spanish:")
+// display(speaker('ring_finger','Spanish'))
+
+// display("\nExpressing big toe in Spanish:")
+// display(speaker('big_toe','Spanish'))
+
+// display("\nExpressing ring toe in Spanish:")
+// display(speaker('ring_toe','Spanish'))
+
+// display("\n")
+
+// display("\nHearing finger in English:")
+// display(pragmaticListener('finger','English'))
+
+// display("\nHearing toe in English:")
+// display(pragmaticListener('toe','English'))
+
+// display("\n")
+
+// display("\nHearing dedo in Spanish:")
+// display(pragmaticListenerConditionalized('dedo','Spanish',handpart))
+
+// display("\nHearing dedo del pie in Spanish:")
+// display(pragmaticListener('dedo_del_pie','Spanish'))
+
+// display("\n")
+
+//map(get_utt,find_matches("English","pinky_toe"))

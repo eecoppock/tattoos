@@ -1,0 +1,139 @@
+"Timestamp","participant.id","Consent","Condition","Response","Normal_Utt","Specificity","Directionality"
+"12/12/19 13:28","00e1bc311c25a8d522aaf910","Estoy de acuerdo","target_f4","Un dedo del pie","dedo del pie",0,0
+"12/12/19 13:29","000534f4b40130b56be7c810","Estoy de acuerdo","target_f4","penultimo dedo del pie izq","penultimo dedo del pie",1,1
+"12/12/19 13:31","47638322cb9d7ed58c0cd40f","Estoy de acuerdo","target_f4","El dedo del pie","dedo del pie",0,0
+"12/12/19 13:32","002eae90cbf7fda55a503110","Estoy de acuerdo","target_f4","el dedo del pie","dedo del pie",0,0
+"12/12/19 13:34","0095b88627d873c5f3822010","Estoy de acuerdo","target_f4","El dedo del pie","dedo del pie",0,0
+"12/12/19 13:35","0008218cc62192d5f741eb51","Estoy de acuerdo","target_f4","un dedo del pie","dedo del pie",0,0
+"12/12/19 13:36","00a57ceab51c62d50e81c681","Estoy de acuerdo","target_f4","dedo","dedo",0,0
+"12/12/19 13:37","00febabade63d3c576f30610","Estoy de acuerdo","target_f4","un dedo del pie","dedo del pie",0,0
+"12/12/19 13:37","005424cb620845d581779210","Estoy de acuerdo","target_f4","en el dedo del pie","dedo del pie",0,0
+"12/12/19 13:37","00682aafc1fb79d56a561b51","Estoy de acuerdo","target_f4","El dedo de pie","dedo del pie",0,0
+"12/12/19 13:37","c5ed669b9c226dd51d5b9cc2","Estoy de acuerdo","target_f4","el dedo del pie","dedo del pie",0,0
+"12/12/19 13:38","00cc9479abe663d5bf12c581","Estoy de acuerdo","target_f4","dedo del pie","dedo del pie",0,0
+"12/12/19 13:40","000523fed1aef7d50346d410","Estoy de acuerdo","target_f4","En un dedo del pie","dedo del pie",0,0
+"12/12/19 13:40","002b94f42c4ac4d53b2517a1","Estoy de acuerdo","target_f4","el dedo del pie","dedo del pie",0,0
+"12/12/19 13:41","00eb3122448400c5975d2c10","Estoy de acuerdo","target_f4","el dedo del pie","dedo del pie",0,0
+"12/12/19 13:42","002f9cd103135ad5fb70df71","Estoy de acuerdo","target_f4","el pie","pie",0,0
+"12/12/19 13:42","00e165528082afa5e101b310","Estoy de acuerdo","target_f4","Dedo","dedo",0,0
+"12/12/19 13:45","005a5d011786c4d5e34bd910","Estoy de acuerdo","target_f4","el dedo anular del pie","dedo anular del pie",1,0
+"12/12/19 13:45","00a6e5fc260993b53f333810","Estoy de acuerdo","target_f4","el dedo del pie","dedo del pie",0,0
+"12/12/19 13:46","00a210c8fd6c56d5ebbcf491","Estoy de acuerdo","target_f4","ella tiene un tatuaje en el cuarto ortejo ","cuarto ortejo",1,0
+"12/12/19 13:46","001784090aed27c54d0ecb10","Estoy de acuerdo","target_f4","El dedo anular del pie","dedo anular del pie",1,0
+"12/12/19 13:47","005163e6ad6e57d5feac2810","Estoy de acuerdo","target_f4","el dedo del pie","dedo del pie",0,0
+"12/12/19 14:02","00f8791351d8a1d5db24c910","Estoy de acuerdo","target_f4","dedo del pie","dedo del pie",0,0
+"12/12/19 13:28","00e1bc311c25a8d522aaf910","Estoy de acuerdo","target_h4","El dedo anular","dedo anular",1,0
+"12/12/19 13:29","000534f4b40130b56be7c810","Estoy de acuerdo","target_h4","dedo del anillo de mano izq","dedo anular de la mano",1,1
+"12/12/19 13:31","47638322cb9d7ed58c0cd40f","Estoy de acuerdo","target_h4","El dedo como anillo","dedo como anillo",1,0
+"12/12/19 13:32","002eae90cbf7fda55a503110","Estoy de acuerdo","target_h4","en el dedo","dedo",0,0
+"12/12/19 13:34","0095b88627d873c5f3822010","Estoy de acuerdo","target_h4","El dedo","dedo",0,0
+"12/12/19 13:35","0008218cc62192d5f741eb51","Estoy de acuerdo","target_h4","dedo anular","dedo anular",1,0
+"12/12/19 13:36","00a57ceab51c62d50e81c681","Estoy de acuerdo","target_h4","dedo","dedo",0,0
+"12/12/19 13:37","00febabade63d3c576f30610","Estoy de acuerdo","target_h4","el dedo","dedo",0,0
+"12/12/19 13:37","005424cb620845d581779210","Estoy de acuerdo","target_h4","el dedo anular","dedo anular",1,0
+"12/12/19 13:37","00682aafc1fb79d56a561b51","Estoy de acuerdo","target_h4","El dedo anular ","dedo anular",1,0
+"12/12/19 13:37","c5ed669b9c226dd51d5b9cc2","Estoy de acuerdo","target_h4","la mano","mano",0,0
+"12/12/19 13:38","00cc9479abe663d5bf12c581","Estoy de acuerdo","target_h4","dedo de la mano","dedo de la mano",0,0
+"12/12/19 13:40","000523fed1aef7d50346d410","Estoy de acuerdo","target_h4","Su mano","mano",0,0
+"12/12/19 13:40","002b94f42c4ac4d53b2517a1","Estoy de acuerdo","target_h4","la mano","mano",0,0
+"12/12/19 13:41","00eb3122448400c5975d2c10","Estoy de acuerdo","target_h4","el anular","anular",1,0
+"12/12/19 13:42","002f9cd103135ad5fb70df71","Estoy de acuerdo","target_h4","la base del dedo anular","dedo anular",1,0
+"12/12/19 13:42","00e165528082afa5e101b310","Estoy de acuerdo","target_h4","dedo","dedo",0,0
+"12/12/19 13:45","005a5d011786c4d5e34bd910","Estoy de acuerdo","target_h4","el dedo anular de la mano","dedo anular de la mano",1,0
+"12/12/19 13:45","00a6e5fc260993b53f333810","Estoy de acuerdo","target_h4","el dedo anular","dedo anular",1,0
+"12/12/19 13:46","00a210c8fd6c56d5ebbcf491","Estoy de acuerdo","target_h4","ella tiene un tatuaje en menisco del dedo anular","dedo anular",1,0
+"12/12/19 13:46","001784090aed27c54d0ecb10","Estoy de acuerdo","target_h4","El dedo anular","dedo anular",1,0
+"12/12/19 13:47","005163e6ad6e57d5feac2810","Estoy de acuerdo","target_h4","el dedo","dedo",0,0
+"12/12/19 14:02","00f8791351d8a1d5db24c910","Estoy de acuerdo","target_h4","dedo de la mano","dedo de la mano",0,0
+"12/12/19 13:28","00e1bc311c25a8d522aaf910","Estoy de acuerdo","target_h1","La mano izquierda ","mano",0,1
+"12/12/19 13:29","000534f4b40130b56be7c810","Estoy de acuerdo","target_h1","dedo mano izq","dedo de la mano",0,0
+"12/12/19 13:31","47638322cb9d7ed58c0cd40f","Estoy de acuerdo","target_h1","El dedo","dedo",0,0
+"12/12/19 13:32","002eae90cbf7fda55a503110","Estoy de acuerdo","target_h1","en el dedo pulgar","dedo pulgar",1,0
+"12/12/19 13:34","0095b88627d873c5f3822010","Estoy de acuerdo","target_h1","La mano","mano",0,0
+"12/12/19 13:35","0008218cc62192d5f741eb51","Estoy de acuerdo","target_h1","el pulgar","pulgar",1,0
+"12/12/19 13:36","00a57ceab51c62d50e81c681","Estoy de acuerdo","target_h1","la mano","mano",0,0
+"12/12/19 13:37","00febabade63d3c576f30610","Estoy de acuerdo","target_h1","el dedo gordo de la mano","dedo gordo de la mano",1,0
+"12/12/19 13:37","005424cb620845d581779210","Estoy de acuerdo","target_h1","el pulgar","pulgar",1,0
+"12/12/19 13:37","00682aafc1fb79d56a561b51","Estoy de acuerdo","target_h1","El pulgar ","pulgar",1,0
+"12/12/19 13:37","c5ed669b9c226dd51d5b9cc2","Estoy de acuerdo","target_h1","la mano","mano",0,0
+"12/12/19 13:38","00cc9479abe663d5bf12c581","Estoy de acuerdo","target_h1","dedo de la mano","dedo de la mano",0,0
+"12/12/19 13:40","000523fed1aef7d50346d410","Estoy de acuerdo","target_h1","El pulgar","pulgar",1,0
+"12/12/19 13:40","002b94f42c4ac4d53b2517a1","Estoy de acuerdo","target_h1","el pulgar de la mano izquierda","pulgar de la mano",1,1
+"12/12/19 13:41","00eb3122448400c5975d2c10","Estoy de acuerdo","target_h1","el pulgar","pulgar",1,0
+"12/12/19 13:42","002f9cd103135ad5fb70df71","Estoy de acuerdo","target_h1","el pulgar","pulgar",1,0
+"12/12/19 13:42","00e165528082afa5e101b310","Estoy de acuerdo","target_h1","dedo","dedo",0,0
+"12/12/19 13:45","005a5d011786c4d5e34bd910","Estoy de acuerdo","target_h1","el pulgar de la mano","pulgar de la mano",1,0
+"12/12/19 13:45","00a6e5fc260993b53f333810","Estoy de acuerdo","target_h1","el pulgar","pulgar",1,0
+"12/12/19 13:46","00a210c8fd6c56d5ebbcf491","Estoy de acuerdo","target_h1","ella tiene un tatuaje en el pulgar","pulgar",1,0
+"12/12/19 13:46","001784090aed27c54d0ecb10","Estoy de acuerdo","target_h1","El pulgar","pulgar",1,0
+"12/12/19 13:47","005163e6ad6e57d5feac2810","Estoy de acuerdo","target_h1","el dedo gordo","dedo gordo",1,0
+"12/12/19 14:02","00f8791351d8a1d5db24c910","Estoy de acuerdo","target_h1","pulgar izquierdo","pulgar",1,1
+"12/12/19 13:28","00e1bc311c25a8d522aaf910","Estoy de acuerdo","target_f1","El dedo gordo del pie","dedo gordo del pie",1,0
+"12/12/19 13:29","000534f4b40130b56be7c810","Estoy de acuerdo","target_f1","dedo gordo del pie derecho","dedo gordo del pie",1,1
+"12/12/19 13:31","47638322cb9d7ed58c0cd40f","Estoy de acuerdo","target_f1","El dedo del pie","dedo del pie",0,0
+"12/12/19 13:32","002eae90cbf7fda55a503110","Estoy de acuerdo","target_f1","en el dedo del pie","dedo del pie",0,0
+"12/12/19 13:34","0095b88627d873c5f3822010","Estoy de acuerdo","target_f1","El dedo gordo del pie","dedo gordo del pie",1,0
+"12/12/19 13:35","0008218cc62192d5f741eb51","Estoy de acuerdo","target_f1","el dedo gordo del pie","dedo gordo del pie",1,0
+"12/12/19 13:36","00a57ceab51c62d50e81c681","Estoy de acuerdo","target_f1","el pie","pie",0,0
+"12/12/19 13:37","00febabade63d3c576f30610","Estoy de acuerdo","target_f1","el dedo gordo del pie","dedo gordo del pie",1,0
+"12/12/19 13:37","005424cb620845d581779210","Estoy de acuerdo","target_f1","el dedo del pie","dedo del pie",0,0
+"12/12/19 13:37","00682aafc1fb79d56a561b51","Estoy de acuerdo","target_f1","El dedo del pie","dedo del pie",0,0
+"12/12/19 13:37","c5ed669b9c226dd51d5b9cc2","Estoy de acuerdo","target_f1","el dedo del pie","dedo del pie",0,0
+"12/12/19 13:38","00cc9479abe663d5bf12c581","Estoy de acuerdo","target_f1","dedo del pie","dedo del pie",0,0
+"12/12/19 13:40","000523fed1aef7d50346d410","Estoy de acuerdo","target_f1","El pulgar de su pie","pulgar del pie",1,0
+"12/12/19 13:40","002b94f42c4ac4d53b2517a1","Estoy de acuerdo","target_f1","el dedo gordo del pie","dedo gordo del pie",1,0
+"12/12/19 13:41","00eb3122448400c5975d2c10","Estoy de acuerdo","target_f1","el dedo gordo del pie","dedo gordo del pie",1,0
+"12/12/19 13:42","002f9cd103135ad5fb70df71","Estoy de acuerdo","target_f1","el dedo gordo del pie","dedo gordo del pie",1,0
+"12/12/19 13:42","00e165528082afa5e101b310","Estoy de acuerdo","target_f1","dedo","dedo",0,0
+"12/12/19 13:45","005a5d011786c4d5e34bd910","Estoy de acuerdo","target_f1","el pulgar del pie","pulgar del pie",1,0
+"12/12/19 13:45","00a6e5fc260993b53f333810","Estoy de acuerdo","target_f1","el dedo gordo ","dedo gordo",1,0
+"12/12/19 13:46","00a210c8fd6c56d5ebbcf491","Estoy de acuerdo","target_f1","ella tiene un tatuaje en el dedo del pie","dedo del pie",0,0
+"12/12/19 13:46","001784090aed27c54d0ecb10","Estoy de acuerdo","target_f1","El dedo gordo del pie","dedo gordo del pie",1,0
+"12/12/19 13:47","005163e6ad6e57d5feac2810","Estoy de acuerdo","target_f1","el dedo del pie","dedo del pie",0,0
+"12/12/19 14:02","00f8791351d8a1d5db24c910","Estoy de acuerdo","target_f1","dedo gordo del pie","dedo gordo del pie",1,0
+"12/12/19 13:28","00e1bc311c25a8d522aaf910","Estoy de acuerdo","target_f5","El pie","pie",0,0
+"12/12/19 13:29","000534f4b40130b56be7c810","Estoy de acuerdo","target_f5","dedo meñique pie derecho","dedo meñique del pie",1,1
+"12/12/19 13:31","47638322cb9d7ed58c0cd40f","Estoy de acuerdo","target_f5","el dedo","dedo",0,0
+"12/12/19 13:32","002eae90cbf7fda55a503110","Estoy de acuerdo","target_f5","en el dedo chiquito","dedo chiquito",1,0
+"12/12/19 13:34","0095b88627d873c5f3822010","Estoy de acuerdo","target_f5","El dedo del pie","dedo del pie",0,0
+"12/12/19 13:35","0008218cc62192d5f741eb51","Estoy de acuerdo","target_f5","el dedo pequeño del pie","dedo pequeño del pie",1,0
+"12/12/19 13:36","00a57ceab51c62d50e81c681","Estoy de acuerdo","target_f5","indice","indice",1,0
+"12/12/19 13:37","00febabade63d3c576f30610","Estoy de acuerdo","target_f5","el dedo chiquito del pie","dedo chiquito del pie",1,0
+"12/12/19 13:37","005424cb620845d581779210","Estoy de acuerdo","target_f5","el dedo del pie","dedo del pie",0,0
+"12/12/19 13:37","00682aafc1fb79d56a561b51","Estoy de acuerdo","target_f5","El dedo del pie ","dedo del pie",0,0
+"12/12/19 13:37","c5ed669b9c226dd51d5b9cc2","Estoy de acuerdo","target_f5","el dedo del pie","dedo del pie",0,0
+"12/12/19 13:38","00cc9479abe663d5bf12c581","Estoy de acuerdo","target_f5","dedo del pie ","dedo del pie",0,0
+"12/12/19 13:40","000523fed1aef7d50346d410","Estoy de acuerdo","target_f5","El meñique del pie","meñique del pie",1,0
+"12/12/19 13:40","002b94f42c4ac4d53b2517a1","Estoy de acuerdo","target_f5","el dedo chiquito del pie","dedo chiquito del pie",1,0
+"12/12/19 13:41","00eb3122448400c5975d2c10","Estoy de acuerdo","target_f5","el dedo del pie","dedo del pie",0,0
+"12/12/19 13:42","002f9cd103135ad5fb70df71","Estoy de acuerdo","target_f5","el dedo chico del pie","dedo chico del pie",1,0
+"12/12/19 13:42","00e165528082afa5e101b310","Estoy de acuerdo","target_f5","dedo","dedo",0,0
+"12/12/19 13:45","005a5d011786c4d5e34bd910","Estoy de acuerdo","target_f5","el menique del pie","meñique del pie",1,0
+"12/12/19 13:45","00a6e5fc260993b53f333810","Estoy de acuerdo","target_f5","el dedo chiquito del pie","dedo chiquito del pie",1,0
+"12/12/19 13:46","00a210c8fd6c56d5ebbcf491","Estoy de acuerdo","target_f5","ella tiene un tatuaje en quinto ortejo","quinto ortejo",1,0
+"12/12/19 13:46","001784090aed27c54d0ecb10","Estoy de acuerdo","target_f5","El dedo meñique del pie","dedo meñique",1,0
+"12/12/19 13:47","005163e6ad6e57d5feac2810","Estoy de acuerdo","target_f5","el dedo","dedo",0,0
+"12/12/19 14:02","00f8791351d8a1d5db24c910","Estoy de acuerdo","target_f5","dedo del pie","dedo del pie",0,0
+"12/12/19 13:28","00e1bc311c25a8d522aaf910","Estoy de acuerdo","target_h5","El dedo chiquito ","dedo chiquito",1,0
+"12/12/19 13:29","000534f4b40130b56be7c810","Estoy de acuerdo","target_h5","dedo meñique mano izq","dedo meñique",1,1
+"12/12/19 13:31","47638322cb9d7ed58c0cd40f","Estoy de acuerdo","target_h5","El dedo","dedo",0,0
+"12/12/19 13:32","002eae90cbf7fda55a503110","Estoy de acuerdo","target_h5","en el meñique","meñique",1,0
+"12/12/19 13:34","0095b88627d873c5f3822010","Estoy de acuerdo","target_h5","El dedo","dedo",0,0
+"12/12/19 13:35","0008218cc62192d5f741eb51","Estoy de acuerdo","target_h5","en el dedo meñique","dedo meñique",1,0
+"12/12/19 13:36","00a57ceab51c62d50e81c681","Estoy de acuerdo","target_h5","dedo meñique","dedo meñique",1,0
+"12/12/19 13:37","00febabade63d3c576f30610","Estoy de acuerdo","target_h5","el dedo chiquito de la mano","dedo chiquito",1,0
+"12/12/19 13:37","005424cb620845d581779210","Estoy de acuerdo","target_h5","el meñique","meñique",1,0
+"12/12/19 13:37","00682aafc1fb79d56a561b51","Estoy de acuerdo","target_h5","El meñique ","meñique",1,0
+"12/12/19 13:37","c5ed669b9c226dd51d5b9cc2","Estoy de acuerdo","target_h5","el dedo meñique","dedo meñique",1,0
+"12/12/19 13:38","00cc9479abe663d5bf12c581","Estoy de acuerdo","target_h5","meñique o dedo de la mano","dedo de la mano",0,0
+"12/12/19 13:40","000523fed1aef7d50346d410","Estoy de acuerdo","target_h5","El meñique","meñique",1,0
+"12/12/19 13:40","002b94f42c4ac4d53b2517a1","Estoy de acuerdo","target_h5","meñique de la mano izquierda","meñique de la mano",1,1
+"12/12/19 13:41","00eb3122448400c5975d2c10","Estoy de acuerdo","target_h5","el meñique","meñique",1,0
+"12/12/19 13:42","002f9cd103135ad5fb70df71","Estoy de acuerdo","target_h5","el meñique","meñique",1,0
+"12/12/19 13:42","00e165528082afa5e101b310","Estoy de acuerdo","target_h5","dedo","dedo",0,0
+"12/12/19 13:45","005a5d011786c4d5e34bd910","Estoy de acuerdo","target_h5","el menique de la mano","meñique de la mano",1,0
+"12/12/19 13:45","00a6e5fc260993b53f333810","Estoy de acuerdo","target_h5","el dedo chiquito ","dedo chiquito",1,0
+"12/12/19 13:46","00a210c8fd6c56d5ebbcf491","Estoy de acuerdo","target_h5","ella tiene un tatuaje en el meñique","meñique",1,0
+"12/12/19 13:46","001784090aed27c54d0ecb10","Estoy de acuerdo","target_h5","El meñique","meñique",1,0
+"12/12/19 13:47","005163e6ad6e57d5feac2810","Estoy de acuerdo","target_h5","el dedo","dedo",0,0
+"12/12/19 14:02","00f8791351d8a1d5db24c910","Estoy de acuerdo","target_h5","meñique izquierdo","meñique",1,1
