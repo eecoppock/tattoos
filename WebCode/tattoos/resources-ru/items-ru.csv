@@ -1,0 +1,12 @@
+﻿target,target_h1_4,finger,&#1087;&#1072;&#1083;&#1100;&#1094;&#1077;,either,thumb,ring_finger
+target,target_h1_5,finger,&#1087;&#1072;&#1083;&#1100;&#1094;&#1077;,either,thumb,pinky
+target,target_h4_5,finger,&#1087;&#1072;&#1083;&#1100;&#1094;&#1077;,either,ring_finger,pinky
+target,target_f1_4,toe,&#1087;&#1072;&#1083;&#1100;&#1094;&#1077; &#1085;&#1086;&#1075;&#1080;,either,big_toe,ring_toe
+target,target_f1_5,toe,&#1087;&#1072;&#1083;&#1100;&#1094;&#1077; &#1085;&#1086;&#1075;&#1080;,either,big_toe,pinky_toe
+target,target_f4_5,toe,&#1087;&#1072;&#1083;&#1100;&#1094;&#1077; &#1085;&#1086;&#1075;&#1080;,either,ring_toe,pinky_toe
+filler,filler_a_a,arm,&#1088;&#1091;&#1082;&#1077;,either,arm_elbow,arm_shoulder
+filler,filler_l_l,leg,&#1085;&#1086;&#1075;&#1077;,either,leg_calf,leg_knee
+filler,filler_b_b,back,&#1089;&#1087;&#1080;&#1085;&#1077;,either,back,back_shoulder
+filler,filler_a_l,arm,&#1088;&#1091;&#1082;&#1077;,arm_shoulder,arm_shoulder,leg_calf
+filler,filler_b_a,back,&#1089;&#1087;&#1080;&#1085;&#1077;,back,back,arm_elbow
+filler,filler_l_b,leg,&#1085;&#1086;&#1075;&#1077;,leg_knee,leg_knee,back_shoulder

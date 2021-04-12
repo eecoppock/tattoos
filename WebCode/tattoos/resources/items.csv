@@ -1,0 +1,12 @@
+﻿target,target_h1_4,finger,el dedo,either,thumb,ring_finger
+target,target_h1_5,finger,el dedo,either,thumb,pinky
+target,target_h4_5,finger,el dedo,either,ring_finger,pinky
+target,target_f1_4,toe,el dedo del pie,either,big_toe,ring_toe
+target,target_f1_5,toe,el dedo del pie,either,big_toe,pinky_toe
+target,target_f4_5,toe,el dedo del pie,either,ring_toe,pinky_toe
+filler,filler_a_a,arm,el brazo,either,arm_elbow,arm_shoulder
+filler,filler_l_l,leg,la pierna,either,leg_calf,leg_knee
+filler,filler_b_b,back,la espalda,either,back,back_shoulder
+filler,filler_a_l,arm,el brazo,arm,arm_shoulder,leg_calf
+filler,filler_b_a,back,la espalda,back,back,arm_elbow
+filler,filler_l_b,leg,la pierna,leg,leg_knee,back_shoulder

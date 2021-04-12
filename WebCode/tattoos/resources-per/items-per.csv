@@ -1,0 +1,12 @@
+﻿target,target_h1_4,finger,انگشت,either,thumb,ring_finger
+target,target_h1_5,finger,انگشت,either,thumb,pinky
+target,target_h4_5,finger,انگشت,either,ring_finger,pinky
+target,target_f1_4,toe,انگشت پا,either,big_toe,ring_toe
+target,target_f1_5,toe,انگشت پا,either,big_toe,pinky_toe
+target,target_f4_5,toe,انگشت پا,either,ring_toe,pinky_toe
+filler,filler_a_a,arm,بازو,either,arm_elbow,arm_shoulder
+filler,filler_l_l,leg,پا,either,leg_calf,leg_knee
+filler,filler_b_b,back,پشت,either,back,back_shoulder
+filler,filler_a_l,arm,بازو,arm_shoulder,arm_shoulder,leg_calf
+filler,filler_b_a,back,پشت,back,back,arm_elbow
+filler,filler_l_b,leg,پا,leg_knee,leg_knee,back_shoulder
