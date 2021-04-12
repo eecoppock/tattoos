@@ -36,43 +36,49 @@ setwd("~/Dropbox/Research/Tattoos/Article")
 ####### Read in comprehension data & catch cheaters ##################
 
 ### English comprehension data ###
-dat.comprehension_eng <- read.delim("../Data_eng/Comprehension_eng/Comprehension_forcedchoice_eng/data-eng-comp.txt",sep="\t")
+dat.comprehension_eng <- read.delim("../Data_eng/Comprehension_eng/Comprehension_forcedchoice_eng/data-eng-comp-nodups.txt",sep="\t")
 dat.comprehension_eng$language <- "Eng"
 dat.comprehension_eng$usernum <- paste(dat.comprehension_eng$usernum,"_eng_comp",sep="")
 
+length(levels(as.factor(dat.comprehension_eng$usernum)))
+#49
 
 #View(dat.comprehension_eng)
 
 ### Spanish comprehension data ###
-dat.comprehension_spa <- read.delim("../Data_spa/Comprehension_sp/Comprehension_forcedchoice_sp/data-spa-comp.txt",sep="\t")
+dat.comprehension_spa <- read.delim("../Data_spa/Comprehension_sp/Comprehension_forcedchoice_sp/data-spa-comp-nodups.txt",sep="\t")
 dat.comprehension_spa$language <- "Spa"
 dat.comprehension_spa$usernum <- paste(dat.comprehension_spa$usernum,"_spa_comp",sep="")
 
+length(levels(as.factor(dat.comprehension_spa$usernum)))
+#48
+
+
 ### Russian comprehension data ###
-dat.comprehension_rus <- read.delim("../Data_ru/Comprehension_ru/output-ru/data-ru-comp.txt",sep="\t")
+dat.comprehension_rus <- read.delim("../Data_ru/Comprehension_ru/output-ru/data-ru-comp-nodups.txt",sep="\t")
 dat.comprehension_rus$language <- "Rus"
 dat.comprehension_rus$usernum <- paste(dat.comprehension_rus$usernum,"_rus_comp",sep="")
 
 length(levels(as.factor(dat.comprehension_rus$usernum)))
-#38
+#52
 
 #View(dat.comprehension_rus)
 
-dat.comprehension_per <- read.delim("../Data_per/Comprehension_per/data-per-comp.txt",sep="\t")
+dat.comprehension_per <- read.delim("../Data_per/Comprehension_per/data-per-comp-nodups.txt",sep="\t")
 dat.comprehension_per$language <- "Per"
 dat.comprehension_per$usernum <- paste(dat.comprehension_per$usernum,"_per_comp",sep="")
 
 length(levels(as.factor(dat.comprehension_per$usernum)))
-#43
+#46
 
 #View(dat.comprehension_per)
 
-dat.comprehension_ar <- read.delim("../Data_ar/Comprehension_ar/data-ar-comp.txt",sep="\t")
+dat.comprehension_ar <- read.delim("../Data_ar/Comprehension_ar/data-ar-comp-nodups.txt",sep="\t")
 dat.comprehension_ar$language <- "Ar"
 dat.comprehension_ar$usernum <- paste(dat.comprehension_ar$usernum,"_ar_comp",sep="")
 
 length(levels(as.factor(dat.comprehension_ar$usernum)))
-#38
+#39
 
 #View(dat.comprehension_ar)
 
@@ -104,15 +110,23 @@ dat.comprehension <-
     unexpectedchoice = as.numeric(!(expected==choice)&!(expected=="either"))
   )  %>%
   group_by(usernum) %>%
-      mutate(total_unexpected = sum(unexpectedchoice)) %>%
+      mutate(total_unexpected = sum(unexpectedchoice),
+             total_answers = n(),
+             ) %>%
   ungroup() 
 
-summary(as.factor(dat.comprehension$total_unexpected))
+table(dat.comprehension$total_answers)
 
+dat.comprehension[dat.comprehension$total_answers==13,]$usernum
+
+
+summary(as.factor(dat.comprehension$total_unexpected))
 
 dat.cheaters <- 
   dat.comprehension %>%
     filter(total_unexpected>0)
+
+table(dat.cheaters$language,dat.cheaters$usernum)
 
 ### List of the chaters: ###
 levels(as.factor(dat.cheaters$usernum))
@@ -120,13 +134,24 @@ levels(as.factor(dat.cheaters$usernum))
 ### Remove the cheaters ###
 dat.comprehension <- 
   dat.comprehension %>%
-  filter(total_unexpected==0)
+  filter(total_unexpected==0,total_answers==12)
 
 ## Not sure why this is necessary, if it is: ###
 #dat.comprehension$expected <- as.factor(dat.comprehension$expected)
 #dat.comprehension$choice <- as.factor(dat.comprehension$choice)
 
-#length(levels(as.factor(dat.comprehension$usernum[dat.comprehension$language=="Rus"])))
+length(levels(as.factor(dat.comprehension$usernum[dat.comprehension$language=="Eng"])))
+#44
+length(levels(as.factor(dat.comprehension$usernum[dat.comprehension$language=="Spa"])))
+#48
+
+
+length(levels(as.factor(dat.comprehension$usernum[dat.comprehension$language=="Rus"])))
+#49
+length(levels(as.factor(dat.comprehension$usernum[dat.comprehension$language=="Per"])))
+#38
+length(levels(as.factor(dat.comprehension$usernum[dat.comprehension$language=="Ar"])))
+#32
 
 
 dat.comprehension$condname <- dat.comprehension$cond
@@ -273,7 +298,7 @@ dat.pvalues$adjusted <- p.adjust(dat.pvalues$p.value,method="fdr")
 
 dat.pvalues$language <- factor(dat.pvalues$language, levels(as.factor(dat.comprehension$language)))
 
-View(dat.pvalues)
+#View(dat.pvalues)
 
 for (condition in dat.pvalues$condname) {
   dat.pvalues.sub <- dat.pvalues %>%
@@ -298,7 +323,7 @@ for (condition in dat.pvalues$condname) {
 #View(dat.pvalues)
 library(xtable)
 
-xtable(dat.pvalues[c("condname","language","estimate","p.value","adjusted")],booktabs = TRUE)
+xtable(dat.pvalues[c("language","condname","estimate","p.value","adjusted")],booktabs = TRUE)
 
 
 
@@ -319,6 +344,23 @@ prod_eng$Normal_Utt_latinized <- prod_eng$Normal_Utt
 length(levels(as.factor((prod_eng$participant.id))))
 #24
 
+
+prod_eng$Condition <-
+  recode(prod_eng$Condition,
+         Target_H1 = "target_h1", Target_H4 = "target_h4", Target_H5 = "target_h5",
+         Target_F1 = "target_f1", Target_F4 = "target_f4", Target_F_5 = "target_f5")
+
+
+eng.counts <-
+  prod_eng %>%
+  filter(str_detect(Condition,"^target")) %>%
+  mutate(Normal_Utt_latinized = Normal_Utt) %>%
+  group_by(Condition) %>%
+  summarize(length(unique(Normal_Utt_latinized)))
+eng.counts
+
+eng.counts$language = "English"
+
 #demographic_prod_eng <- read.csv("../Data_eng/Production_eng/demographic_prod_eng.csv")
 #demographic_prod_eng <- demographic_prod_eng %>%
 #  rename(participant.id = participant_id)
@@ -337,6 +379,14 @@ length(levels(as.factor((prod_spa$participant.id))))
 
 summary(prod_spa)
 
+spa.counts <-
+  prod_spa %>%
+  group_by(Condition) %>%
+  summarize(length(unique(Normal_Utt_latinized)))
+spa.counts
+
+spa.counts$language = "Spanish"
+
 
 prod_rus <- read.delim("../Data_ru/Production_ru/production_ru_annotated_encrypted.tsv",sep="\t")
 #View(prod_rus)
@@ -351,6 +401,16 @@ prod_rus$Display_Utt <- paste(prod_rus$Normal_Utt_latinized," (",prod_rus$Normal
 
 summary(prod_rus)
 
+rus.counts <-
+  prod_rus %>%
+  group_by(Condition) %>%
+  summarize(length(unique(Normal_Utt_latinized)))
+rus.counts
+
+rus.counts$language = "Russian"
+
+
+
 length(levels(as.factor((prod_rus$participant.id))))
 #32
 
@@ -359,6 +419,16 @@ prod_per <- read.delim("../Data_per/Production_per/production_per_annotated_encr
 names(prod_per)
 prod_per$Language = "Persian"
 prod_per$Display_Utt <- paste(prod_per$Normal_Utt_latinized," (",prod_per$Normal_Utt_gloss,")",sep="")
+
+
+per.counts <-
+prod_per %>%
+  group_by(Condition) %>%
+  summarize(length(unique(Normal_Utt_latinized)))
+per.counts
+
+per.counts$language = "Persian"
+
 
 length(levels(as.factor((prod_per$participant.id))))
 #23
@@ -371,6 +441,57 @@ prod_ar$Display_Utt <- paste(prod_ar$Normal_Utt_latinized," (",prod_ar$Normal_Ut
 
 length(levels(as.factor((prod_ar$participant.id))))
 #25
+
+table(prod_ar$Condition,prod_ar$Normal_Utt_latinized)
+
+ar.counts <- 
+prod_ar %>%
+  group_by(Condition) %>%
+  summarize(length(unique(Normal_Utt_latinized))) 
+
+ar.counts
+
+ar.counts$language = "Arabic"
+
+prod.counts <- 
+dplyr::bind_rows(eng.counts, spa.counts, rus.counts, per.counts, ar.counts)
+
+names(prod.counts) <- c("Condition","Count","Language")
+names(prod.counts)
+
+prod.counts <- 
+prod.counts %>%
+  mutate(
+    Digit = factor(
+      Condition,
+      levels = c(
+        "target_h1",
+        "target_h4",
+        "target_h5",
+        "target_f1",
+        "target_f4",
+        "target_f5"
+      ),
+      labels = c(
+        "Thumb",
+        "Ring Finger",
+        "Pinky Finger",
+        "Big Toe",
+        "Ring Toe",
+        "Pinky Toe"
+      )
+    ))
+
+
+ggplot(data=prod.counts,aes(x=Language,y=Count,fill=Digit)) + 
+  geom_bar(stat="identity",position=position_dodge() ) +
+  ylab("Number of distinct expressions used for digit") +
+  theme_bw() +
+  theme(text = element_text(size = 14)) 
+
+
+
+
 
 ########## Combine production data and do same stuff to it all ####################
 
@@ -437,6 +558,10 @@ production.summary.spec <-
   group_by(Language, digit, N_subjects, Display_Utt, Specificity) %>%
   summarize(my_count = n()) %>%
   mutate(my_prop = my_count / N_subjects * 100)
+
+View(production.summary.spec)
+
+
 
 
 # gg_eng_df_mydigit <- 
@@ -593,7 +718,7 @@ plot_language("Arabic")
  
 ########## Summarize by utterance/image pair ####################
 
-View(production_combined)
+#View(production_combined)
 
 
 production.summary <- 
@@ -661,17 +786,23 @@ execute_model <- function(alpha,beta,epsilon,speakertype,role,input,body_region,
 
 # sample values to use for testing
 test_alpha <- 1 #how much accuracy matters (higher => more)
-test_beta <- 2      #how much cost matters (higher => more)
-test_epsilon <- 0.0001   #fake count for unattested utterances so they're not impossible ("smoothing")
+test_beta <- 2.5      #how much cost matters (higher => more)
+test_epsilon <- 0.025   #fake count for unattested utterances so they're not impossible ("smoothing")
 test_speakertype <- "plain"  #use production probabilities
-#speakertype options: "empirical", "frequency", "plain" but "frequency" doesn't work with pinky stuff
+#speakertype options: "empirical", "plain" ("frequency" not implemented)
 #default uses flat priors and cost only
 
 
-#test run for the speaker
-test_result <- execute_model(test_alpha,test_beta,test_epsilon,test_speakertype,
-                             "speaker","ring_finger","hand","English")
+
+#test runs for the speaker
+test_result <- execute_model(test_alpha,test_beta,test_epsilon,"plain",
+                             "speaker","ring_toe","foot","English")
 test_result
+
+test_result <- execute_model(test_alpha,test_beta,test_epsilon,"plain",
+                             "speaker","big_toe","foot","English")
+test_result
+
 
 #test runs for the listener
 test_result2 <- execute_model(2,test_beta,0.0001,"empirical",
@@ -735,10 +866,10 @@ choose_other <- function(winner,cond) {
 # First set up the values we want to look at
 
 
-alpha_values <- c(0.1,0.25,0.5,1,1.5,2) #values of alpha to try
+alpha_values <- c(0.5,1,1.5,2) #values of alpha to try
 beta_values <- c(0,0.5,1,1.5,2,2.5,3,3.5,4)    #values of beta to try
 epsilon_values <- c(0,0.05,0.1,0.15,0.2,0.25,0.3,0.35,0.4)  #values of epsilon to try, relevant for empirical speaker
-speakertype_options <- c("empirical") #only look at production probs
+speakertype_options <- c("plain","empirical")
 #we can't run "frequency" speakertype until we have frequencies for the new utterances
 roles <- c("listener") #speaker, listener
 languages <- c("English","Spanish","Persian","Arabic","Russian")
@@ -876,8 +1007,10 @@ View(results)
 #write.csv(results,"full-modelling-results.csv")
 
 
+
+
 results.plain <- filter(results,speakertype=="plain")
-#View(results.plain)
+View(results.plain)
 
 results.empirical <- filter(results,speakertype=="empirical")
 View(results.empirical)
@@ -943,11 +1076,27 @@ View(merged)
 #eval$adj.r.squared
 #names(eval)
 
+alpha_values_tried <- levels(as.factor(results.all$alpha))
+alpha_values_tried
+
+beta_values_tried <- levels(as.factor(results.all$beta))
+#remove NS
+beta_values_tried
+beta_values_tried <- beta_values_tried[-length(beta_values_tried)] 
+beta_values_tried
+
+epsilon_values_tried <- levels(as.factor(results.all$epsilon))
+epsilon_values_tried
+epsilon_values_tried <- epsilon_values_tried[-length(epsilon_values_tried)] 
+epsilon_values_tried
+
+speakertype_options_tried <- levels(as.factor(results.all$speakertype))
+speakertype_options_tried
 
 evals <- data.frame() #initialize before running for loop
-for (myalpha in alpha_values) {
+for (myalpha in alpha_values_tried) {
   for (myspeakertype in speakertype_options) {
-    epsilons_to_try <- epsilon_values
+    epsilons_to_try <- epsilon_values_tried
     if (!(myspeakertype=="empirical")) {
       epsilons_to_try <- c("NA")
     }
@@ -965,20 +1114,23 @@ for (myalpha in alpha_values) {
                            beta==mybeta,
                            speakertype==myspeakertype,
                            epsilon==myepsilon)
-        print(summary(mymerged))
+        #print(summary(mymerged))
          
-        eval <- summary(lm_robust(estimate ~ as.numeric(prob), data = mymerged))
-
-        myeval <- data.frame(myspeakertype)
-        myeval$alpha <- myalpha
-        myeval$beta <- mybeta
-        myeval$epsilon <- myepsilon
-        
-        myeval$adj.r.squared <- eval$adj.r.squared
-        myeval$r.squared <- eval$r.squared
-        
-        evals <- rbind(evals, myeval)
-        
+        if (length(mymerged$condname)>0) {
+          
+          eval <- summary(lm_robust(estimate ~ as.numeric(prob), data = mymerged))
+          
+          myeval <- data.frame(myspeakertype)
+          myeval$alpha <- myalpha
+          myeval$beta <- mybeta
+          myeval$epsilon <- myepsilon
+          
+          myeval$adj.r.squared <- eval$adj.r.squared
+          myeval$r.squared <- eval$r.squared
+          
+          evals <- rbind(evals, myeval)
+          
+        }         
       }
     }
   }
@@ -988,6 +1140,7 @@ for (myalpha in alpha_values) {
 View(evals)
 
 evals.plain <- filter(evals, myspeakertype=="plain")
+View(evals.plain)
 evals.plain$alpha <- as.factor(evals.plain$alpha)
 evals.plain$beta <- as.numeric(evals.plain$beta)
 
@@ -1000,15 +1153,22 @@ evals.plain.optimal <- filter(evals.plain,adj.r.squared >= max(evals.plain$adj.r
 summary(evals.plain.optimal)
 
 
+evals.plain.optimal
+
+
+textx <- as.numeric(evals.plain.optimal$beta[1])
+texty <- as.numeric(evals.plain.optimal$adj.r.squared[1]) + 0.08
 ggplot(data=evals.plain,aes(x=beta,y=adj.r.squared)) +
-  geom_point(aes(alpha=alpha)) +
-  geom_line(aes(alpha=alpha),color="blue") +
-  geom_point(data=evals.plain.optimal,aes(x=beta,y=adj.r.squared),shape=8,color="yellow") +
+  geom_point(aes(color=alpha)) +
+  geom_line(aes(color=alpha)) +
+  geom_point(data=evals.plain.optimal,aes(x=beta,y=adj.r.squared),shape=1,size=2,color="black") +
   ylim(c(-0.1,1)) +
   ylab("Adjusted R^2") +
   #scale_colour_manual(values = grey.colors(4,rev=TRUE)) +
   theme_bw() +
-  theme(text = element_text(size = 14)) 
+  theme(text = element_text(size = 16)) +
+  theme(legend.position = "none") +
+  annotate("text",x=textx,y=texty,label="optimal (R^2 = 0.22):\nalpha = 1, beta = 2.5",size=5)
 
 
 
@@ -1024,20 +1184,23 @@ evals.emp.optimal
 
 alphasubset <- levels(evals.plain$alpha)
 
-
+alphasubset
 
 
 evals.empirical.alphasubset <- filter(evals.empirical, alpha %in% alphasubset)
 
-
-ggplot(data=evals.empirical,aes(x=epsilon,y=adj.r.squared)) +
-  geom_point(aes(alpha=alpha)) + #first alpha=transparency; second=rationality param
-  geom_line(aes(alpha=alpha),color="blue") +
-  geom_point(data=evals.emp.optimal,aes(x=epsilon,y=adj.r.squared),shape=8,color="yellow") +
+textx <- as.numeric(evals.emp.optimal$epsilon[1])
+texty <- as.numeric(evals.emp.optimal$adj.r.squared[1]) + 0.08
+ggplot(data=evals.empirical.alphasubset,aes(x=epsilon,y=adj.r.squared)) +
+  geom_point(aes(color=alpha)) + #first alpha=transparency; second=rationality param
+  geom_line(aes(color=alpha)) +
+  geom_point(data=evals.emp.optimal,aes(x=epsilon,y=adj.r.squared),shape=1,size=3,color="black") +
   ylim(0,1) +
-  ylab("Adjusted R^2") +
+  #ylab("Adjusted R^2") +
+  ylab("") +
   theme_bw() +
-  theme(text = element_text(size = 14)) 
+  theme(text = element_text(size = 16))  +
+  annotate("text",x=textx,y=texty,label="optimal (R^2 = 0.64):\nalpha=1, epsilon=0.25",size=5)
 
 #heatmap version (looks ok for this model but not the other one)
 #ggplot(data=evals.empirical,aes(epsilon,alpha,fill=adj.r.squared)) + 
@@ -1071,35 +1234,30 @@ chosen.merged <- rbind(chosenmodel.empirical,chosenmodel.plain)
 
 chosen.merged %>%
   ggplot(aes(x=language, y = as.numeric(prob),color=speakertype,shape=speakertype,alpha=speakertype)) +
+  geom_hline(yintercept=0.5,color="red") +
   geom_errorbar(aes(ymin = conf.low, ymax = conf.high), width = 0,color="grey") + 
   geom_point(aes(x=language, y=estimate),color="black",shape=16) +
   geom_point() +
   scale_shape_manual(values=c(17, 15)) +
   scale_alpha_manual(values=c(1,1)) +
+  scale_color_manual(values=c("blue","cyan3")) +
   #scale_x_discrete(limits=c("Spa","Eng")) +
   ylim(0,1) +  
-  geom_hline(yintercept=0.5,color="red") +
   ylab("Probability of B (in A vs. B)") +
   xlab("") +
   theme_bw() +
   coord_flip() +
-  facet_wrap(~condname,ncol=3) +
-  theme(legend.position="none")
+  facet_wrap(~condname,ncol=3) 
 
-
-#very ridiculous looking heatmap
-#ggplot(data=evals.plain,aes(epsilon,alpha,fill=adj.r.squared)) + 
-#  geom_tile() +
-#  geom_point(data=evals.plain.optimal,aes(x=epsilon,y=alpha),shape=8,color="yellow") +
-#  labs(fill = "Adjusted R^2")
 
 # get R squared values for both models
 
 summary(lm_robust(estimate ~ as.numeric(prob), data = chosenmodel.empirical))
-# Multiple R-squared:  0.6812 ,	Adjusted R-squared:  0.6698  
+# Multiple R-squared:  0.6508 ,	Adjusted R-squared:  0.6384  
 
 summary(lm_robust(estimate ~ as.numeric(prob), data = chosenmodel.plain))
-# Multiple R-squared:  0.3083 ,	Adjusted R-squared:  0.2836 
+
+#Multiple R-squared:  0.2479 ,	Adjusted R-squared:  0.2211 
 
 summary(chosen.merged)
 
@@ -1109,32 +1267,47 @@ chosen.merged$speakertype <- recode(chosen.merged$speakertype,
                              empirical = "production",
                              plain = "complexity")
 
+
 chosen.merged %>%
   mutate(condition = condname) %>%
-  ggplot(aes(x=estimate, y = as.numeric(prob))) +
+  ggplot(aes(x=as.numeric(prob), y = estimate)) +
+  geom_abline(intercept=0, slope=1, linetype="dotted",color="grey") +
+  geom_errorbar(aes(ymin = conf.low, ymax = conf.high,color=language), width = 0) + 
   geom_point(aes(color=language,shape=condition)) +
   theme_bw() +
   xlim(0,1) +
   ylim(0,1) +
-  geom_smooth(method='lm',size=0.5) +
+  geom_smooth(method='lm',size=0.5,se=FALSE) +
   facet_wrap(~language*speakertype) +
   #facet_wrap(~speakertype) +
-  xlab("observed frequency of B (in 'A vs. B')") +
-  ylab("model probability of B (in 'A vs. B')") #+
-
-
-chosen.merged %>%
-  mutate(condition = condname) %>%
-  ggplot(aes(x=estimate, y = as.numeric(prob))) +
-  geom_point(aes(color=language,shape=condition)) +
-  theme_bw() +
-  xlim(0,1) +
-  ylim(0,1) +
-  geom_smooth(method='lm',size=0.5) +
-  facet_wrap(~speakertype) +
-  xlab("observed frequency of B (in 'A vs. B')") +
-  ylab("model probability of B (in 'A vs. B')") +
+  ylab("observed frequency of B (in 'A vs. B')") +
+  xlab("model probability of B (in 'A vs. B')") +
   theme(text = element_text(size = 14)) 
 
 
+
+chosen.merged %>%
+  mutate(condition = condname) %>%
+  ggplot(aes(x=as.numeric(prob), y = estimate)) +
+  geom_abline(intercept=0, slope=1, color="grey", linetype="dotted") +
+  geom_errorbar(aes(ymin = conf.low, ymax = conf.high,color=language), width = 0) + 
+  geom_point(aes(color=language,shape=condition)) +
+  theme_bw() +
+  xlim(0,1) +
+  ylim(0,1) +
+  geom_smooth(method='lm',size=0.5,se=FALSE) +
+  facet_wrap(~speakertype) +
+  ylab("observed frequency of B (in 'A vs. B')") +
+  xlab("model probability of B (in 'A vs. B')") +
+  theme(text = element_text(size = 14)) 
+
+
+chosen.merged.bylg <- 
+  chosen.merged %>%
+  group_by(language,speakertype) %>%
+  summarize(rsquared = summary(lm_robust(estimate ~ as.numeric(prob)))$adj.r.squared)
+
+chosen.merged.bylg
+
+xtable(chosen.merged.bylg)
 

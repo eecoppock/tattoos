@@ -5,27 +5,20 @@ usernum	cond	timestamp	leftright	order	expected	choice
 21	filler_b_b	11/16/2020 21:36:37.665	0	3	either	back
 21	target_f4_5	11/16/2020 21:36:43.864	1	4	either	ring_toe
 21	target_f1_5	11/16/2020 21:36:49.121	1	5	either	pinky_toe
-
 21	target_h4_5	11/16/2020 21:36:56.892	0	6	either	ring_finger
 21	target_f1_4	11/16/2020 21:37:01.123	0	7	either	ring_toe
-
 21	target_h1_5	11/16/2020 21:37:04.539	1	8	either	pinky
-
 21	filler_l_l	11/16/2020 21:37:08.153	0	9	either	leg_calf
 21	filler_l_b	11/16/2020 21:37:10.955	0	10	leg_knee	leg_knee
 21	filler_a_l	11/16/2020 21:37:13.960	1	11	arm_shoulder	arm_shoulder
 21	filler_b_a	11/16/2020 21:37:16.564	1	12	back	back
 22	filler_b_a	11/16/2020 22:05:52.500	0	1	back	back
 22	filler_a_a	11/16/2020 22:06:02.291	1	2	either	arm_shoulder
-
 22	target_h4_5	11/16/2020 22:06:08.677	1	3	either	pinky
-
 22	target_f4_5	11/16/2020 22:06:15.952	1	4	either	pinky_toe
-
 22	target_f1_5	11/16/2020 22:06:19.027	0	5	either	big_toe
 22	filler_l_b	11/16/2020 22:06:23.257	1	6	leg_knee	leg_knee
 22	target_h1_5	11/16/2020 22:06:29.830	0	7	either	pinky
-
 22	filler_a_l	11/16/2020 22:06:33.063	0	8	arm_shoulder	arm_shoulder
 22	filler_b_b	11/16/2020 22:06:34.889	0	9	either	back
 22	target_f1_4	11/16/2020 22:06:37.953	1	10	either	big_toe
@@ -33,84 +26,56 @@ usernum	cond	timestamp	leftright	order	expected	choice
 22	target_h1_4	11/16/2020 22:06:42.798	1	12	either	thumb
 23	target_h1_5	11/16/2020 22:47:41.125	0	1	either	thumb
 24	target_h4_5	11/16/2020 22:49:42.697	1	1	either	ring_finger
-24	target_h4_5	11/16/2020 22:49:43.185	1	1	either	ring_finger
-24	target_h4_5	11/16/2020 22:49:43.378	1	1	either	ring_finger
 24	target_f1_4	11/16/2020 22:50:00.289	1	2	either	ring_toe
-
-24	target_f1_4	11/16/2020 22:50:00.544	1	2	either	ring_toe
-
 24	filler_a_a	11/16/2020 22:50:03.733	0	3	either	arm_shoulder
-
-24	filler_a_a	11/16/2020 22:50:03.949	0	3	either	arm_shoulder
-
 24	target_f1_5	11/16/2020 22:50:08.484	1	4	either	pinky_toe
-
-24	target_f1_5	11/16/2020 22:50:08.735	1	4	either	pinky_toe
-
 24	filler_a_l	11/16/2020 22:50:12.477	0	5	arm_shoulder	arm_shoulder
-24	filler_a_l	11/16/2020 22:50:12.687	0	5	arm_shoulder	arm_shoulder
 24	filler_l_l	11/16/2020 22:50:16.510	1	6	either	leg_calf
-24	filler_l_l	11/16/2020 22:50:16.745	1	6	either	leg_calf
 24	filler_l_b	11/16/2020 22:50:22.085	0	7	leg_knee	leg_knee
 24	target_h1_4	11/16/2020 22:50:25.235	1	8	either	thumb
 24	filler_b_a	11/16/2020 22:50:29.545	0	9	back	back
 24	target_h1_5	11/16/2020 22:50:35.895	1	10	either	pinky
-
 24	filler_b_b	11/16/2020 22:50:38.343	0	11	either	back
 24	target_f4_5	11/16/2020 22:50:42.075	0	12	either	ring_toe
 25	target_h4_5	11/16/2020 23:24:40.508	1	1	either	ring_finger
 25	target_h1_4	11/16/2020 23:24:45.219	0	2	either	ring_finger
-
 25	target_f1_4	11/16/2020 23:25:00.006	1	3	either	ring_toe
-
 25	filler_a_l	11/16/2020 23:25:07.497	0	4	arm_shoulder	arm_shoulder
 25	target_f1_5	11/16/2020 23:25:14.878	1	5	either	big_toe
 25	filler_l_l	11/16/2020 23:25:21.321	1	6	either	leg_calf
 25	filler_l_b	11/16/2020 23:25:28.406	1	7	leg_knee	leg_knee
 25	filler_b_a	11/16/2020 23:25:33.516	1	8	back	back
 25	target_h1_5	11/16/2020 23:25:38.025	1	9	either	pinky
-
 25	filler_b_b	11/16/2020 23:25:44.097	0	10	either	back
 25	filler_a_a	11/16/2020 23:25:48.655	1	11	either	arm_shoulder
-
 25	target_f4_5	11/16/2020 23:25:53.506	1	12	either	ring_toe
 26	filler_b_a	11/17/2020 01:13:28.299	0	1	back	back
 26	target_f1_4	11/17/2020 01:13:42.114	1	2	either	big_toe
 26	filler_b_b	11/17/2020 01:13:53.408	0	3	either	back
 26	filler_l_b	11/17/2020 01:13:56.896	1	4	leg_knee	leg_knee
 26	filler_a_a	11/17/2020 01:14:01.050	0	5	either	arm_shoulder
-
 26	target_f4_5	11/17/2020 01:14:10.893	1	6	either	ring_toe
 26	filler_a_l	11/17/2020 01:14:15.597	0	7	arm_shoulder	arm_shoulder
 26	filler_l_l	11/17/2020 01:14:19.125	0	8	either	leg_knee
-
 26	target_f1_5	11/17/2020 01:14:25.510	1	9	either	big_toe
 26	target_h1_5	11/17/2020 01:14:31.858	0	10	either	thumb
 26	target_h4_5	11/17/2020 01:14:39.921	1	11	either	pinky
-
 26	target_h1_4	11/17/2020 01:14:43.995	0	12	either	thumb
 27	target_f4_5	11/17/2020 01:34:43.239	1	1	either	pinky_toe
-
 27	target_h1_4	11/17/2020 01:34:53.110	1	2	either	ring_finger
-
 27	filler_l_b	11/17/2020 01:34:57.875	0	3	leg_knee	leg_knee
 27	target_h1_5	11/17/2020 01:35:05.182	1	4	either	pinky
-
 27	filler_l_l	11/17/2020 01:35:10.978	0	5	either	leg_calf
 27	target_h4_5	11/17/2020 01:35:16.017	0	6	either	ring_finger
 27	filler_b_b	11/17/2020 01:35:23.817	1	7	either	back
 27	target_f1_4	11/17/2020 01:35:37.177	1	8	either	ring_toe
-
 27	target_f1_5	11/17/2020 01:35:46.715	0	9	either	big_toe
 27	filler_a_l	11/17/2020 01:35:49.986	0	10	arm_shoulder	arm_shoulder
 27	filler_a_a	11/17/2020 01:35:54.021	1	11	either	arm_shoulder
-
 27	filler_b_a	11/17/2020 01:35:56.857	0	12	back	back
 28	filler_l_l	11/17/2020 01:37:46.208	1	1	either	leg_calf
 28	target_f1_4	11/17/2020 01:38:04.766	1	2	either	ring_toe
-
 28	target_h1_4	11/17/2020 01:38:18.078	1	3	either	ring_finger
-
 28	filler_b_b	11/17/2020 01:38:27.274	1	4	either	back
 28	filler_l_b	11/17/2020 01:38:40.905	0	5	leg_knee	leg_knee
 28	target_h4_5	11/17/2020 01:38:50.448	0	6	either	ring_finger
@@ -119,79 +84,57 @@ usernum	cond	timestamp	leftright	order	expected	choice
 28	filler_a_l	11/17/2020 01:39:20.226	0	9	arm_shoulder	arm_shoulder
 28	target_f1_5	11/17/2020 01:39:25.366	0	10	either	big_toe
 28	target_h1_5	11/17/2020 01:39:39.403	0	11	either	pinky
-
 28	filler_a_a	11/17/2020 01:39:44.992	1	12	either	arm_shoulder
-
 29	target_h1_5	11/17/2020 02:09:32.629	0	1	either	thumb
 29	filler_l_l	11/17/2020 02:09:42.679	1	2	either	leg_calf
 29	target_h4_5	11/17/2020 02:09:54.516	1	3	either	pinky
-
 29	target_f1_4	11/17/2020 02:10:05.335	1	4	either	big_toe
 29	target_h1_4	11/17/2020 02:10:10.877	0	5	either	thumb
 29	filler_b_a	11/17/2020 02:10:16.650	0	6	back	back
 29	filler_a_l	11/17/2020 02:10:20.983	1	7	arm_shoulder	arm_shoulder
 29	target_f4_5	11/17/2020 02:10:27.149	1	8	either	pinky_toe
-
 29	target_f1_5	11/17/2020 02:10:32.005	0	9	either	big_toe
 29	filler_l_b	11/17/2020 02:10:36.050	1	10	leg_knee	leg_knee
 29	filler_b_b	11/17/2020 02:10:38.910	1	11	either	back
 29	filler_a_a	11/17/2020 02:10:44.214	1	12	either	arm_shoulder
-
 30	target_f1_5	11/17/2020 02:48:17.207	0	1	either	big_toe
 30	target_h1_5	11/17/2020 02:48:24.040	1	2	either	pinky
-
 30	target_h1_4	11/17/2020 02:48:36.389	0	3	either	ring_finger
-
 30	target_h4_5	11/17/2020 02:48:47.549	0	4	either	pinky
-
 30	target_f4_5	11/17/2020 02:48:51.287	1	5	either	ring_toe
 30	filler_l_b	11/17/2020 02:48:57.637	1	6	leg_knee	leg_knee
 30	filler_a_a	11/17/2020 02:49:04.950	1	7	either	arm_shoulder
-
 30	filler_a_l	11/17/2020 02:49:09.791	0	8	arm_shoulder	arm_shoulder
 30	target_f1_4	11/17/2020 02:49:18.700	1	9	either	ring_toe
-
 30	filler_b_a	11/17/2020 02:49:22.706	1	10	back	back
 30	filler_b_b	11/17/2020 02:49:25.656	1	11	either	back
 30	filler_l_l	11/17/2020 02:49:32.073	0	12	either	leg_calf
 31	target_h1_4	11/17/2020 03:01:09.214	1	1	either	ring_finger
-
 31	filler_a_a	11/17/2020 03:01:13.766	1	2	either	arm_shoulder
-
 31	filler_l_l	11/17/2020 03:01:20.890	1	3	either	leg_calf
 31	filler_b_a	11/17/2020 03:01:25.004	0	4	back	back
 31	target_h1_5	11/17/2020 03:01:29.466	0	5	either	pinky
-
 31	filler_a_l	11/17/2020 03:01:33.184	1	6	arm_shoulder	arm_shoulder
 31	target_f4_5	11/17/2020 03:01:39.528	1	7	either	ring_toe
 31	target_f1_5	11/17/2020 03:01:44.621	0	8	either	big_toe
 31	filler_b_b	11/17/2020 03:01:50.129	0	9	either	back
 31	target_f1_4	11/17/2020 03:01:53.377	1	10	either	ring_toe
-
 31	target_h4_5	11/17/2020 03:02:00.080	1	11	either	ring_finger
 31	filler_l_b	11/17/2020 03:02:04.691	1	12	leg_knee	leg_knee
 32	target_h1_4	11/17/2020 03:29:50.859	0	1	either	thumb
-32	target_h1_4	11/17/2020 03:30:08.764	0	1	either	ring_finger
-
 32	filler_l_l	11/17/2020 03:30:10.811	1	2	either	leg_knee
-
 32	filler_b_a	11/17/2020 03:30:22.538	1	3	back	back
 32	target_f1_4	11/17/2020 03:30:30.330	1	4	either	ring_toe
-
 32	target_h1_5	11/17/2020 03:30:34.056	0	5	either	pinky
-
 32	target_f4_5	11/17/2020 03:30:40.719	0	6	either	ring_toe
 32	filler_a_a	11/17/2020 03:30:44.693	0	7	either	arm_shoulder
-
 32	filler_b_b	11/17/2020 03:30:48.767	0	8	either	back
 32	target_f1_5	11/17/2020 03:30:51.202	1	9	either	pinky_toe
-
 32	target_h4_5	11/17/2020 03:30:58.512	0	10	either	ring_finger
 32	filler_a_l	11/17/2020 03:31:00.859	1	11	arm_shoulder	arm_shoulder
 32	filler_l_b	11/17/2020 03:31:04.565	0	12	leg_knee	leg_knee
 33	filler_a_l	11/17/2020 03:45:17.845	0	1	arm_shoulder	arm_shoulder
 33	target_f1_4	11/17/2020 03:45:40.079	0	2	either	ring_toe
-
 33	target_h1_4	11/17/2020 03:45:50.359	1	3	either	thumb
 33	filler_b_a	11/17/2020 03:45:52.690	1	4	back	back
 33	target_f1_5	11/17/2020 03:45:59.152	0	5	either	big_toe
@@ -200,112 +143,76 @@ usernum	cond	timestamp	leftright	order	expected	choice
 33	filler_l_l	11/17/2020 03:46:15.204	1	8	either	leg_calf
 33	target_h4_5	11/17/2020 03:47:55.531	0	9	either	ring_finger
 33	filler_b_b	11/17/2020 03:47:59.308	1	10	either	back_shoulder
-
 33	filler_a_a	11/17/2020 03:48:04.244	0	11	either	arm_shoulder
-
 33	filler_l_b	11/17/2020 03:48:07.581	0	12	leg_knee	leg_knee
 34	filler_a_l	11/17/2020 04:06:59.083	1	1	arm_shoulder	arm_shoulder
 34	filler_a_a	11/17/2020 04:07:04.006	0	2	either	arm_shoulder
-
 34	target_h1_4	11/17/2020 04:07:08.901	1	3	either	ring_finger
-
 34	filler_b_b	11/17/2020 04:07:13.955	0	4	either	back
 34	target_f1_5	11/17/2020 04:07:18.918	0	5	either	big_toe
 34	filler_l_b	11/17/2020 04:07:22.513	0	6	leg_knee	leg_knee
 34	target_f1_4	11/17/2020 04:07:29.935	1	7	either	ring_toe
-
 34	filler_l_l	11/17/2020 04:07:41.166	1	8	either	leg_calf
 34	target_h4_5	11/17/2020 04:07:45.784	0	9	either	ring_finger
 34	filler_b_a	11/17/2020 04:07:50.056	1	10	back	back
 34	target_h1_5	11/17/2020 04:07:53.140	1	11	either	thumb
 34	target_f4_5	11/17/2020 04:07:56.371	1	12	either	ring_toe
 35	target_h1_5	11/17/2020 04:43:10.553	0	1	either	pinky
-
 35	filler_l_b	11/17/2020 04:43:18.156	1	2	leg_knee	leg_knee
 35	target_h1_4	11/17/2020 04:43:23.165	1	3	either	ring_finger
-
 35	target_f1_5	11/17/2020 04:43:38.036	1	4	either	pinky_toe
-
 35	target_f1_4	11/17/2020 04:43:41.364	1	5	either	ring_toe
-
 35	filler_a_a	11/17/2020 04:43:46.660	0	6	either	arm_shoulder
-
 35	filler_l_l	11/17/2020 04:43:51.829	0	7	either	leg_calf
 35	filler_a_l	11/17/2020 04:43:56.862	1	8	arm_shoulder	arm_shoulder
 35	filler_b_b	11/17/2020 04:44:02.561	1	9	either	back
 35	target_h4_5	11/17/2020 04:44:09.719	0	10	either	pinky
-
 35	target_f4_5	11/17/2020 04:44:15.601	1	11	either	ring_toe
 35	filler_b_a	11/17/2020 04:44:18.217	0	12	back	back
 36	target_h1_5	11/17/2020 04:52:10.791	1	1	either	pinky
-
 36	target_h4_5	11/17/2020 04:52:16.026	1	2	either	ring_finger
 36	target_f1_5	11/17/2020 04:52:38.594	1	3	either	pinky_toe
-
 36	target_f1_4	11/17/2020 04:52:42.508	0	4	either	ring_toe
-
 36	filler_l_l	11/17/2020 04:52:52.741	0	5	either	leg_calf
 36	filler_b_a	11/17/2020 04:53:00.225	0	6	back	back
 36	filler_a_l	11/17/2020 04:53:05.839	1	7	arm_shoulder	arm_shoulder
 36	filler_l_b	11/17/2020 04:53:10.746	0	8	leg_knee	leg_knee
 36	target_f4_5	11/17/2020 04:53:20.660	0	9	either	pinky_toe
-
 36	target_h1_4	11/17/2020 04:53:38.706	1	10	either	ring_finger
-
 36	filler_b_b	11/17/2020 04:53:41.606	1	11	either	back_shoulder
-
 36	filler_a_a	11/17/2020 04:53:48.516	0	12	either	arm_shoulder
-
 37	filler_l_l	11/17/2020 06:15:14.786	1	1	either	leg_knee
-
 37	target_h4_5	11/17/2020 06:15:24.360	1	2	either	pinky
-
 37	filler_a_l	11/17/2020 06:15:26.669	0	3	arm_shoulder	arm_shoulder
 37	target_f4_5	11/17/2020 06:15:37.826	0	4	either	ring_toe
 37	target_h1_5	11/17/2020 06:15:43.170	1	5	either	pinky
-
 37	target_f1_5	11/17/2020 06:15:46.850	1	6	either	pinky_toe
-
 37	filler_b_b	11/17/2020 06:15:50.808	0	7	either	back
 37	filler_l_b	11/17/2020 06:15:57.899	0	8	leg_knee	leg_knee
 37	filler_a_a	11/17/2020 06:16:01.790	0	9	either	arm_shoulder
-
 37	target_h1_4	11/17/2020 06:16:09.760	1	10	either	thumb
 37	target_f1_4	11/17/2020 06:16:14.082	1	11	either	ring_toe
-
 37	filler_b_a	11/17/2020 06:16:40.691	1	12	back	back
 38	target_f1_4	11/17/2020 06:57:09.240	0	1	either	ring_toe
-
 38	target_f4_5	11/17/2020 06:57:16.806	1	2	either	ring_toe
 38	target_h4_5	11/17/2020 06:57:24.450	0	3	either	pinky
-
 38	filler_a_l	11/17/2020 06:57:33.801	1	4	arm_shoulder	arm_shoulder
 38	filler_b_a	11/17/2020 06:57:37.730	0	5	back	back
 38	filler_l_b	11/17/2020 06:57:41.945	1	6	leg_knee	leg_knee
 38	filler_l_l	11/17/2020 06:57:48.112	0	7	either	leg_knee
-
 38	target_h1_5	11/17/2020 06:57:55.650	0	8	either	pinky
-
 38	target_f1_5	11/17/2020 06:57:59.502	1	9	either	pinky_toe
-
 38	target_h1_4	11/17/2020 06:58:09.841	1	10	either	thumb
 38	filler_b_b	11/17/2020 06:58:16.963	1	11	either	back_shoulder
-
 38	filler_a_a	11/17/2020 06:58:20.231	1	12	either	arm_shoulder
-
 39	filler_b_a	11/17/2020 08:09:09.466	1	1	back	arm_elbow
-
 39	target_f4_5	11/17/2020 08:09:19.852	0	2	either	ring_toe
 39	target_h1_5	11/17/2020 08:09:24.797	1	3	either	pinky
-
 39	target_h4_5	11/17/2020 08:09:31.927	0	4	either	ring_finger
 39	target_f1_4	11/17/2020 08:09:34.771	1	5	either	ring_toe
-
 39	filler_a_a	11/17/2020 08:09:38.583	0	6	either	arm_shoulder
-
 39	filler_l_b	11/17/2020 08:09:44.023	1	7	leg_knee	leg_knee
 39	target_h1_4	11/17/2020 08:09:47.915	1	8	either	ring_finger
-
 39	filler_b_b	11/17/2020 08:09:52.834	0	9	either	back
 39	filler_a_l	11/17/2020 08:09:55.390	1	10	arm_shoulder	arm_shoulder
 39	filler_l_l	11/17/2020 08:10:00.227	0	11	either	leg_calf
@@ -313,61 +220,41 @@ usernum	cond	timestamp	leftright	order	expected	choice
 40	filler_l_b	11/17/2020 09:52:42.035	1	1	leg_knee	leg_knee
 40	filler_b_a	11/17/2020 09:52:50.713	1	2	back	back
 40	target_f1_4	11/17/2020 09:52:54.026	1	3	either	ring_toe
-
 40	target_h1_5	11/17/2020 09:53:08.860	1	4	either	pinky
-
 40	filler_a_a	11/17/2020 09:53:11.681	1	5	either	arm_shoulder
-
 40	filler_l_l	11/17/2020 09:53:15.209	0	6	either	leg_knee
-
 40	target_f4_5	11/17/2020 09:53:18.570	1	7	either	ring_toe
 40	target_h4_5	11/17/2020 09:53:31.406	0	8	either	pinky
-
 40	target_h1_4	11/17/2020 09:53:34.047	1	9	either	ring_finger
-
 40	target_f1_5	11/17/2020 09:55:10.951	1	10	either	pinky_toe
-
 40	filler_b_b	11/17/2020 09:55:15.346	1	11	either	back
 40	filler_a_l	11/17/2020 09:55:18.440	0	12	arm_shoulder	arm_shoulder
 41	target_f4_5	11/17/2020 10:04:05.243	0	1	either	pinky_toe
-
 41	target_h1_4	11/17/2020 10:04:23.541	1	2	either	thumb
 41	filler_b_b	11/17/2020 10:04:33.329	1	3	either	back
 41	target_f1_5	11/17/2020 10:04:41.002	0	4	either	big_toe
 41	filler_l_l	11/17/2020 10:04:50.162	1	5	either	leg_knee
-
 41	target_h1_5	11/17/2020 10:05:00.481	1	6	either	pinky
-
 41	filler_b_a	11/17/2020 10:05:13.197	0	7	back	back
 41	filler_a_l	11/17/2020 10:05:17.115	1	8	arm_shoulder	arm_shoulder
 41	target_f1_4	11/17/2020 10:05:20.389	0	9	either	ring_toe
-
 41	filler_l_b	11/17/2020 10:05:24.438	1	10	leg_knee	leg_knee
 41	target_h4_5	11/17/2020 10:05:29.051	0	11	either	ring_finger
 41	filler_a_a	11/17/2020 10:05:34.075	1	12	either	arm_shoulder
-
 42	target_h4_5	11/17/2020 23:43:07.304	0	1	either	pinky
-
 42	filler_a_a	11/17/2020 23:43:20.420	0	2	either	arm_shoulder
-
 42	filler_b_a	11/17/2020 23:43:25.810	0	3	back	back
 42	filler_l_l	11/17/2020 23:43:35.309	1	4	either	leg_knee
-
 42	filler_b_b	11/17/2020 23:43:40.147	1	5	either	back_shoulder
-
 42	target_f1_4	11/17/2020 23:43:49.314	1	6	either	ring_toe
-
 42	target_f1_5	11/17/2020 23:43:53.439	1	7	either	big_toe
 42	target_f4_5	11/17/2020 23:43:55.202	1	8	either	ring_toe
 42	filler_a_l	11/17/2020 23:43:57.626	0	9	arm_shoulder	leg_calf
-
 42	filler_l_b	11/17/2020 23:44:02.086	0	10	leg_knee	back_shoulder
-
 42	target_h1_4	11/17/2020 23:44:05.353	1	11	either	thumb
 42	target_h1_5	11/17/2020 23:44:08.823	1	12	either	thumb
 43	target_f1_4	11/18/2020 09:48:41.731	0	1	either	big_toe
 43	filler_a_a	11/18/2020 09:48:45.854	1	2	either	arm_shoulder
-
 43	target_h4_5	11/18/2020 09:48:59.077	1	3	either	ring_finger
 43	filler_a_l	11/18/2020 09:49:03.357	1	4	arm_shoulder	arm_shoulder
 43	target_f1_5	11/18/2020 09:49:06.856	0	5	either	big_toe
@@ -378,19 +265,12 @@ usernum	cond	timestamp	leftright	order	expected	choice
 43	target_f4_5	11/18/2020 09:49:40.849	0	10	either	ring_toe
 43	filler_b_a	11/18/2020 09:49:45.290	1	11	back	back
 43	filler_l_l	11/18/2020 09:49:50.870	1	12	either	leg_knee
-
 44	target_h1_4	11/18/2020 10:47:07.836	1	1	either	ring_finger
-
 44	target_f1_4	11/18/2020 10:47:15.725	0	2	either	ring_toe
-
 44	target_f4_5	11/18/2020 10:47:34.529	0	3	either	pinky_toe
-
 44	target_h1_5	11/18/2020 10:47:40.624	1	4	either	pinky
-
 44	filler_a_a	11/18/2020 10:47:44.230	1	5	either	arm_shoulder
-
 44	target_f1_5	11/18/2020 10:47:48.774	0	6	either	pinky_toe
-
 44	filler_l_l	11/18/2020 10:47:56.772	0	7	either	leg_calf
 44	filler_b_a	11/18/2020 10:48:02.460	0	8	back	back
 44	target_h4_5	11/18/2020 10:48:05.982	1	9	either	ring_finger
@@ -402,152 +282,108 @@ usernum	cond	timestamp	leftright	order	expected	choice
 45	target_f1_4	11/19/2020 12:44:41.876	1	3	either	big_toe
 45	target_h1_4	11/19/2020 12:44:53.543	0	4	either	thumb
 45	target_h1_5	11/19/2020 12:45:10.106	1	5	either	pinky
-
 45	filler_a_a	11/19/2020 12:45:32.859	0	6	either	arm_shoulder
-
 45	filler_l_b	11/19/2020 12:45:47.043	0	7	leg_knee	leg_knee
 45	target_f1_5	11/19/2020 12:46:03.119	1	8	either	big_toe
 45	target_h4_5	11/19/2020 12:46:15.471	1	9	either	ring_finger
 45	filler_b_a	11/19/2020 12:46:27.041	1	10	back	back
 45	filler_l_l	11/19/2020 12:46:40.315	0	11	either	leg_calf
 45	target_f4_5	11/19/2020 12:46:43.018	0	12	either	pinky_toe
-
 46	target_f1_5	11/19/2020 14:13:26.733	0	1	either	pinky_toe
-
 46	target_h1_4	11/19/2020 14:13:35.131	0	2	either	thumb
 46	target_f1_4	11/19/2020 14:13:38.800	1	3	either	ring_toe
-
 46	filler_a_l	11/19/2020 14:13:43.524	0	4	arm_shoulder	arm_shoulder
 46	filler_l_l	11/19/2020 14:13:49.966	0	5	either	leg_calf
 46	filler_a_a	11/19/2020 14:13:53.479	0	6	either	arm_shoulder
-
 46	target_f4_5	11/19/2020 14:13:57.054	0	7	either	pinky_toe
-
 46	filler_b_a	11/19/2020 14:14:01.655	0	8	back	back
 46	filler_l_b	11/19/2020 14:14:06.637	0	9	leg_knee	leg_knee
 46	filler_b_b	11/19/2020 14:14:12.155	0	10	either	back
 46	target_h4_5	11/19/2020 14:14:16.721	0	11	either	pinky
-
 46	target_h1_5	11/19/2020 14:14:21.896	1	12	either	pinky
-
 47	filler_a_l	11/20/2020 19:38:30.899	1	1	arm_shoulder	arm_shoulder
 47	target_f4_5	11/20/2020 19:38:43.599	0	2	either	ring_toe
 47	filler_a_a	11/20/2020 19:38:50.623	0	3	either	arm_shoulder
-
 47	filler_l_b	11/20/2020 19:38:54.489	0	4	leg_knee	leg_knee
 47	filler_b_a	11/20/2020 19:38:58.134	1	5	back	back
 47	target_h1_5	11/20/2020 19:39:07.828	0	6	either	pinky
-
 47	target_f1_4	11/20/2020 19:39:16.137	1	7	either	ring_toe
-
 47	target_f1_5	11/20/2020 19:39:19.870	0	8	either	pinky_toe
-
 47	target_h1_4	11/20/2020 19:39:23.571	0	9	either	ring_finger
-
 47	filler_b_b	11/20/2020 19:39:30.904	1	10	either	back
 47	target_h4_5	11/20/2020 19:39:34.610	0	11	either	ring_finger
 47	filler_l_l	11/20/2020 19:39:42.251	0	12	either	leg_knee
-
 48	filler_a_a	11/20/2020 22:12:57.994	0	1	either	arm_elbow
 48	target_h1_5	11/20/2020 22:13:10.071	0	2	either	pinky
-
 48	target_f4_5	11/20/2020 22:13:17.683	0	3	either	ring_toe
 48	filler_b_b	11/20/2020 22:13:26.842	0	4	either	back_shoulder
-
 48	target_f1_5	11/20/2020 22:13:31.826	0	5	either	big_toe
 48	filler_l_b	11/20/2020 22:13:36.659	0	6	leg_knee	leg_knee
 48	target_f1_4	11/20/2020 22:13:40.409	0	7	either	big_toe
 48	target_h1_4	11/20/2020 22:13:47.491	0	8	either	ring_finger
-
 48	filler_a_l	11/20/2020 22:13:51.776	1	9	arm_shoulder	leg_calf
-
 48	target_h4_5	11/20/2020 22:13:55.119	0	10	either	ring_finger
 48	filler_b_a	11/20/2020 22:13:57.857	0	11	back	back
 48	filler_l_l	11/20/2020 22:14:02.846	0	12	either	leg_knee
-
 49	target_h4_5	11/21/2020 18:23:46.479	1	1	either	ring_finger
 49	target_h1_5	11/21/2020 18:23:56.929	0	2	either	thumb
 49	filler_a_l	11/21/2020 18:24:01.539	1	3	arm_shoulder	arm_shoulder
 49	filler_a_a	11/21/2020 18:24:08.604	0	4	either	arm_shoulder
-
 49	target_f4_5	11/21/2020 18:24:15.157	1	5	either	ring_toe
 49	target_f1_4	11/21/2020 18:24:21.811	1	6	either	ring_toe
-
 49	target_h1_4	11/21/2020 18:24:26.622	1	7	either	ring_finger
-
 49	filler_l_l	11/21/2020 18:25:10.758	0	8	either	leg_calf
 49	filler_l_b	11/21/2020 18:25:14.263	0	9	leg_knee	leg_knee
 49	filler_b_a	11/21/2020 18:25:18.595	0	10	back	back
 49	filler_b_b	11/21/2020 18:25:23.582	0	11	either	back
 49	target_f1_5	11/21/2020 18:25:26.591	1	12	either	pinky_toe
-
-49	target_f1_5	11/22/2020 10:59:45.783	1	12	either	pinky_toe
-
 50	target_f1_5	11/21/2020 22:42:56.292	1	1	either	pinky_toe
-
 50	filler_a_a	11/21/2020 22:43:02.521	1	2	either	arm_shoulder
-
 50	filler_a_l	11/21/2020 22:43:06.904	0	3	arm_shoulder	arm_shoulder
 50	target_f4_5	11/21/2020 22:43:13.244	0	4	either	ring_toe
 50	target_f1_4	11/21/2020 22:43:16.457	0	5	either	ring_toe
-
 50	filler_l_b	11/21/2020 22:43:21.671	1	6	leg_knee	leg_knee
 50	filler_b_a	11/21/2020 22:43:26.280	1	7	back	back
 50	filler_l_l	11/21/2020 22:43:32.203	0	8	either	leg_knee
-
 50	filler_b_b	11/21/2020 22:43:41.749	0	9	either	back_shoulder
-
 50	target_h1_4	11/21/2020 22:43:51.675	0	10	either	thumb
 50	target_h4_5	11/21/2020 22:43:58.474	1	11	either	pinky
-
 50	target_h1_5	11/21/2020 22:44:02.541	1	12	either	thumb
 51	target_f4_5	11/22/2020 08:55:43.437	0	1	either	ring_toe
 51	filler_a_a	11/22/2020 08:55:53.075	1	2	either	arm_elbow
 51	filler_b_b	11/22/2020 08:56:00.891	0	3	either	back_shoulder
-
 51	filler_l_b	11/22/2020 08:56:04.357	0	4	leg_knee	leg_knee
 51	target_h1_4	11/22/2020 08:56:08.427	0	5	either	ring_finger
-
 51	filler_l_l	11/22/2020 08:56:12.603	1	6	either	leg_calf
 51	target_f1_5	11/22/2020 08:56:19.271	1	7	either	big_toe
 51	target_h4_5	11/22/2020 08:56:22.992	1	8	either	ring_finger
 51	target_f1_4	11/22/2020 08:56:26.651	1	9	either	ring_toe
-
 51	target_h1_5	11/22/2020 08:56:32.541	0	10	either	thumb
 51	filler_a_l	11/22/2020 08:56:35.746	1	11	arm_shoulder	arm_shoulder
 51	filler_b_a	11/22/2020 08:56:38.641	1	12	back	back
 52	target_f4_5	11/22/2020 22:08:22.000	1	1	either	ring_toe
 52	target_f1_5	11/22/2020 22:08:27.628	1	2	either	pinky_toe
-
 52	filler_a_l	11/22/2020 22:08:34.863	0	3	arm_shoulder	leg_calf
-
 52	filler_b_a	11/22/2020 22:08:38.360	0	4	back	back
 52	filler_l_b	11/22/2020 22:08:45.752	0	5	leg_knee	leg_knee
 52	filler_b_b	11/22/2020 22:08:52.314	0	6	either	back
 52	target_h1_5	11/22/2020 22:08:56.740	0	7	either	pinky
-
 52	filler_a_a	11/22/2020 22:09:01.006	0	8	either	arm_elbow
 52	target_h4_5	11/22/2020 22:09:05.907	0	9	either	pinky
-
 52	target_h1_4	11/22/2020 22:09:09.558	1	10	either	thumb
 52	filler_l_l	11/22/2020 22:09:15.673	0	11	either	leg_knee
-
 52	target_f1_4	11/22/2020 22:09:19.563	0	12	either	ring_toe
-
 53	target_h1_5	11/23/2020 00:54:59.784	0	1	either	thumb
 53	filler_a_l	11/23/2020 00:55:01.849	0	2	arm_shoulder	arm_shoulder
 53	target_f4_5	11/23/2020 00:55:04.244	0	3	either	ring_toe
 53	filler_b_b	11/23/2020 00:55:07.084	1	4	either	back_shoulder
-
 53	target_h1_4	11/23/2020 00:55:10.151	1	5	either	thumb
 53	filler_a_a	11/23/2020 00:55:14.087	0	6	either	arm_shoulder
-
 53	filler_l_b	11/23/2020 00:55:16.575	0	7	leg_knee	leg_knee
 53	target_f1_4	11/23/2020 00:55:18.340	0	8	either	big_toe
 53	target_h4_5	11/23/2020 00:55:21.438	1	9	either	ring_finger
 53	filler_b_a	11/23/2020 00:55:23.663	0	10	back	back
 53	filler_l_l	11/23/2020 00:55:26.219	1	11	either	leg_knee
-
 53	target_f1_5	11/23/2020 00:55:27.968	1	12	either	big_toe
 54	target_f1_4	11/23/2020 00:55:17.464	0	1	either	big_toe
 54	filler_a_a	11/23/2020 00:55:21.507	1	2	either	arm_elbow
@@ -555,44 +391,32 @@ usernum	cond	timestamp	leftright	order	expected	choice
 54	filler_b_a	11/23/2020 00:55:30.584	1	4	back	back
 54	target_h1_5	11/23/2020 00:55:34.102	0	5	either	thumb
 54	filler_b_b	11/23/2020 00:55:41.284	1	6	either	back_shoulder
-
 54	target_h4_5	11/23/2020 00:55:45.009	1	7	either	pinky
-
 54	filler_a_l	11/23/2020 00:55:47.531	1	8	arm_shoulder	arm_shoulder
 54	filler_l_l	11/23/2020 00:55:51.764	1	9	either	leg_knee
-
 54	target_h1_4	11/23/2020 00:55:54.945	1	10	either	thumb
 54	target_f1_5	11/23/2020 00:55:56.903	1	11	either	big_toe
 54	target_f4_5	11/23/2020 00:55:58.813	0	12	either	ring_toe
 55	filler_l_l	11/23/2020 02:59:16.888	1	1	either	leg_calf
 55	target_h1_4	11/23/2020 02:59:19.934	0	2	either	thumb
 55	target_f1_5	11/23/2020 02:59:28.252	0	3	either	pinky_toe
-
 55	filler_b_a	11/23/2020 02:59:31.507	1	4	back	back
 55	filler_l_b	11/23/2020 02:59:35.804	1	5	leg_knee	leg_knee
 55	target_f4_5	11/23/2020 02:59:42.801	0	6	either	ring_toe
 55	filler_b_b	11/23/2020 02:59:49.145	1	7	either	back_shoulder
-
 55	target_h1_5	11/23/2020 02:59:52.792	0	8	either	thumb
 55	target_f1_4	11/23/2020 02:59:56.395	0	9	either	ring_toe
-
 55	target_h4_5	11/23/2020 03:00:02.656	1	10	either	pinky
-
 55	filler_a_l	11/23/2020 03:00:05.644	1	11	arm_shoulder	arm_shoulder
 55	filler_a_a	11/23/2020 03:00:08.748	1	12	either	arm_shoulder
-
 56	filler_b_b	11/23/2020 03:56:44.573	1	1	either	back_shoulder
-
 57	target_h1_5	11/23/2020 05:18:18.343	1	1	either	pinky
-
 57	target_f1_5	11/23/2020 05:18:30.354	1	2	either	big_toe
 57	target_h4_5	11/23/2020 05:18:34.223	1	3	either	ring_finger
 57	filler_a_a	11/23/2020 05:18:37.448	1	4	either	arm_shoulder
-
 57	target_f1_4	11/23/2020 05:18:42.470	0	5	either	big_toe
 57	filler_a_l	11/23/2020 05:18:45.522	1	6	arm_shoulder	arm_shoulder
 57	target_h1_4	11/23/2020 05:18:48.813	1	7	either	ring_finger
-
 57	filler_l_b	11/23/2020 05:18:54.697	1	8	leg_knee	leg_knee
 57	filler_l_l	11/23/2020 05:18:58.428	0	9	either	leg_calf
 57	filler_b_b	11/23/2020 05:19:01.653	0	10	either	back
@@ -602,99 +426,70 @@ usernum	cond	timestamp	leftright	order	expected	choice
 58	filler_b_b	11/23/2020 13:43:14.597	0	2	either	back
 58	filler_l_l	11/23/2020 13:43:19.191	0	3	either	leg_calf
 58	filler_a_a	11/23/2020 13:43:22.585	0	4	either	arm_shoulder
-
 58	filler_l_b	11/23/2020 13:43:26.837	0	5	leg_knee	leg_knee
 58	filler_a_l	11/23/2020 13:43:30.487	0	6	arm_shoulder	arm_shoulder
 58	filler_b_a	11/23/2020 13:43:33.920	1	7	back	back
 58	target_h4_5	11/23/2020 13:43:41.086	0	8	either	pinky
-
 58	target_h1_4	11/23/2020 13:43:45.984	1	9	either	ring_finger
-
 58	target_f1_4	11/23/2020 13:43:50.390	1	10	either	ring_toe
-
 58	target_f4_5	11/23/2020 13:43:53.673	0	11	either	ring_toe
 58	target_h1_5	11/23/2020 13:43:56.956	1	12	either	pinky
-
 59	filler_b_a	11/30/2020 03:26:53.845	1	1	back	back
 59	target_h1_5	11/30/2020 03:27:02.420	1	2	either	thumb
 59	target_h4_5	11/30/2020 03:27:05.755	0	3	either	ring_finger
 59	filler_l_b	11/30/2020 03:27:11.027	1	4	leg_knee	leg_knee
 59	filler_l_l	11/30/2020 03:27:16.445	1	5	either	leg_knee
-
 59	filler_b_b	11/30/2020 03:27:20.081	0	6	either	back
 59	filler_a_l	11/30/2020 03:27:23.951	1	7	arm_shoulder	arm_shoulder
 59	target_f1_4	11/30/2020 03:27:29.452	1	8	either	ring_toe
-
 59	target_h1_4	11/30/2020 03:27:34.170	0	9	either	thumb
 59	target_f1_5	11/30/2020 03:27:39.156	0	10	either	pinky_toe
-
 59	target_f4_5	11/30/2020 03:27:41.762	1	11	either	ring_toe
 59	filler_a_a	11/30/2020 03:27:45.051	0	12	either	arm_shoulder
-
 60	filler_a_l	12/01/2020 04:51:21.035	0	1	arm_shoulder	arm_shoulder
 60	target_h4_5	12/01/2020 04:51:42.116	1	2	either	ring_finger
 60	filler_l_l	12/01/2020 04:51:58.685	1	3	either	leg_knee
-
 60	target_h1_4	12/01/2020 04:52:03.329	1	4	either	thumb
 60	filler_b_b	12/01/2020 04:52:15.710	0	5	either	back_shoulder
-
 60	target_f4_5	12/01/2020 04:52:30.732	0	6	either	pinky_toe
-
 60	target_h1_5	12/01/2020 04:52:34.841	1	7	either	thumb
 60	filler_l_b	12/01/2020 04:52:37.793	1	8	leg_knee	leg_knee
 60	target_f1_5	12/01/2020 04:52:42.272	0	9	either	pinky_toe
-
 60	target_f1_4	12/01/2020 04:52:45.163	1	10	either	ring_toe
-
 60	filler_b_a	12/01/2020 04:52:51.834	0	11	back	back
 60	filler_a_a	12/01/2020 04:52:55.560	1	12	either	arm_shoulder
-
 62	filler_a_a	12/01/2020 04:55:04.944	1	1	either	arm_shoulder
-
 62	filler_l_l	12/01/2020 04:55:09.588	1	2	either	leg_knee
-
 62	filler_l_b	12/01/2020 04:55:12.542	0	3	leg_knee	leg_knee
 62	target_f1_5	12/01/2020 04:55:15.440	1	4	either	pinky_toe
-
 62	target_h1_4	12/01/2020 04:55:19.346	1	5	either	thumb
 62	target_f4_5	12/01/2020 04:55:24.424	0	6	either	pinky_toe
-
 62	target_h4_5	12/01/2020 04:55:28.674	1	7	either	ring_finger
 62	target_f1_4	12/01/2020 04:55:32.661	1	8	either	ring_toe
-
 62	filler_b_b	12/01/2020 04:55:36.048	1	9	either	back_shoulder
-
 63	filler_a_l	12/01/2020 06:35:52.780	1	1	arm_shoulder	arm_shoulder
 63	target_f1_5	12/01/2020 06:35:59.566	0	2	either	big_toe
 63	target_f1_4	12/01/2020 06:36:06.547	0	3	either	ring_toe
-
 63	filler_b_b	12/01/2020 06:36:09.320	0	4	either	back
 63	filler_l_b	12/01/2020 06:36:11.906	0	5	leg_knee	leg_knee
 63	target_h1_4	12/01/2020 06:36:16.313	1	6	either	thumb
 63	filler_b_a	12/01/2020 06:36:18.485	1	7	back	back
 63	target_h4_5	12/01/2020 06:36:25.570	0	8	either	ring_finger
 63	filler_l_l	12/01/2020 06:36:29.713	1	9	either	leg_knee
-
 63	target_f4_5	12/01/2020 06:36:35.505	0	10	either	ring_toe
 63	target_h1_5	12/01/2020 06:36:39.694	1	11	either	thumb
 63	filler_a_a	12/01/2020 06:36:43.255	1	12	either	arm_shoulder
-
 64	target_h1_4	12/02/2020 08:07:36.027	1	1	either	ring_finger
-
 64	target_h1_5	12/02/2020 08:07:53.103	0	2	either	thumb
 64	filler_b_b	12/02/2020 08:08:02.974	1	3	either	back_shoulder
-
 64	filler_l_l	12/02/2020 08:08:19.932	1	4	either	leg_calf
 64	filler_l_b	12/02/2020 08:08:24.306	0	5	leg_knee	leg_knee
 64	target_f1_5	12/02/2020 08:08:31.310	1	6	either	big_toe
 64	filler_b_a	12/02/2020 08:08:33.914	0	7	back	back
 64	filler_a_a	12/02/2020 08:08:38.064	0	8	either	arm_shoulder
-
 64	filler_a_l	12/02/2020 08:08:40.663	0	9	arm_shoulder	arm_shoulder
 64	target_f1_4	12/02/2020 08:08:46.549	0	10	either	ring_toe
-
 64	target_f4_5	12/02/2020 08:08:48.958	1	11	either	pinky_toe
-
 64	target_h4_5	12/02/2020 08:08:53.654	0	12	either	ring_finger
 65	filler_b_b	12/07/2020 15:06:26.957	0	1	either	back
 65	filler_l_l	12/07/2020 15:06:35.523	1	2	either	leg_calf
@@ -704,31 +499,21 @@ usernum	cond	timestamp	leftright	order	expected	choice
 65	target_h4_5	12/07/2020 15:07:03.586	1	6	either	ring_finger
 65	target_f1_5	12/07/2020 15:07:07.618	0	7	either	big_toe
 65	filler_a_a	12/07/2020 15:07:11.588	1	8	either	arm_shoulder
-
 65	target_h1_4	12/07/2020 15:07:14.016	1	9	either	ring_finger
-
 65	target_h1_5	12/07/2020 15:07:16.007	1	10	either	pinky
-
 65	target_f1_4	12/07/2020 15:07:17.959	0	11	either	ring_toe
-
 65	filler_l_b	12/07/2020 15:07:21.112	0	12	leg_knee	leg_knee
 66	target_h1_4	03/15/2021 20:55:13.573	1	1	either	ring_finger
-
 66	filler_b_b	03/15/2021 20:55:17.552	0	2	either	back
 67	filler_l_b	04/08/2021 17:31:37.536	1	1	leg_knee	leg_knee
 67	target_h1_5	04/08/2021 17:31:45.998	0	2	either	pinky
-
 67	filler_a_l	04/08/2021 17:31:52.637	1	3	arm_shoulder	arm_shoulder
 67	filler_b_a	04/08/2021 17:31:57.578	1	4	back	back
 67	target_h1_4	04/08/2021 17:32:04.638	0	5	either	thumb
 67	target_f1_5	04/08/2021 17:32:11.052	1	6	either	pinky_toe
-
 67	target_f4_5	04/08/2021 17:32:16.560	0	7	either	ring_toe
 67	target_f1_4	04/08/2021 17:32:19.632	1	8	either	ring_toe
-
 67	filler_a_a	04/08/2021 17:32:22.316	1	9	either	arm_shoulder
-
 67	target_h4_5	04/08/2021 17:32:26.648	1	10	either	pinky
-
 67	filler_l_l	04/08/2021 17:32:35.005	0	11	either	leg_calf
 67	filler_b_b	04/08/2021 17:32:37.924	1	12	either	back

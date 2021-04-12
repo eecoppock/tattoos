@@ -3,15 +3,15 @@ Data and code for "Differences in implicature across languages stem from differe
 
 Data for the project is divided by language. There are five data folders. Each contains both production and comprehension data.
 
-/Data_ar (Arabic)
+/Data_eng (English) -- this folder also contains example pre-processing scripts (make-r-data-file.pl and remove-nonfinal-answers.pl) that were used to convert the raw data into the data file that was imported into R. Similar scripts were used for all five languages.
 
-/Data_eng (English)
-
-/Data_per (Persian)
+/Data_spa (Spanish)
 
 /Data_ru (Russian)
 
-/Data_spa (Spanish)
+/Data_per (Persian)
+
+/Data_ar (Arabic)
 
 All data is anonymized. The participant IDs in the production data are encrypted.
 
