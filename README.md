@@ -27,4 +27,8 @@ The HTML/Perl-CGI code for running the comprehension experiments is under:
 
 /WebCode
 
+This directory contains the Perl/CGI scripts and associated resources that were used to run the comprehension studies in all five languages. The scripts directories contain CGI scripts and associated files that were placed in a web-readable directory on the server. The resources directories contain files that the scripts reference. The output directories are not included in the public repository.
+
+Warning: There are some server-specific pathnames in this code.
+
 This directory also contains the images that were used in the production studies.
