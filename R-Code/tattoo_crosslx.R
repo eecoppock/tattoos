@@ -1304,7 +1304,7 @@ chosen.merged %>%
 
 chosen.merged.bylg <- 
   chosen.merged %>%
-  group_by(language,speakertype) %>%
+  
   summarize(rsquared = summary(lm_robust(estimate ~ as.numeric(prob)))$adj.r.squared)
 
 chosen.merged.bylg
