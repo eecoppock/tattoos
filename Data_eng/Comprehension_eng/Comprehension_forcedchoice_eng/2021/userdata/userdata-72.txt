@@ -1,0 +1,8 @@
+72	consent	on
+72	workerID	5b54ce6fb7ef510001676f99
+72	REMOTE_ADDR	73.208.246.176
+72	REMOTE_PORT	49682
+72	UNIQUE_ID	
+72	HTTP_USER_AGENT	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+72	starttime	Fri Dec 13 10:08:03 2019
+72	starttime	12/13/2019 10:08:11.920

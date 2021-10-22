@@ -1,0 +1,5 @@
+57	target_f1_5	12/12/2019 16:05:54.949	big_toe
+57	target_f1_5	12/12/2019 16:06:12.370	big_toe
+57	target_f4_5	12/12/2019 16:06:13.389	ring_toe
+57	filler_l_l	12/12/2019 16:06:14.827	leg_calf
+57	condition	12/12/2019 16:06:20.342	image1

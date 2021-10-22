@@ -1,0 +1,8 @@
+190	consent	on
+190	workerID	asdfasdfasdfasdf
+190	REMOTE_ADDR	73.218.226.249
+190	REMOTE_PORT	58530
+190	UNIQUE_ID	
+190	HTTP_USER_AGENT	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36
+190	starttime	Wed Sep 15 16:27:14 2021
+190	starttime	09/15/2021 16:27:17.846

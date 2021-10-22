@@ -1,0 +1,8 @@
+98	consent	on
+98	workerID	5c6c666a4d4f48000122caf8
+98	REMOTE_ADDR	71.72.0.58
+98	REMOTE_PORT	43647
+98	UNIQUE_ID	
+98	HTTP_USER_AGENT	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+98	starttime	Fri Dec 13 10:28:59 2019
+98	starttime	12/13/2019 10:29:02.472

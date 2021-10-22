@@ -1,0 +1,8 @@
+342	consent	on
+342	workerID	5edef14e402f7d1ac3b97c74
+342	REMOTE_ADDR	172.116.195.205
+342	REMOTE_PORT	64292
+342	UNIQUE_ID	
+342	HTTP_USER_AGENT	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36
+342	starttime	Wed Sep 15 18:00:47 2021
+342	starttime	09/15/2021 18:00:54.060

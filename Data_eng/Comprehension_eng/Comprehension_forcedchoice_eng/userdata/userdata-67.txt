@@ -1,0 +1,9 @@
+67	consent	on
+67	workerID	asdf
+67	REMOTE_ADDR	155.41.16.29
+67	REMOTE_PORT	59203
+67	UNIQUE_ID	
+67	HTTP_USER_AGENT	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15
+67	starttime	Thu Dec 12 19:33:42 2019
+67	starttime	12/12/2019 19:33:43.911
+67	starttime	12/12/2019 19:35:15.335

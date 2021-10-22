@@ -1,0 +1,8 @@
+101	consent	on
+101	workerID	5dd02afa181abc1253c5eab7
+101	REMOTE_ADDR	71.206.173.241
+101	REMOTE_PORT	56878
+101	UNIQUE_ID	
+101	HTTP_USER_AGENT	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+101	starttime	Fri Dec 13 10:32:08 2019
+101	starttime	12/13/2019 10:32:20.306

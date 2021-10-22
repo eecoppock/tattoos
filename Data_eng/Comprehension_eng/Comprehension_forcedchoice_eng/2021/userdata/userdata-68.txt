@@ -1,0 +1,8 @@
+68	consent	on
+68	workerID	asdf
+68	REMOTE_ADDR	155.41.16.29
+68	REMOTE_PORT	59310
+68	UNIQUE_ID	
+68	HTTP_USER_AGENT	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15
+68	starttime	Thu Dec 12 19:41:27 2019
+68	starttime	12/12/2019 19:41:28.955

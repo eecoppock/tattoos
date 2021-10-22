@@ -1,0 +1,8 @@
+90	consent	on
+90	workerID	5d41ec81b96946001b62cdd1
+90	REMOTE_ADDR	75.147.205.249
+90	REMOTE_PORT	32977
+90	UNIQUE_ID	
+90	HTTP_USER_AGENT	Mozilla/5.0 (Linux; Android 9; SM-G950U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Mobile Safari/537.36
+90	starttime	Fri Dec 13 10:22:40 2019
+90	starttime	12/13/2019 10:22:44.327

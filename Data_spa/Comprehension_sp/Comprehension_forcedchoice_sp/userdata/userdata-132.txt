@@ -1,0 +1,8 @@
+132	consent	on
+132	workerID	5d7fea1def325000014d6430
+132	REMOTE_ADDR	189.252.12.4
+132	REMOTE_PORT	63914
+132	UNIQUE_ID	
+132	HTTP_USER_AGENT	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+132	starttime	Tue Dec 17 12:42:02 2019
+132	starttime	12/17/2019 12:42:12.155

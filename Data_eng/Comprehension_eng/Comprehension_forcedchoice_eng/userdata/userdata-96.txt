@@ -1,0 +1,8 @@
+96	consent	on
+96	workerID	5aea8f8f44277c000101c7cf
+96	REMOTE_ADDR	98.10.73.168
+96	REMOTE_PORT	59894
+96	UNIQUE_ID	
+96	HTTP_USER_AGENT	Mozilla/5.0 (iPhone; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/79.0.3945.73 Mobile/15E148 Safari/605.1
+96	starttime	Fri Dec 13 10:26:36 2019
+96	starttime	12/13/2019 10:26:43.644

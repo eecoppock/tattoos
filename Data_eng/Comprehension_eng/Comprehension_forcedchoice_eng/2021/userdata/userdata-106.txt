@@ -1,0 +1,8 @@
+106	consent	on
+106	workerID	5c0a161dd56d2200015a754f
+106	REMOTE_ADDR	73.11.33.73
+106	REMOTE_PORT	53981
+106	UNIQUE_ID	
+106	HTTP_USER_AGENT	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+106	starttime	Fri Dec 13 10:38:01 2019
+106	starttime	12/13/2019 10:38:16.274

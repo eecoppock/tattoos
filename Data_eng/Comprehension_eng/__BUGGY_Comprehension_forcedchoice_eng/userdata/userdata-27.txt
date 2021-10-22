@@ -1,0 +1,9 @@
+27	consent	on
+27	workerID	5801cfc607d709000141b5be
+27	REMOTE_ADDR	69.123.243.158
+27	REMOTE_PORT	63886
+27	UNIQUE_ID	
+27	HTTP_USER_AGENT	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+27	starttime	Thu Dec 12 15:42:44 2019
+27	starttime	12/12/2019 15:43:02.597
+27	starttime	12/12/2019 15:43:18.265

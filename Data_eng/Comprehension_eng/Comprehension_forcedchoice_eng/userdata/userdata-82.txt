@@ -1,0 +1,8 @@
+82	consent	on
+82	workerID	5d41ec81b96946001b62cdd1
+82	REMOTE_ADDR	75.147.205.249
+82	REMOTE_PORT	43655
+82	UNIQUE_ID	
+82	HTTP_USER_AGENT	Mozilla/5.0 (Linux; Android 9; SM-G950U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Mobile Safari/537.36
+82	starttime	Fri Dec 13 10:19:06 2019
+82	starttime	12/13/2019 10:21:10.677

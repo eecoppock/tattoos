@@ -1,0 +1,8 @@
+139	consent	on
+139	workerID	5bfb724acad1240001e8f657
+139	REMOTE_ADDR	201.103.208.200
+139	REMOTE_PORT	61096
+139	UNIQUE_ID	
+139	HTTP_USER_AGENT	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+139	starttime	Tue Dec 17 12:47:41 2019
+139	starttime	12/17/2019 12:47:49.605

@@ -1,0 +1,8 @@
+114	consent	on
+114	workerID	59497b268bb5730001d4fe2f
+114	REMOTE_ADDR	189.218.29.62
+114	REMOTE_PORT	55636
+114	UNIQUE_ID	
+114	HTTP_USER_AGENT	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+114	starttime	Tue Dec 17 12:28:21 2019
+114	starttime	12/17/2019 12:28:29.482

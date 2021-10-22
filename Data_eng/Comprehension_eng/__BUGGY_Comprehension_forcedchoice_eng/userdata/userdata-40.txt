@@ -1,0 +1,8 @@
+40	consent	on
+40	workerID	5d38dac9b37ab1001811fa5e
+40	REMOTE_ADDR	96.225.170.48
+40	REMOTE_PORT	49648
+40	UNIQUE_ID	
+40	HTTP_USER_AGENT	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+40	starttime	Thu Dec 12 15:55:13 2019
+40	starttime	12/12/2019 15:55:51.200

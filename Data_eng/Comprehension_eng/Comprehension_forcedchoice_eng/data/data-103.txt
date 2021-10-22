@@ -1,0 +1,13 @@
+103	target_f4_5	12/13/2019 10:33:39.973	1	1	either	ring_toe
+103	target_f4_5	12/13/2019 10:33:40.252	1	1	either	pinky_toe
+103	target_h1_5	12/13/2019 10:33:43.760	1	2	either	pinky
+103	target_h1_4	12/13/2019 10:33:55.253	0	3	either	thumb
+103	filler_a_l	12/13/2019 10:33:58.640	0	4	arm	arm_shoulder
+103	filler_l_l	12/13/2019 10:34:02.068	0	5	either	leg_calf
+103	target_h4_5	12/13/2019 10:34:04.532	0	6	either	pinky
+103	target_f1_5	12/13/2019 10:34:07.762	1	7	either	pinky_toe
+103	filler_a_a	12/13/2019 10:34:10.376	1	8	either	arm_shoulder
+103	target_f1_4	12/13/2019 10:34:13.162	0	9	either	ring_toe
+103	filler_l_b	12/13/2019 10:34:16.420	1	10	leg	leg_knee
+103	filler_b_a	12/13/2019 10:34:18.774	0	11	back	back
+103	filler_b_b	12/13/2019 10:34:22.582	1	12	either	back_shoulder

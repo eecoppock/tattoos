@@ -1,0 +1,8 @@
+52	consent	on
+52	workerID	5b3b5d6cac7a460001f90b33
+52	REMOTE_ADDR	96.36.78.130
+52	REMOTE_PORT	55411
+52	UNIQUE_ID	
+52	HTTP_USER_AGENT	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+52	starttime	Thu Dec 12 16:04:31 2019
+52	starttime	12/12/2019 16:04:58.565

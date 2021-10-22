@@ -1,0 +1,8 @@
+79	consent	on
+79	workerID	5c4289e43526c80001fc6e8d
+79	REMOTE_ADDR	24.18.112.221
+79	REMOTE_PORT	55346
+79	UNIQUE_ID	
+79	HTTP_USER_AGENT	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+79	starttime	Fri Dec 13 10:16:28 2019
+79	starttime	12/13/2019 10:16:34.852

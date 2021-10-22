@@ -1,0 +1,3 @@
+82	filler_l_l	12/13/2019 10:21:21.144	1	1	either	leg_calf
+82	target_f4_5	12/13/2019 10:21:50.245	1	2	either	ring_toe
+82	filler_a_a	12/13/2019 10:21:53.986	0	3	either	arm_elbow

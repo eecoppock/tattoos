@@ -1,0 +1,12 @@
+338	target_f1_5	09/15/2021 17:56:52.705	1	1	either	big_toe
+338	filler_b_b	09/15/2021 17:56:55.559	0	2	either	back_shoulder
+338	filler_b_a	09/15/2021 17:56:57.485	0	3	back	back
+338	filler_l_b	09/15/2021 17:56:58.857	0	4	leg	leg_knee
+338	filler_a_l	09/15/2021 17:57:00.155	0	5	arm	arm_shoulder
+338	target_h1_5	09/15/2021 17:57:03.363	0	6	either	thumb
+338	target_h4_5	09/15/2021 17:57:05.494	0	7	either	pinky
+338	target_f1_4	09/15/2021 17:57:07.054	0	8	either	ring_toe
+338	filler_a_a	09/15/2021 17:57:08.465	0	9	either	arm_shoulder
+338	target_f4_5	09/15/2021 17:57:11.628	0	10	either	pinky_toe
+338	target_h1_4	09/15/2021 17:57:12.865	1	11	either	thumb
+338	filler_l_l	09/15/2021 17:57:15.101	1	12	either	leg_calf

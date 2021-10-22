@@ -1,0 +1,8 @@
+77	consent	on
+77	workerID	5aeb1c85e3dad5000162edaf
+77	REMOTE_ADDR	107.242.125.53
+77	REMOTE_PORT	30838
+77	UNIQUE_ID	
+77	HTTP_USER_AGENT	Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-G900AZ) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.2 Chrome/71.0.3578.99 Mobile Safari/537.36
+77	starttime	Fri Dec 13 10:14:31 2019
+77	starttime	12/13/2019 10:14:38.708

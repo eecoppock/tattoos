@@ -1,0 +1,8 @@
+196	consent	on
+196	workerID	613a84c2de0dfd4998cdb799
+196	REMOTE_ADDR	189.217.2.69
+196	REMOTE_PORT	19779
+196	UNIQUE_ID	
+196	HTTP_USER_AGENT	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36
+196	starttime	Wed Sep 15 16:43:29 2021
+196	starttime	09/15/2021 16:43:36.069

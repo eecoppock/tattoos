@@ -1,0 +1,8 @@
+28	consent	on
+28	workerID	5a4d3a083646f90001b44066
+28	REMOTE_ADDR	72.207.143.19
+28	REMOTE_PORT	34552
+28	UNIQUE_ID	
+28	HTTP_USER_AGENT	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+28	starttime	Thu Dec 12 15:42:59 2019
+28	starttime	12/12/2019 15:43:21.727

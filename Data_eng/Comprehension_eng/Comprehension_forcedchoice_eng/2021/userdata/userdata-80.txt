@@ -1,0 +1,8 @@
+80	consent	on
+80	workerID	5dd4519c9b66eb44a4207c4f
+80	REMOTE_ADDR	166.137.126.121
+80	REMOTE_PORT	50822
+80	UNIQUE_ID	
+80	HTTP_USER_AGENT	Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-J727U Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/8.2 Chrome/63.0.3239.111 Mobile Safari/537.36
+80	starttime	Fri Dec 13 10:17:59 2019
+80	starttime	12/13/2019 10:18:17.653

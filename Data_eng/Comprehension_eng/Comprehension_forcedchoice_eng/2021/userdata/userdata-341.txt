@@ -1,0 +1,8 @@
+341	consent	on
+341	workerID	60ff02f3981a4c47804b3a41
+341	REMOTE_ADDR	67.84.29.92
+341	REMOTE_PORT	49954
+341	UNIQUE_ID	
+341	HTTP_USER_AGENT	Mozilla/5.0 (iPhone; CPU iPhone OS 14_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/93.0.4577.39 Mobile/15E148 Safari/604.1
+341	starttime	Wed Sep 15 18:00:42 2021
+341	starttime	09/15/2021 18:00:47.779

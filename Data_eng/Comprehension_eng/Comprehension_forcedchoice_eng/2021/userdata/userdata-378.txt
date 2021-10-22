@@ -1,0 +1,8 @@
+378	consent	on
+378	workerID	6100544d1abbcee6970c38d2
+378	REMOTE_ADDR	130.245.192.10
+378	REMOTE_PORT	21367
+378	UNIQUE_ID	
+378	HTTP_USER_AGENT	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36
+378	starttime	Wed Sep 15 18:27:48 2021
+378	starttime	09/15/2021 18:27:57.439

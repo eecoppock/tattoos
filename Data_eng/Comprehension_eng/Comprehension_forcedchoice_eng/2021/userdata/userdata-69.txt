@@ -1,0 +1,8 @@
+69	consent	on
+69	workerID	Test
+69	REMOTE_ADDR	209.6.67.40
+69	REMOTE_PORT	56968
+69	UNIQUE_ID	
+69	HTTP_USER_AGENT	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15
+69	starttime	Fri Dec 13 09:31:21 2019
+69	starttime	12/13/2019 09:31:23.888

@@ -1,0 +1,8 @@
+84	consent	on
+84	workerID	5c745153d11c1200017c9f87
+84	REMOTE_ADDR	24.230.50.138
+84	REMOTE_PORT	61188
+84	UNIQUE_ID	
+84	HTTP_USER_AGENT	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+84	starttime	Fri Dec 13 10:19:35 2019
+84	starttime	12/13/2019 10:19:43.972

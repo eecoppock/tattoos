@@ -1,0 +1,8 @@
+117	consent	on
+117	workerID	5de7d9bc22383674f04dc0c8
+117	REMOTE_ADDR	187.167.71.216
+117	REMOTE_PORT	49819
+117	UNIQUE_ID	
+117	HTTP_USER_AGENT	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+117	starttime	Tue Dec 17 12:30:43 2019
+117	starttime	12/17/2019 12:30:56.298

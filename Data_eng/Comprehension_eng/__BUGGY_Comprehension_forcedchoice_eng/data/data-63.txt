@@ -1,0 +1,13 @@
+63	filler_a_l	12/12/2019 16:08:21.991	arm_shoulder
+63	filler_a_a	12/12/2019 16:08:24.213	arm_elbow
+63	filler_b_b	12/12/2019 16:08:26.273	back
+63	condition	12/12/2019 16:08:30.954	image1
+63	target_f4_5	12/12/2019 16:08:34.676	ring_toe
+63	target_f1_5	12/12/2019 16:08:36.314	big_toe
+63	target_h1_5	12/12/2019 16:08:37.979	thumb
+63	target_h4_5	12/12/2019 16:08:39.400	ring_finger
+63	filler_b_a	12/12/2019 16:08:45.511	back
+63	target_h1_4	12/12/2019 16:08:47.932	thumb
+63	filler_l_l	12/12/2019 16:08:49.401	leg_calf
+63	filler_l_b	12/12/2019 16:08:50.905	leg_knee
+63	target_f1_4	12/12/2019 16:08:51.837	big_toe

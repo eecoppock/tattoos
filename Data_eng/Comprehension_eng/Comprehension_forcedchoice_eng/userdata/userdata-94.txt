@@ -1,0 +1,8 @@
+94	consent	on
+94	workerID	5dcec6054b0e0c000aa087c8
+94	REMOTE_ADDR	64.20.184.228
+94	REMOTE_PORT	64890
+94	UNIQUE_ID	
+94	HTTP_USER_AGENT	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+94	starttime	Fri Dec 13 10:25:40 2019
+94	starttime	12/13/2019 10:25:42.111

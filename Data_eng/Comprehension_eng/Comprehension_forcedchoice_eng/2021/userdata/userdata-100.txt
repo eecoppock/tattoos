@@ -1,0 +1,9 @@
+100	consent	on
+100	workerID	5a7cbe18eea3d300016e226f
+100	REMOTE_ADDR	68.43.220.16
+100	REMOTE_PORT	61980
+100	UNIQUE_ID	
+100	HTTP_USER_AGENT	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.74 Safari/537.36
+100	starttime	Fri Dec 13 10:30:01 2019
+100	starttime	12/13/2019 10:30:05.914
+100	starttime	12/13/2019 10:30:54.775

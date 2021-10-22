@@ -1,0 +1,8 @@
+93	consent	on
+93	workerID	5dd403c4794e103dc51d03ef
+93	REMOTE_ADDR	166.137.125.54
+93	REMOTE_PORT	58718
+93	UNIQUE_ID	
+93	HTTP_USER_AGENT	Mozilla/5.0 (Linux; Android 9; SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Mobile Safari/537.36
+93	starttime	Fri Dec 13 10:25:01 2019
+93	starttime	12/13/2019 10:25:10.437

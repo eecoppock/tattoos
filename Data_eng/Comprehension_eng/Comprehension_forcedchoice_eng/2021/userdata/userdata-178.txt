@@ -1,0 +1,8 @@
+178	consent	on
+178	workerID	asdf
+178	REMOTE_ADDR	73.218.226.249
+178	REMOTE_PORT	57677
+178	UNIQUE_ID	
+178	HTTP_USER_AGENT	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+178	starttime	Wed Oct  7 16:28:11 2020
+178	starttime	10/07/2020 16:28:13.529

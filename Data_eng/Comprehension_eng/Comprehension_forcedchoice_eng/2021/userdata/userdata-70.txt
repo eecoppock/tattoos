@@ -1,0 +1,8 @@
+70	consent	on
+70	workerID	5588d7b5fdf99b304dd47e7e
+70	REMOTE_ADDR	24.44.27.243
+70	REMOTE_PORT	59753
+70	UNIQUE_ID	
+70	HTTP_USER_AGENT	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+70	starttime	Fri Dec 13 09:56:34 2019
+70	starttime	12/13/2019 09:56:38.953

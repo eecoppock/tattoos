@@ -6,12 +6,14 @@
 
 var alpha = model_data[0][0]
 var beta = model_data[1][0]
-var epsilon = model_data[2][0]
-var speakertype = model_data[3][0]
-var role = model_data[4][0]
-var input = model_data[5][0]
-var cond = model_data[6][0]
-var lg = model_data[7][0]
+var gamma = model_data[2][0]
+var delta = model_data[3][0]
+var epsilon = model_data[4][0]
+var speakertype = model_data[5][0]
+var role = model_data[6][0]
+var input = model_data[7][0]
+var cond = model_data[8][0]
+var lg = model_data[9][0]
 
 
 display("alpha:")
@@ -39,7 +41,9 @@ var states = ['thumb', 'ring_finger', 'pinky_finger',
 // state prior
 
 var statePrior = function() {
-  return uniformDraw(states);
+  var hand_prob = 1+delta
+  var foot_prob = 1
+  return categorical([hand_prob,hand_prob,hand_prob,foot_prob,foot_prob,foot_prob],states);
 }
 // This represents the probability of having a tattoo on any given body part,
 // which could be measured empirically. It probably makes a difference,
@@ -49,9 +53,9 @@ var statePrior = function() {
 // utterance prior
 
 // to get the full set of possible utterances, read in data for speaker based on production data
-// assumes working directory "~/Dropbox/Tattoos/QP", which comes from R
-//var productionData = csv.read('../Modelling/production_summary.csv')
-var productionData = csv.read('../Modelling/production_summary.csv')
+// assumes working directory "~/Dropbox/Tattoos/Article/Analysis", which comes from R
+//var productionData = csv.read('../../Modelling/production_summary.csv')
+var productionData = csv.read('../../Modelling/production_summary.csv')
 
 // accessors for rows in production data
 
@@ -86,7 +90,7 @@ var utterances_for_lg = function(language) {
 
 
 var utterancePrior = function(language) {
-    return(uniformDraw(utterances_for_lg(language)))
+    return uniformDraw(utterances_for_lg(lg));
 }
 
 var utterancePriorDist = function(language) {
@@ -95,6 +99,7 @@ var utterancePriorDist = function(language) {
 	return utt
     }})
 }
+
 
 //display(utterancePriorDist("English").score("ring_toe"))
 
@@ -167,7 +172,7 @@ var smoothed_observed_prod_dist = function (lg,state) {
 ///////////////  Read in literal meanings ///////////////
 
 
-var meaningfilename = '../Modelling/literal_meanings/meaning_matrix_' + lg + '.csv'
+var meaningfilename = '../../Modelling/literal_meanings/meaning_matrix_' + lg + '.csv'
 
 //display(meaningfilename)
 
@@ -210,6 +215,14 @@ var cost = function(utterance) {
 }
 
 
+
+// alternative cost function for utterances: length in characters
+var cost_chars = function(utterance) {
+    return utterance.length;
+}
+
+
+
 // literal listener
 var literalListener = function(utt) {
     return Infer({model: function() {
@@ -222,21 +235,33 @@ var literalListener = function(utt) {
 // pragmatic speaker
 var speaker = function(state,lg) {
     //speakertype is a global parameter
+    display(state)
     if (speakertype=="empirical") {
-	
 	return Infer ({model: function() {
 	    var utt = utterancePrior(lg)
 	    factor(alpha * (literalListener(utt).score(state)
-			    + smoothed_observed_prod_dist(lg,state).score(utt)))
+			    + gamma*smoothed_observed_prod_dist(lg,state).score(utt)))
 	    return utt
 	}})
 	
     } else {
-     	return Infer({model: function() {
-     	    var utt = utterancePrior(lg)
-     	    factor(alpha * (literalListener(utt).score(state) - beta*cost(utt)))
-     	    return utt
-     	}})
+	if (speakertype=="mixed") {
+	    return Infer ({model: function() {
+		var utt = utterancePrior(lg)
+		factor(alpha * (literalListener(utt).score(state)
+				+ gamma*smoothed_observed_prod_dist(lg,state).score(utt)
+				- beta*cost(utt)))
+		return utt
+	    }})
+	    
+	} else {
+	    // speaker type is "plain"
+     	    return Infer({model: function() {
+     		var utt = utterancePrior(lg)
+     		factor(alpha * (literalListener(utt).score(state) - beta*cost(utt)))
+     		return utt
+     	    }})
+	}
     }
 };
 

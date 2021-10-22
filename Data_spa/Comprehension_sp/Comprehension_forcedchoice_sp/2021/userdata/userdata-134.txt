@@ -1,0 +1,8 @@
+134	consent	on
+134	workerID	5df79331451be551923ad906
+134	REMOTE_ADDR	45.164.236.21
+134	REMOTE_PORT	17601
+134	UNIQUE_ID	
+134	HTTP_USER_AGENT	Mozilla/5.0 (Linux; Android 9; YAL-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36
+134	starttime	Tue Dec 17 12:42:36 2019
+134	starttime	12/17/2019 12:42:48.525

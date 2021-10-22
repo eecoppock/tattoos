@@ -1,0 +1,8 @@
+240	consent	on
+240	workerID	61399a868248a4befc74d75d
+240	REMOTE_ADDR	187.190.79.137
+240	REMOTE_PORT	55296
+240	UNIQUE_ID	
+240	HTTP_USER_AGENT	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+240	starttime	Wed Sep 15 16:54:29 2021
+240	starttime	09/15/2021 16:54:49.881

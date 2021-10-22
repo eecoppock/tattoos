@@ -1,0 +1,8 @@
+102	consent	on
+102	workerID	56d862b84a9be1000a53b1ac
+102	REMOTE_ADDR	71.88.107.27
+102	REMOTE_PORT	39630
+102	UNIQUE_ID	
+102	HTTP_USER_AGENT	Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+102	starttime	Fri Dec 13 10:32:41 2019
+102	starttime	12/13/2019 10:32:47.835
